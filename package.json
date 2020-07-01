@@ -1,0 +1,44 @@
+{
+  "name": "finanzamt",
+  "version": "0.0.0",
+  "description": "Get information about a German tax office (Finanzamt)",
+  "keywords": [
+    "bzst",
+    "deutsch",
+    "deutschland",
+    "finanzamt",
+    "gemfa",
+    "german",
+    "germany",
+    "steuer",
+    "steuern",
+    "tax office",
+    "tax",
+    "taxes"
+  ],
+  "license": "UNLICENSED",
+  "repository": "kontist/finanzamt",
+  "author": "Kontist GmbH (kontist.com)",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "xo": "^0.32.0"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "private": true,
+  "xo": {
+    "envs": [
+      "mocha",
+      "node"
+    ],
+    "space": true,
+    "prettier": true
+  }
+}
