@@ -23,9 +23,13 @@
     "index.js"
   ],
   "scripts": {
+    "data:download": "node scripts/data-download.js",
     "test": "xo && mocha"
   },
   "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "download": "^8.0.0",
+    "got": "^11.3.0",
     "mocha": "^8.0.1",
     "xo": "^0.32.0"
   },
