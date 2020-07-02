@@ -1,0 +1,2418 @@
+[
+	{
+		"buFaNr": "1010",
+		"name": "Saarlouis"
+	},
+	{
+		"buFaNr": "1020",
+		"name": "Merzig"
+	},
+	{
+		"buFaNr": "1030",
+		"name": "Neunkirchen"
+	},
+	{
+		"buFaNr": "1040",
+		"name": "Saarbrücken Am Stadtgraben"
+	},
+	{
+		"buFaNr": "1055",
+		"name": "Saarbrücken MainzerStr"
+	},
+	{
+		"buFaNr": "1060",
+		"name": "St. Wendel"
+	},
+	{
+		"buFaNr": "1070",
+		"name": "Saarbrücken Am Stadtgraben - Außenst. Sulzbach"
+	},
+	{
+		"buFaNr": "1075",
+		"name": "Homburg"
+	},
+	{
+		"buFaNr": "1085",
+		"name": "Homburg - Außenst. St. Ingbert"
+	},
+	{
+		"buFaNr": "1090",
+		"name": "Saarbrücken Am Stadtgraben - Außenst. Völklingen"
+	},
+	{
+		"buFaNr": "1113",
+		"name": "Charlottenburg"
+	},
+	{
+		"buFaNr": "1114",
+		"name": "Friedrichshain-Kreuzberg"
+	},
+	{
+		"buFaNr": "1116",
+		"name": "Neukölln"
+	},
+	{
+		"buFaNr": "1117",
+		"name": "Reinickendorf"
+	},
+	{
+		"buFaNr": "1118",
+		"name": "Schöneberg"
+	},
+	{
+		"buFaNr": "1119",
+		"name": "Spandau"
+	},
+	{
+		"buFaNr": "1120",
+		"name": "Steglitz"
+	},
+	{
+		"buFaNr": "1121",
+		"name": "Tempelhof"
+	},
+	{
+		"buFaNr": "1123",
+		"name": "Wedding"
+	},
+	{
+		"buFaNr": "1124",
+		"name": "Wilmersdorf"
+	},
+	{
+		"buFaNr": "1125",
+		"name": "Zehlendorf"
+	},
+	{
+		"buFaNr": "1127",
+		"name": "für Körperschaften I"
+	},
+	{
+		"buFaNr": "1129",
+		"name": "für Körperschaften III"
+	},
+	{
+		"buFaNr": "1130",
+		"name": "für Körperschaften IV"
+	},
+	{
+		"buFaNr": "1131",
+		"name": "Prenzlauer Berg"
+	},
+	{
+		"buFaNr": "1132",
+		"name": "Lichtenberg"
+	},
+	{
+		"buFaNr": "1133",
+		"name": "Marzahn-Hellersdorf"
+	},
+	{
+		"buFaNr": "1134",
+		"name": "Mitte/Tiergarten"
+	},
+	{
+		"buFaNr": "1135",
+		"name": "Pankow/Weißensee"
+	},
+	{
+		"buFaNr": "1136",
+		"name": "Treptow-Köpenick"
+	},
+	{
+		"buFaNr": "1137",
+		"name": "für Körperschaften II"
+	},
+	{
+		"buFaNr": "1138",
+		"name": "für Fahndung und Strafsachen Berlin"
+	},
+	{
+		"buFaNr": "1191",
+		"name": "Technisches Finanzamt Berlin"
+	},
+	{
+		"buFaNr": "2111",
+		"name": "Bad Segeberg"
+	},
+	{
+		"buFaNr": "2113",
+		"name": "Elmshorn"
+	},
+	{
+		"buFaNr": "2115",
+		"name": "Flensburg"
+	},
+	{
+		"buFaNr": "2116",
+		"name": "Dithmarschen"
+	},
+	{
+		"buFaNr": "2117",
+		"name": "Nordfriesland"
+	},
+	{
+		"buFaNr": "2118",
+		"name": "Itzehoe"
+	},
+	{
+		"buFaNr": "2120",
+		"name": "Kiel"
+	},
+	{
+		"buFaNr": "2122",
+		"name": "Lübeck"
+	},
+	{
+		"buFaNr": "2123",
+		"name": "Dithmarschen"
+	},
+	{
+		"buFaNr": "2124",
+		"name": "Neumünster"
+	},
+	{
+		"buFaNr": "2125",
+		"name": "Ostholstein"
+	},
+	{
+		"buFaNr": "2126",
+		"name": "Plön"
+	},
+	{
+		"buFaNr": "2127",
+		"name": "Ratzeburg"
+	},
+	{
+		"buFaNr": "2128",
+		"name": "Rendsburg"
+	},
+	{
+		"buFaNr": "2129",
+		"name": "Eckernförde-Schleswig"
+	},
+	{
+		"buFaNr": "2130",
+		"name": "Stormarn"
+	},
+	{
+		"buFaNr": "2131",
+		"name": "Pinneberg"
+	},
+	{
+		"buFaNr": "2137",
+		"name": "Zentrale Prüfungsdienste"
+	},
+	{
+		"buFaNr": "2201",
+		"name": "Hamburg für Steuererhebung in Hamburg"
+	},
+	{
+		"buFaNr": "2210",
+		"name": "Hamburg für Verkehrst. und Grundbesitz"
+	},
+	{
+		"buFaNr": "2216",
+		"name": "Hamburg für Verkehrst. und Grundbesitz"
+	},
+	{
+		"buFaNr": "2217",
+		"name": "Hamburg-Nord"
+	},
+	{
+		"buFaNr": "2220",
+		"name": "Hamburg für Verkehrst. und Grundbesitz"
+	},
+	{
+		"buFaNr": "2227",
+		"name": "Hamburg für Großunternehmen in Hamburg"
+	},
+	{
+		"buFaNr": "2228",
+		"name": "Hamburg für Prüfungsd. und Strafsachen"
+	},
+	{
+		"buFaNr": "2230",
+		"name": "Hamburg für Verkehrst. und Grundbesitz"
+	},
+	{
+		"buFaNr": "2235",
+		"name": "Hamburg für Verkehrst. und Grundbesitz"
+	},
+	{
+		"buFaNr": "2241",
+		"name": "Hamburg-Altona"
+	},
+	{
+		"buFaNr": "2242",
+		"name": "Hamburg-Am Tierpark"
+	},
+	{
+		"buFaNr": "2243",
+		"name": "Hamburg-Barmbek-Uhlenhorst"
+	},
+	{
+		"buFaNr": "2244",
+		"name": "Hamburg-Ost"
+	},
+	{
+		"buFaNr": "2245",
+		"name": "Hamburg-Eimsbüttel"
+	},
+	{
+		"buFaNr": "2246",
+		"name": "Hamburg-Hansa"
+	},
+	{
+		"buFaNr": "2247",
+		"name": "Hamburg-Harburg"
+	},
+	{
+		"buFaNr": "2248",
+		"name": "Hamburg-Mitte"
+	},
+	{
+		"buFaNr": "2249",
+		"name": "Hamburg-Nord"
+	},
+	{
+		"buFaNr": "2250",
+		"name": "Hamburg-Oberalster"
+	},
+	{
+		"buFaNr": "2251",
+		"name": "Hamburg-Ost"
+	},
+	{
+		"buFaNr": "2312",
+		"name": "Bad Gandersheim"
+	},
+	{
+		"buFaNr": "2313",
+		"name": "Braunschweig-Altewiekring"
+	},
+	{
+		"buFaNr": "2314",
+		"name": "Braunschweig-Wilhelmstr."
+	},
+	{
+		"buFaNr": "2315",
+		"name": "Buchholz in der Nordheide"
+	},
+	{
+		"buFaNr": "2316",
+		"name": "Burgdorf"
+	},
+	{
+		"buFaNr": "2317",
+		"name": "Celle"
+	},
+	{
+		"buFaNr": "2318",
+		"name": "Cuxhaven"
+	},
+	{
+		"buFaNr": "2319",
+		"name": "Gifhorn"
+	},
+	{
+		"buFaNr": "2320",
+		"name": "Göttingen"
+	},
+	{
+		"buFaNr": "2321",
+		"name": "Goslar"
+	},
+	{
+		"buFaNr": "2322",
+		"name": "Hameln"
+	},
+	{
+		"buFaNr": "2323",
+		"name": "Hannover-Land I"
+	},
+	{
+		"buFaNr": "2324",
+		"name": "Hannover-Mitte"
+	},
+	{
+		"buFaNr": "2325",
+		"name": "Hannover-Nord"
+	},
+	{
+		"buFaNr": "2326",
+		"name": "Hannover-Süd"
+	},
+	{
+		"buFaNr": "2327",
+		"name": "Hannover-Land II"
+	},
+	{
+		"buFaNr": "2328",
+		"name": "Helmstedt"
+	},
+	{
+		"buFaNr": "2329",
+		"name": "Herzberg am Harz"
+	},
+	{
+		"buFaNr": "2330",
+		"name": "Hildesheim-Alfeld"
+	},
+	{
+		"buFaNr": "2331",
+		"name": "Holzminden"
+	},
+	{
+		"buFaNr": "2333",
+		"name": "Lüneburg"
+	},
+	{
+		"buFaNr": "2334",
+		"name": "Nienburg/Weser"
+	},
+	{
+		"buFaNr": "2335",
+		"name": "Northeim"
+	},
+	{
+		"buFaNr": "2336",
+		"name": "Osterholz-Scharmbeck"
+	},
+	{
+		"buFaNr": "2338",
+		"name": "Peine"
+	},
+	{
+		"buFaNr": "2340",
+		"name": "Rotenburg (Wümme)"
+	},
+	{
+		"buFaNr": "2341",
+		"name": "Soltau"
+	},
+	{
+		"buFaNr": "2342",
+		"name": "Hannover-Land I Außenstelle Springe"
+	},
+	{
+		"buFaNr": "2343",
+		"name": "Stade"
+	},
+	{
+		"buFaNr": "2344",
+		"name": "Stadthagen"
+	},
+	{
+		"buFaNr": "2345",
+		"name": "Sulingen"
+	},
+	{
+		"buFaNr": "2346",
+		"name": "Syke"
+	},
+	{
+		"buFaNr": "2347",
+		"name": "Uelzen-Lüchow"
+	},
+	{
+		"buFaNr": "2348",
+		"name": "Verden (Aller)"
+	},
+	{
+		"buFaNr": "2349",
+		"name": "Wesermünde"
+	},
+	{
+		"buFaNr": "2350",
+		"name": "Winsen (Luhe)"
+	},
+	{
+		"buFaNr": "2351",
+		"name": "Wolfenbüttel"
+	},
+	{
+		"buFaNr": "2352",
+		"name": "Zeven"
+	},
+	{
+		"buFaNr": "2353",
+		"name": "Papenburg"
+	},
+	{
+		"buFaNr": "2354",
+		"name": "Aurich"
+	},
+	{
+		"buFaNr": "2355",
+		"name": "Bad Bentheim"
+	},
+	{
+		"buFaNr": "2356",
+		"name": "Cloppenburg"
+	},
+	{
+		"buFaNr": "2357",
+		"name": "Delmenhorst"
+	},
+	{
+		"buFaNr": "2358",
+		"name": "Emden"
+	},
+	{
+		"buFaNr": "2360",
+		"name": "Leer (Ostfriesland)"
+	},
+	{
+		"buFaNr": "2361",
+		"name": "Lingen (Ems)"
+	},
+	{
+		"buFaNr": "2362",
+		"name": "Norden"
+	},
+	{
+		"buFaNr": "2363",
+		"name": "Nordenham"
+	},
+	{
+		"buFaNr": "2364",
+		"name": "Oldenburg (Oldenburg)"
+	},
+	{
+		"buFaNr": "2365",
+		"name": "Osnabrück-Land"
+	},
+	{
+		"buFaNr": "2366",
+		"name": "Osnabrück-Stadt"
+	},
+	{
+		"buFaNr": "2367",
+		"name": "Quakenbrück"
+	},
+	{
+		"buFaNr": "2368",
+		"name": "Vechta"
+	},
+	{
+		"buFaNr": "2369",
+		"name": "Westerstede"
+	},
+	{
+		"buFaNr": "2370",
+		"name": "Wilhelmshaven"
+	},
+	{
+		"buFaNr": "2371",
+		"name": "Wittmund"
+	},
+	{
+		"buFaNr": "2380",
+		"name": "Braunschweig für Großbetriebsprüfung"
+	},
+	{
+		"buFaNr": "2381",
+		"name": "Göttingen für Großbetriebsprüfung"
+	},
+	{
+		"buFaNr": "2382",
+		"name": "Hannover für Großbetriebsprüfung"
+	},
+	{
+		"buFaNr": "2384",
+		"name": "Stade für Großbetriebsprüfung"
+	},
+	{
+		"buFaNr": "2385",
+		"name": "Oldenburg für Großbetriebsprüfung"
+	},
+	{
+		"buFaNr": "2386",
+		"name": "Osnabrück für Großbetriebsprüfung"
+	},
+	{
+		"buFaNr": "2390",
+		"name": "für Fahndung und Strafsachen Braunschweig"
+	},
+	{
+		"buFaNr": "2391",
+		"name": "Hannover für Fahndung und Strafsachen"
+	},
+	{
+		"buFaNr": "2392",
+		"name": "Lüneburg für Fahndung und Strafsachen"
+	},
+	{
+		"buFaNr": "2393",
+		"name": "Oldenburg für Fahndung und Strafsachen"
+	},
+	{
+		"buFaNr": "2457",
+		"name": "Bremerhaven Bewertung Bremen"
+	},
+	{
+		"buFaNr": "2460",
+		"name": "Bremen"
+	},
+	{
+		"buFaNr": "2471",
+		"name": "Landeshauptkasse Bremen"
+	},
+	{
+		"buFaNr": "2475",
+		"name": "Bremerhaven"
+	},
+	{
+		"buFaNr": "2477",
+		"name": "Bremerhaven Bewertung"
+	},
+	{
+		"buFaNr": "2478",
+		"name": "Bremen für Außenprüfung"
+	},
+	{
+		"buFaNr": "2485",
+		"name": "Bremerhaven Arbeitnehmerbereich"
+	},
+	{
+		"buFaNr": "2601",
+		"name": "Alsfeld-Lauterbach Verwaltungsstelle Alsfeld"
+	},
+	{
+		"buFaNr": "2602",
+		"name": "Hersfeld-Rotenburg Verwaltungsstelle Bad Hersfeld"
+	},
+	{
+		"buFaNr": "2603",
+		"name": "Bad Homburg vor der Höhe"
+	},
+	{
+		"buFaNr": "2604",
+		"name": "Rheingau-Taunus Verwaltungsst. Bad Schwalbach"
+	},
+	{
+		"buFaNr": "2605",
+		"name": "Bensheim"
+	},
+	{
+		"buFaNr": "2606",
+		"name": "Marburg-Biedenkopf Verwaltungsstelle Biedenkopf"
+	},
+	{
+		"buFaNr": "2607",
+		"name": "Darmstadt"
+	},
+	{
+		"buFaNr": "2608",
+		"name": "Dieburg"
+	},
+	{
+		"buFaNr": "2609",
+		"name": "Dillenburg"
+	},
+	{
+		"buFaNr": "2610",
+		"name": "Eschwege-Witzenhausen Verwaltungsstelle Eschwege"
+	},
+	{
+		"buFaNr": "2611",
+		"name": "Korbach-Frankenberg Verwaltungsstelle Frankenberg"
+	},
+	{
+		"buFaNr": "2612",
+		"name": "Frankfurt am Main II"
+	},
+	{
+		"buFaNr": "2613",
+		"name": "Frankfurt am Main I"
+	},
+	{
+		"buFaNr": "2614",
+		"name": "Frankfurt am Main IV"
+	},
+	{
+		"buFaNr": "2615",
+		"name": "Frankfurt/M. V-Höchst Verwaltungsstelle Höchst"
+	},
+	{
+		"buFaNr": "2616",
+		"name": "Friedberg (Hessen)"
+	},
+	{
+		"buFaNr": "2617",
+		"name": "Bensheim Außenstelle Fürth"
+	},
+	{
+		"buFaNr": "2618",
+		"name": "Fulda"
+	},
+	{
+		"buFaNr": "2619",
+		"name": "Gelnhausen"
+	},
+	{
+		"buFaNr": "2620",
+		"name": "Gießen"
+	},
+	{
+		"buFaNr": "2621",
+		"name": "Groß-Gerau"
+	},
+	{
+		"buFaNr": "2622",
+		"name": "Hanau"
+	},
+	{
+		"buFaNr": "2623",
+		"name": "Kassel II-Hofgeismar Verwaltungsstelle Hofgeismar"
+	},
+	{
+		"buFaNr": "2624",
+		"name": "Schwalm-Eder Verwaltungsstelle Fritzlar"
+	},
+	{
+		"buFaNr": "2625",
+		"name": "Kassel I"
+	},
+	{
+		"buFaNr": "2626",
+		"name": "Kassel II-Hofgeismar Verwaltungsstelle Kassel"
+	},
+	{
+		"buFaNr": "2627",
+		"name": "Korbach-Frankenberg Verwaltungsstelle Korbach"
+	},
+	{
+		"buFaNr": "2628",
+		"name": "Langen"
+	},
+	{
+		"buFaNr": "2629",
+		"name": "Alsfeld-Lauterbach Verwaltungsstelle Lauterbach"
+	},
+	{
+		"buFaNr": "2630",
+		"name": "Limburg-Weilburg Verwaltungsstelle Limburg"
+	},
+	{
+		"buFaNr": "2631",
+		"name": "Marburg-Biedenkopf Verwaltungsstelle Marburg"
+	},
+	{
+		"buFaNr": "2632",
+		"name": "Schwalm-Eder Verwaltungsstelle Melsungen"
+	},
+	{
+		"buFaNr": "2633",
+		"name": "Michelstadt"
+	},
+	{
+		"buFaNr": "2634",
+		"name": "Nidda"
+	},
+	{
+		"buFaNr": "2635",
+		"name": "Offenbach am Main I"
+	},
+	{
+		"buFaNr": "2636",
+		"name": "Hersfeld-Rotenburg Verwaltungsstelle Rotenburg"
+	},
+	{
+		"buFaNr": "2637",
+		"name": "Rheingau-Taunus Verwaltungsstelle Rüdesheim"
+	},
+	{
+		"buFaNr": "2638",
+		"name": "Limburg-Weilburg Verwaltungsstelle Weilburg"
+	},
+	{
+		"buFaNr": "2639",
+		"name": "Wetzlar"
+	},
+	{
+		"buFaNr": "2640",
+		"name": "Wiesbaden I"
+	},
+	{
+		"buFaNr": "2641",
+		"name": "Eschwege-Witzenhausen Verwaltungsstelle Witzenhausen"
+	},
+	{
+		"buFaNr": "2642",
+		"name": "Schwalm-Eder Verwaltungsstelle Schwalmstadt"
+	},
+	{
+		"buFaNr": "2643",
+		"name": "Wiesbaden II"
+	},
+	{
+		"buFaNr": "2644",
+		"name": "Offenbach am Main II"
+	},
+	{
+		"buFaNr": "2645",
+		"name": "Frankfurt am Main III"
+	},
+	{
+		"buFaNr": "2646",
+		"name": "Hofheim am Taunus"
+	},
+	{
+		"buFaNr": "2647",
+		"name": "Frankfurt am Main V-Höchst Verwaltungsstelle Frankfurt"
+	},
+	{
+		"buFaNr": "2701",
+		"name": "Bad Neuenahr-Ahrweiler"
+	},
+	{
+		"buFaNr": "2702",
+		"name": "Altenkirchen-Hachenburg"
+	},
+	{
+		"buFaNr": "2706",
+		"name": "Bad Kreuznach"
+	},
+	{
+		"buFaNr": "2708",
+		"name": "Bingen-Alzey"
+	},
+	{
+		"buFaNr": "2709",
+		"name": "Idar-Oberstein"
+	},
+	{
+		"buFaNr": "2710",
+		"name": "Bitburg-Prüm"
+	},
+	{
+		"buFaNr": "2713",
+		"name": "Landesfinanzkasse Daun"
+	},
+	{
+		"buFaNr": "2714",
+		"name": "Montabaur-Diez Aussenstelle Diez"
+	},
+	{
+		"buFaNr": "2718",
+		"name": "Altenkirchen-Hachenburg Aussenstelle Hachenburg"
+	},
+	{
+		"buFaNr": "2719",
+		"name": "Kaiserslautern"
+	},
+	{
+		"buFaNr": "2722",
+		"name": "Koblenz"
+	},
+	{
+		"buFaNr": "2723",
+		"name": "Kusel-Landstuhl"
+	},
+	{
+		"buFaNr": "2724",
+		"name": "Landau"
+	},
+	{
+		"buFaNr": "2725",
+		"name": "Kusel-Landstuhl Aussenstelle Landstuhl"
+	},
+	{
+		"buFaNr": "2726",
+		"name": "Mainz"
+	},
+	{
+		"buFaNr": "2727",
+		"name": "Ludwigshafen"
+	},
+	{
+		"buFaNr": "2729",
+		"name": "Mayen"
+	},
+	{
+		"buFaNr": "2730",
+		"name": "Montabaur-Diez"
+	},
+	{
+		"buFaNr": "2731",
+		"name": "Neustadt"
+	},
+	{
+		"buFaNr": "2732",
+		"name": "Neuwied"
+	},
+	{
+		"buFaNr": "2734",
+		"name": "Kusel-Landstuhl für Erb/Schenk.St. Saarland"
+	},
+	{
+		"buFaNr": "2735",
+		"name": "Pirmasens"
+	},
+	{
+		"buFaNr": "2736",
+		"name": "Bitburg-Prüm Aussenstelle Prüm"
+	},
+	{
+		"buFaNr": "2740",
+		"name": "Simmern-Zell"
+	},
+	{
+		"buFaNr": "2741",
+		"name": "Speyer-Germersheim"
+	},
+	{
+		"buFaNr": "2742",
+		"name": "Trier"
+	},
+	{
+		"buFaNr": "2743",
+		"name": "Wittlich"
+	},
+	{
+		"buFaNr": "2744",
+		"name": "Worms-Kirchheimbolanden"
+	},
+	{
+		"buFaNr": "2745",
+		"name": "Simmern-Zell Aussenstelle Zell"
+	},
+	{
+		"buFaNr": "2801",
+		"name": "Offenburg Außenstelle Achern"
+	},
+	{
+		"buFaNr": "2804",
+		"name": "Villingen-Schwenningen Außenstelle Donaueschingen"
+	},
+	{
+		"buFaNr": "2805",
+		"name": "Emmendingen"
+	},
+	{
+		"buFaNr": "2806",
+		"name": "Freiburg-Stadt"
+	},
+	{
+		"buFaNr": "2807",
+		"name": "Freiburg-Land"
+	},
+	{
+		"buFaNr": "2808",
+		"name": "Offenburg Außenstelle Kehl"
+	},
+	{
+		"buFaNr": "2809",
+		"name": "Konstanz"
+	},
+	{
+		"buFaNr": "2810",
+		"name": "Lahr"
+	},
+	{
+		"buFaNr": "2811",
+		"name": "Lörrach"
+	},
+	{
+		"buFaNr": "2812",
+		"name": "Müllheim"
+	},
+	{
+		"buFaNr": "2813",
+		"name": "Freiburg-Land Außenstelle Titisee-Neustadt"
+	},
+	{
+		"buFaNr": "2814",
+		"name": "Offenburg"
+	},
+	{
+		"buFaNr": "2815",
+		"name": "Rottweil Außenstelle Oberndorf"
+	},
+	{
+		"buFaNr": "2816",
+		"name": "Waldshut-Tiengen Außenstelle Bad Säckingen"
+	},
+	{
+		"buFaNr": "2818",
+		"name": "Singen"
+	},
+	{
+		"buFaNr": "2819",
+		"name": "Rottweil"
+	},
+	{
+		"buFaNr": "2820",
+		"name": "Waldshut-Tiengen"
+	},
+	{
+		"buFaNr": "2821",
+		"name": "Tuttlingen"
+	},
+	{
+		"buFaNr": "2822",
+		"name": "Villingen-Schwenningen"
+	},
+	{
+		"buFaNr": "2823",
+		"name": "Offenburg Außenstelle Wolfach"
+	},
+	{
+		"buFaNr": "2830",
+		"name": "Bruchsal"
+	},
+	{
+		"buFaNr": "2831",
+		"name": "Ettlingen"
+	},
+	{
+		"buFaNr": "2832",
+		"name": "Heidelberg"
+	},
+	{
+		"buFaNr": "2833",
+		"name": "Baden-Baden"
+	},
+	{
+		"buFaNr": "2834",
+		"name": "Karlsruhe-Durlach"
+	},
+	{
+		"buFaNr": "2835",
+		"name": "Karlsruhe-Stadt"
+	},
+	{
+		"buFaNr": "2836",
+		"name": "Baden-Baden Außenstelle Bühl"
+	},
+	{
+		"buFaNr": "2837",
+		"name": "Mannheim-Neckarstadt"
+	},
+	{
+		"buFaNr": "2838",
+		"name": "Mannheim-Stadt"
+	},
+	{
+		"buFaNr": "2839",
+		"name": "Rastatt"
+	},
+	{
+		"buFaNr": "2840",
+		"name": "Mosbach"
+	},
+	{
+		"buFaNr": "2841",
+		"name": "Pforzheim"
+	},
+	{
+		"buFaNr": "2842",
+		"name": "Freudenstadt"
+	},
+	{
+		"buFaNr": "2843",
+		"name": "Schwetzingen"
+	},
+	{
+		"buFaNr": "2844",
+		"name": "Sinsheim"
+	},
+	{
+		"buFaNr": "2845",
+		"name": "Calw"
+	},
+	{
+		"buFaNr": "2846",
+		"name": "Mosbach Außenstelle Walldürn"
+	},
+	{
+		"buFaNr": "2847",
+		"name": "Weinheim"
+	},
+	{
+		"buFaNr": "2848",
+		"name": "Mühlacker"
+	},
+	{
+		"buFaNr": "2849",
+		"name": "Pforzheim Außenstelle Neuenbürg"
+	},
+	{
+		"buFaNr": "2850",
+		"name": "Aalen"
+	},
+	{
+		"buFaNr": "2851",
+		"name": "Backnang"
+	},
+	{
+		"buFaNr": "2852",
+		"name": "Tauberbischofsheim Außenstelle Bad Mergentheim"
+	},
+	{
+		"buFaNr": "2853",
+		"name": "Balingen"
+	},
+	{
+		"buFaNr": "2854",
+		"name": "Biberach"
+	},
+	{
+		"buFaNr": "2855",
+		"name": "Bietigheim-Bissingen"
+	},
+	{
+		"buFaNr": "2856",
+		"name": "Böblingen"
+	},
+	{
+		"buFaNr": "2857",
+		"name": "Schwäbisch Hall Außenstelle Crailsheim"
+	},
+	{
+		"buFaNr": "2858",
+		"name": "Ehingen"
+	},
+	{
+		"buFaNr": "2859",
+		"name": "Esslingen"
+	},
+	{
+		"buFaNr": "2861",
+		"name": "Friedrichshafen"
+	},
+	{
+		"buFaNr": "2862",
+		"name": "Göppingen Außenstelle Geislingen"
+	},
+	{
+		"buFaNr": "2863",
+		"name": "Göppingen"
+	},
+	{
+		"buFaNr": "2864",
+		"name": "Heidenheim"
+	},
+	{
+		"buFaNr": "2865",
+		"name": "Heilbronn"
+	},
+	{
+		"buFaNr": "2869",
+		"name": "Nürtingen Außenstelle Kirchheim"
+	},
+	{
+		"buFaNr": "2870",
+		"name": "Leonberg"
+	},
+	{
+		"buFaNr": "2871",
+		"name": "Ludwigsburg"
+	},
+	{
+		"buFaNr": "2874",
+		"name": "Nürtingen"
+	},
+	{
+		"buFaNr": "2876",
+		"name": "Öhringen"
+	},
+	{
+		"buFaNr": "2877",
+		"name": "Ravensburg"
+	},
+	{
+		"buFaNr": "2878",
+		"name": "Reutlingen"
+	},
+	{
+		"buFaNr": "2879",
+		"name": "Biberach Außenstelle Riedlingen"
+	},
+	{
+		"buFaNr": "2880",
+		"name": "Tauberbischofsheim"
+	},
+	{
+		"buFaNr": "2881",
+		"name": "Sigmaringen Außenstelle Bad Saulgau"
+	},
+	{
+		"buFaNr": "2882",
+		"name": "Schorndorf"
+	},
+	{
+		"buFaNr": "2883",
+		"name": "Schwäbisch Gmünd"
+	},
+	{
+		"buFaNr": "2884",
+		"name": "Schwäbisch Hall"
+	},
+	{
+		"buFaNr": "2885",
+		"name": "Sigmaringen"
+	},
+	{
+		"buFaNr": "2886",
+		"name": "Tübingen"
+	},
+	{
+		"buFaNr": "2887",
+		"name": "Überlingen (Bodensee)"
+	},
+	{
+		"buFaNr": "2888",
+		"name": "Ulm"
+	},
+	{
+		"buFaNr": "2889",
+		"name": "Bad Urach"
+	},
+	{
+		"buFaNr": "2890",
+		"name": "Waiblingen"
+	},
+	{
+		"buFaNr": "2891",
+		"name": "Wangen"
+	},
+	{
+		"buFaNr": "2892",
+		"name": "Stuttgart IV"
+	},
+	{
+		"buFaNr": "2893",
+		"name": "Stuttgart I"
+	},
+	{
+		"buFaNr": "2895",
+		"name": "Stuttgart II"
+	},
+	{
+		"buFaNr": "2896",
+		"name": "Stuttgart Zentrales Konzernprüfungsamt"
+	},
+	{
+		"buFaNr": "2897",
+		"name": "Stuttgart III"
+	},
+	{
+		"buFaNr": "2899",
+		"name": "Stuttgart-Körpersch."
+	},
+	{
+		"buFaNr": "3046",
+		"name": "Potsdam"
+	},
+	{
+		"buFaNr": "3048",
+		"name": "Brandenburg"
+	},
+	{
+		"buFaNr": "3049",
+		"name": "Königs Wusterhausen"
+	},
+	{
+		"buFaNr": "3050",
+		"name": "Luckenwalde"
+	},
+	{
+		"buFaNr": "3051",
+		"name": "Nauen"
+	},
+	{
+		"buFaNr": "3052",
+		"name": "Kyritz"
+	},
+	{
+		"buFaNr": "3053",
+		"name": "Oranienburg"
+	},
+	{
+		"buFaNr": "3056",
+		"name": "Cottbus"
+	},
+	{
+		"buFaNr": "3057",
+		"name": "Calau"
+	},
+	{
+		"buFaNr": "3061",
+		"name": "Frankfurt (Oder)"
+	},
+	{
+		"buFaNr": "3062",
+		"name": "Angermünde"
+	},
+	{
+		"buFaNr": "3064",
+		"name": "Strausberg"
+	},
+	{
+		"buFaNr": "3065",
+		"name": "Eberswalde"
+	},
+	{
+		"buFaNr": "3102",
+		"name": "Magdeburg"
+	},
+	{
+		"buFaNr": "3103",
+		"name": "Genthin"
+	},
+	{
+		"buFaNr": "3105",
+		"name": "Haldensleben"
+	},
+	{
+		"buFaNr": "3106",
+		"name": "Salzwedel"
+	},
+	{
+		"buFaNr": "3107",
+		"name": "Staßfurt"
+	},
+	{
+		"buFaNr": "3108",
+		"name": "Stendal"
+	},
+	{
+		"buFaNr": "3110",
+		"name": "Halle (Saale)"
+	},
+	{
+		"buFaNr": "3112",
+		"name": "Merseburg"
+	},
+	{
+		"buFaNr": "3114",
+		"name": "Dessau-Roßlau"
+	},
+	{
+		"buFaNr": "3115",
+		"name": "Wittenberg"
+	},
+	{
+		"buFaNr": "3116",
+		"name": "Bitterfeld-Wolfen"
+	},
+	{
+		"buFaNr": "3117",
+		"name": "Quedlinburg"
+	},
+	{
+		"buFaNr": "3118",
+		"name": "Eisleben"
+	},
+	{
+		"buFaNr": "3119",
+		"name": "Naumburg"
+	},
+	{
+		"buFaNr": "3202",
+		"name": "Dresden-Nord"
+	},
+	{
+		"buFaNr": "3203",
+		"name": "Dresden-Süd"
+	},
+	{
+		"buFaNr": "3204",
+		"name": "Bautzen"
+	},
+	{
+		"buFaNr": "3207",
+		"name": "Görlitz"
+	},
+	{
+		"buFaNr": "3208",
+		"name": "Löbau"
+	},
+	{
+		"buFaNr": "3209",
+		"name": "Meißen"
+	},
+	{
+		"buFaNr": "3210",
+		"name": "Pirna"
+	},
+	{
+		"buFaNr": "3213",
+		"name": "Hoyerswerda"
+	},
+	{
+		"buFaNr": "3214",
+		"name": "Chemnitz-Süd"
+	},
+	{
+		"buFaNr": "3215",
+		"name": "Chemnitz-Mitte"
+	},
+	{
+		"buFaNr": "3217",
+		"name": "Annaberg"
+	},
+	{
+		"buFaNr": "3218",
+		"name": "Schwarzenberg"
+	},
+	{
+		"buFaNr": "3220",
+		"name": "Freiberg"
+	},
+	{
+		"buFaNr": "3222",
+		"name": "Mittweida"
+	},
+	{
+		"buFaNr": "3223",
+		"name": "Plauen"
+	},
+	{
+		"buFaNr": "3224",
+		"name": "Stollberg"
+	},
+	{
+		"buFaNr": "3227",
+		"name": "Zwickau"
+	},
+	{
+		"buFaNr": "3228",
+		"name": "Zschopau"
+	},
+	{
+		"buFaNr": "3231",
+		"name": "Leipzig II"
+	},
+	{
+		"buFaNr": "3232",
+		"name": "Leipzig I"
+	},
+	{
+		"buFaNr": "3236",
+		"name": "Döbeln"
+	},
+	{
+		"buFaNr": "3237",
+		"name": "Eilenburg"
+	},
+	{
+		"buFaNr": "3238",
+		"name": "Grimma"
+	},
+	{
+		"buFaNr": "3239",
+		"name": "Oschatz"
+	},
+	{
+		"buFaNr": "4069",
+		"name": "Neubrandenburg - RAB"
+	},
+	{
+		"buFaNr": "4070",
+		"name": "Neubrandenburg - RIA (Rentenempfänger im Ausland)"
+	},
+	{
+		"buFaNr": "4072",
+		"name": "Neubrandenburg"
+	},
+	{
+		"buFaNr": "4075",
+		"name": "Waren"
+	},
+	{
+		"buFaNr": "4079",
+		"name": "Rostock"
+	},
+	{
+		"buFaNr": "4080",
+		"name": "Wismar"
+	},
+	{
+		"buFaNr": "4081",
+		"name": "Ribnitz-Damgarten"
+	},
+	{
+		"buFaNr": "4082",
+		"name": "Stralsund"
+	},
+	{
+		"buFaNr": "4084",
+		"name": "Greifswald"
+	},
+	{
+		"buFaNr": "4086",
+		"name": "Güstrow"
+	},
+	{
+		"buFaNr": "4087",
+		"name": "Hagenow"
+	},
+	{
+		"buFaNr": "4090",
+		"name": "Schwerin"
+	},
+	{
+		"buFaNr": "4151",
+		"name": "Erfurt"
+	},
+	{
+		"buFaNr": "4154",
+		"name": "Ilmenau"
+	},
+	{
+		"buFaNr": "4155",
+		"name": "Eisenach"
+	},
+	{
+		"buFaNr": "4156",
+		"name": "Gotha"
+	},
+	{
+		"buFaNr": "4157",
+		"name": "Mühlhausen"
+	},
+	{
+		"buFaNr": "4159",
+		"name": "Sondershausen"
+	},
+	{
+		"buFaNr": "4161",
+		"name": "Gera"
+	},
+	{
+		"buFaNr": "4162",
+		"name": "Jena"
+	},
+	{
+		"buFaNr": "4165",
+		"name": "Pößneck"
+	},
+	{
+		"buFaNr": "4166",
+		"name": "Altenburg"
+	},
+	{
+		"buFaNr": "4170",
+		"name": "Sonneberg"
+	},
+	{
+		"buFaNr": "4171",
+		"name": "Suhl"
+	},
+	{
+		"buFaNr": "5101",
+		"name": "Dinslaken"
+	},
+	{
+		"buFaNr": "5102",
+		"name": "Viersen"
+	},
+	{
+		"buFaNr": "5103",
+		"name": "Düsseldorf-Altstadt"
+	},
+	{
+		"buFaNr": "5105",
+		"name": "Düsseldorf-Nord"
+	},
+	{
+		"buFaNr": "5106",
+		"name": "Düsseldorf-Süd"
+	},
+	{
+		"buFaNr": "5107",
+		"name": "Duisburg-Hamborn"
+	},
+	{
+		"buFaNr": "5109",
+		"name": "Duisburg-Süd"
+	},
+	{
+		"buFaNr": "5111",
+		"name": "Essen-NordOst"
+	},
+	{
+		"buFaNr": "5112",
+		"name": "Essen-Süd"
+	},
+	{
+		"buFaNr": "5113",
+		"name": "Geldern"
+	},
+	{
+		"buFaNr": "5114",
+		"name": "Grevenbroich"
+	},
+	{
+		"buFaNr": "5115",
+		"name": "Kempen"
+	},
+	{
+		"buFaNr": "5116",
+		"name": "Kleve"
+	},
+	{
+		"buFaNr": "5117",
+		"name": "Krefeld"
+	},
+	{
+		"buFaNr": "5119",
+		"name": "Kamp-Lintfort"
+	},
+	{
+		"buFaNr": "5120",
+		"name": "Mülheim an der Ruhr"
+	},
+	{
+		"buFaNr": "5121",
+		"name": "Mönchengladbach"
+	},
+	{
+		"buFaNr": "5122",
+		"name": "Neuss"
+	},
+	{
+		"buFaNr": "5123",
+		"name": "Oberhausen-Nord"
+	},
+	{
+		"buFaNr": "5124",
+		"name": "Oberhausen-Süd"
+	},
+	{
+		"buFaNr": "5126",
+		"name": "Remscheid"
+	},
+	{
+		"buFaNr": "5128",
+		"name": "Solingen"
+	},
+	{
+		"buFaNr": "5130",
+		"name": "Wesel"
+	},
+	{
+		"buFaNr": "5131",
+		"name": "Wuppertal-Barmen"
+	},
+	{
+		"buFaNr": "5132",
+		"name": "Wuppertal-Elberfeld"
+	},
+	{
+		"buFaNr": "5133",
+		"name": "Düsseldorf-Mitte"
+	},
+	{
+		"buFaNr": "5134",
+		"name": "Duisburg-West"
+	},
+	{
+		"buFaNr": "5135",
+		"name": "Hilden"
+	},
+	{
+		"buFaNr": "5139",
+		"name": "Velbert"
+	},
+	{
+		"buFaNr": "5147",
+		"name": "Düsseldorf-Mettmann"
+	},
+	{
+		"buFaNr": "5149",
+		"name": "Rechenzentrum d. FinVerw NRW"
+	},
+	{
+		"buFaNr": "5170",
+		"name": "Düsseldorf I für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5171",
+		"name": "Düsseldorf II für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5172",
+		"name": "Essen für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5173",
+		"name": "Krefeld für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5174",
+		"name": "Bergisches Land für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5176",
+		"name": "Mönchengladbach für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5181",
+		"name": "Düsseldorf f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "5182",
+		"name": "Essen f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "5183",
+		"name": "Wuppertal f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "5201",
+		"name": "Aachen-Stadt"
+	},
+	{
+		"buFaNr": "5202",
+		"name": "Aachen-Kreis"
+	},
+	{
+		"buFaNr": "5203",
+		"name": "Bergheim"
+	},
+	{
+		"buFaNr": "5204",
+		"name": "Bergisch Gladbach"
+	},
+	{
+		"buFaNr": "5205",
+		"name": "Bonn-Innenstadt"
+	},
+	{
+		"buFaNr": "5206",
+		"name": "Bonn-Außenstadt"
+	},
+	{
+		"buFaNr": "5207",
+		"name": "Düren"
+	},
+	{
+		"buFaNr": "5208",
+		"name": "Erkelenz"
+	},
+	{
+		"buFaNr": "5209",
+		"name": "Euskirchen"
+	},
+	{
+		"buFaNr": "5210",
+		"name": "Geilenkirchen"
+	},
+	{
+		"buFaNr": "5211",
+		"name": "Schleiden"
+	},
+	{
+		"buFaNr": "5212",
+		"name": "Gummersbach"
+	},
+	{
+		"buFaNr": "5213",
+		"name": "Jülich"
+	},
+	{
+		"buFaNr": "5214",
+		"name": "Köln-Altstadt"
+	},
+	{
+		"buFaNr": "5215",
+		"name": "Köln-Mitte"
+	},
+	{
+		"buFaNr": "5216",
+		"name": "Köln-Porz"
+	},
+	{
+		"buFaNr": "5217",
+		"name": "Köln-Nord"
+	},
+	{
+		"buFaNr": "5218",
+		"name": "Köln-Ost"
+	},
+	{
+		"buFaNr": "5219",
+		"name": "Köln-Süd"
+	},
+	{
+		"buFaNr": "5220",
+		"name": "Siegburg"
+	},
+	{
+		"buFaNr": "5221",
+		"name": "Wipperfürth"
+	},
+	{
+		"buFaNr": "5222",
+		"name": "Sankt Augustin"
+	},
+	{
+		"buFaNr": "5223",
+		"name": "Köln-West"
+	},
+	{
+		"buFaNr": "5224",
+		"name": "Brühl"
+	},
+	{
+		"buFaNr": "5230",
+		"name": "Leverkusen"
+	},
+	{
+		"buFaNr": "5270",
+		"name": "Köln für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5271",
+		"name": "Aachen für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5272",
+		"name": "Bonn für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5281",
+		"name": "Aachen f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "5282",
+		"name": "Bonn f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "5283",
+		"name": "Köln f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "5301",
+		"name": "Ahaus"
+	},
+	{
+		"buFaNr": "5302",
+		"name": "Altena"
+	},
+	{
+		"buFaNr": "5303",
+		"name": "Arnsberg"
+	},
+	{
+		"buFaNr": "5304",
+		"name": "Beckum"
+	},
+	{
+		"buFaNr": "5305",
+		"name": "Bielefeld-Innenstadt"
+	},
+	{
+		"buFaNr": "5306",
+		"name": "Bochum-Mitte"
+	},
+	{
+		"buFaNr": "5307",
+		"name": "Borken"
+	},
+	{
+		"buFaNr": "5308",
+		"name": "Bottrop"
+	},
+	{
+		"buFaNr": "5309",
+		"name": "Brilon"
+	},
+	{
+		"buFaNr": "5310",
+		"name": "Bünde"
+	},
+	{
+		"buFaNr": "5311",
+		"name": "Steinfurt"
+	},
+	{
+		"buFaNr": "5312",
+		"name": "Coesfeld"
+	},
+	{
+		"buFaNr": "5313",
+		"name": "Detmold"
+	},
+	{
+		"buFaNr": "5314",
+		"name": "Dortmund-West"
+	},
+	{
+		"buFaNr": "5315",
+		"name": "Dortmund-Hörde"
+	},
+	{
+		"buFaNr": "5316",
+		"name": "Dortmund-Unna"
+	},
+	{
+		"buFaNr": "5317",
+		"name": "Dortmund-Ost"
+	},
+	{
+		"buFaNr": "5319",
+		"name": "Gelsenkirchen"
+	},
+	{
+		"buFaNr": "5321",
+		"name": "Hagen"
+	},
+	{
+		"buFaNr": "5322",
+		"name": "Hamm"
+	},
+	{
+		"buFaNr": "5323",
+		"name": "Hattingen"
+	},
+	{
+		"buFaNr": "5324",
+		"name": "Herford"
+	},
+	{
+		"buFaNr": "5325",
+		"name": "Herne"
+	},
+	{
+		"buFaNr": "5326",
+		"name": "Höxter"
+	},
+	{
+		"buFaNr": "5327",
+		"name": "Ibbenbüren"
+	},
+	{
+		"buFaNr": "5328",
+		"name": "Iserlohn"
+	},
+	{
+		"buFaNr": "5329",
+		"name": "Lemgo"
+	},
+	{
+		"buFaNr": "5330",
+		"name": "Lippstadt"
+	},
+	{
+		"buFaNr": "5331",
+		"name": "Lübbecke"
+	},
+	{
+		"buFaNr": "5332",
+		"name": "Lüdenscheid"
+	},
+	{
+		"buFaNr": "5333",
+		"name": "Lüdinghausen"
+	},
+	{
+		"buFaNr": "5334",
+		"name": "Meschede"
+	},
+	{
+		"buFaNr": "5335",
+		"name": "Minden"
+	},
+	{
+		"buFaNr": "5336",
+		"name": "Münster-Außenstadt"
+	},
+	{
+		"buFaNr": "5337",
+		"name": "Münster-Innenstadt"
+	},
+	{
+		"buFaNr": "5338",
+		"name": "Olpe"
+	},
+	{
+		"buFaNr": "5339",
+		"name": "Paderborn"
+	},
+	{
+		"buFaNr": "5340",
+		"name": "Recklinghausen"
+	},
+	{
+		"buFaNr": "5341",
+		"name": "Schwelm"
+	},
+	{
+		"buFaNr": "5342",
+		"name": "Siegen"
+	},
+	{
+		"buFaNr": "5343",
+		"name": "Soest"
+	},
+	{
+		"buFaNr": "5345",
+		"name": "Warburg"
+	},
+	{
+		"buFaNr": "5346",
+		"name": "Warendorf"
+	},
+	{
+		"buFaNr": "5347",
+		"name": "Wiedenbrück"
+	},
+	{
+		"buFaNr": "5348",
+		"name": "Witten"
+	},
+	{
+		"buFaNr": "5349",
+		"name": "Bielefeld-Außenstadt"
+	},
+	{
+		"buFaNr": "5350",
+		"name": "Bochum-Süd"
+	},
+	{
+		"buFaNr": "5351",
+		"name": "Gütersloh"
+	},
+	{
+		"buFaNr": "5359",
+		"name": "Marl"
+	},
+	{
+		"buFaNr": "5371",
+		"name": "Bielefeld für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5372",
+		"name": "Herne für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5373",
+		"name": "Detmold für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5374",
+		"name": "Dortmund für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5375",
+		"name": "Hagen für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5376",
+		"name": "Münster für Groß- und Konzernbetriebsprüfung"
+	},
+	{
+		"buFaNr": "5381",
+		"name": "Bielefeld f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "5382",
+		"name": "Bochum f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "5383",
+		"name": "Hagen f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "5384",
+		"name": "Münster f. Steuerfahndung und Steuerstrafsachen"
+	},
+	{
+		"buFaNr": "9101",
+		"name": "Augsburg-Stadt Arbeitnehmerbereich"
+	},
+	{
+		"buFaNr": "9102",
+		"name": "Augsburg-Land"
+	},
+	{
+		"buFaNr": "9103",
+		"name": "Augsburg-Stadt"
+	},
+	{
+		"buFaNr": "9104",
+		"name": "Wolfratshausen - Bad Tölz"
+	},
+	{
+		"buFaNr": "9105",
+		"name": "Berchtesgaden-Laufen"
+	},
+	{
+		"buFaNr": "9106",
+		"name": "Burghausen"
+	},
+	{
+		"buFaNr": "9107",
+		"name": "Dachau"
+	},
+	{
+		"buFaNr": "9108",
+		"name": "Deggendorf"
+	},
+	{
+		"buFaNr": "9109",
+		"name": "Dillingen"
+	},
+	{
+		"buFaNr": "9110",
+		"name": "Dingolfing"
+	},
+	{
+		"buFaNr": "9111",
+		"name": "Nördlingen mit ASt Donauwörth"
+	},
+	{
+		"buFaNr": "9112",
+		"name": "Ebersberg"
+	},
+	{
+		"buFaNr": "9113",
+		"name": "Eggenfelden"
+	},
+	{
+		"buFaNr": "9114",
+		"name": "Erding"
+	},
+	{
+		"buFaNr": "9115",
+		"name": "Freising"
+	},
+	{
+		"buFaNr": "9116",
+		"name": "Bundeszentralamt für Steuern"
+	},
+	{
+		"buFaNr": "9117",
+		"name": "Fürstenfeldbruck"
+	},
+	{
+		"buFaNr": "9119",
+		"name": "Garmisch-Partenkirchen"
+	},
+	{
+		"buFaNr": "9121",
+		"name": "Günzburg"
+	},
+	{
+		"buFaNr": "9123",
+		"name": "Kempten-Immenstadt"
+	},
+	{
+		"buFaNr": "9124",
+		"name": "Ingolstadt"
+	},
+	{
+		"buFaNr": "9125",
+		"name": "Kaufbeuren m. ASt Füssen"
+	},
+	{
+		"buFaNr": "9126",
+		"name": "Kelheim"
+	},
+	{
+		"buFaNr": "9127",
+		"name": "Kempten-Immenstadt"
+	},
+	{
+		"buFaNr": "9131",
+		"name": "Landsberg am Lech"
+	},
+	{
+		"buFaNr": "9132",
+		"name": "Landshut"
+	},
+	{
+		"buFaNr": "9134",
+		"name": "Lindau"
+	},
+	{
+		"buFaNr": "9138",
+		"name": "Memmingen-Mindelheim"
+	},
+	{
+		"buFaNr": "9139",
+		"name": "Miesbach"
+	},
+	{
+		"buFaNr": "9140",
+		"name": "Memmingen-Mindelheim"
+	},
+	{
+		"buFaNr": "9141",
+		"name": "Mühldorf"
+	},
+	{
+		"buFaNr": "9142",
+		"name": "München Bewertung des Grundbesitzes"
+	},
+	{
+		"buFaNr": "9143",
+		"name": "München Körperschaften/PersonenGesellschaften"
+	},
+	{
+		"buFaNr": "9144",
+		"name": "München Gewinneinkünfte"
+	},
+	{
+		"buFaNr": "9145",
+		"name": "München Gewinneinkünfte"
+	},
+	{
+		"buFaNr": "9146",
+		"name": "München Gewinneinkünfte"
+	},
+	{
+		"buFaNr": "9147",
+		"name": "München Gewinneinkünfte"
+	},
+	{
+		"buFaNr": "9148",
+		"name": "München Gewinneinkünfte"
+	},
+	{
+		"buFaNr": "9149",
+		"name": "München Erhebung"
+	},
+	{
+		"buFaNr": "9151",
+		"name": "Neu-Ulm"
+	},
+	{
+		"buFaNr": "9152",
+		"name": "Nördlingen mit ASt Donauwörth"
+	},
+	{
+		"buFaNr": "9153",
+		"name": "Passau mit Außenstellen"
+	},
+	{
+		"buFaNr": "9154",
+		"name": "Pfaffenhofen"
+	},
+	{
+		"buFaNr": "9156",
+		"name": "Rosenheim m. ASt Wasserburg"
+	},
+	{
+		"buFaNr": "9157",
+		"name": "Grafenau"
+	},
+	{
+		"buFaNr": "9159",
+		"name": "Schrobenhausen m. ASt Neuburg"
+	},
+	{
+		"buFaNr": "9161",
+		"name": "Starnberg"
+	},
+	{
+		"buFaNr": "9162",
+		"name": "Straubing"
+	},
+	{
+		"buFaNr": "9163",
+		"name": "Traunstein"
+	},
+	{
+		"buFaNr": "9168",
+		"name": "Weilheim-Schongau"
+	},
+	{
+		"buFaNr": "9169",
+		"name": "Wolfratshausen - Bad Tölz"
+	},
+	{
+		"buFaNr": "9170",
+		"name": "Zwiesel m. ASt Viechtach"
+	},
+	{
+		"buFaNr": "9171",
+		"name": "Eichstätt"
+	},
+	{
+		"buFaNr": "9181",
+		"name": "München Überschusseinkünfte"
+	},
+	{
+		"buFaNr": "9182",
+		"name": "München Überschusseinkünfte u. Beschränkt Steuerpfl."
+	},
+	{
+		"buFaNr": "9183",
+		"name": "München Überschusseinkünfte"
+	},
+	{
+		"buFaNr": "9184",
+		"name": "München Überschusseinkünfte"
+	},
+	{
+		"buFaNr": "9185",
+		"name": "München Überschusseinkünfte"
+	},
+	{
+		"buFaNr": "9187",
+		"name": "München Körperschaften"
+	},
+	{
+		"buFaNr": "9188",
+		"name": "München Betriebsprüfung"
+	},
+	{
+		"buFaNr": "9189",
+		"name": "München Erhebung"
+	},
+	{
+		"buFaNr": "9201",
+		"name": "Amberg"
+	},
+	{
+		"buFaNr": "9202",
+		"name": "Obernburg am Main mit Außenstelle Amorbach"
+	},
+	{
+		"buFaNr": "9203",
+		"name": "Ansbach mit Außenstellen"
+	},
+	{
+		"buFaNr": "9204",
+		"name": "Aschaffenburg"
+	},
+	{
+		"buFaNr": "9205",
+		"name": "Bad Kissingen"
+	},
+	{
+		"buFaNr": "9206",
+		"name": "Bad Neustadt a.d.S."
+	},
+	{
+		"buFaNr": "9207",
+		"name": "Bamberg"
+	},
+	{
+		"buFaNr": "9208",
+		"name": "Bayreuth"
+	},
+	{
+		"buFaNr": "9211",
+		"name": "Cham mit Außenstellen"
+	},
+	{
+		"buFaNr": "9212",
+		"name": "Coburg"
+	},
+	{
+		"buFaNr": "9216",
+		"name": "Erlangen"
+	},
+	{
+		"buFaNr": "9217",
+		"name": "Forchheim"
+	},
+	{
+		"buFaNr": "9218",
+		"name": "Fürth"
+	},
+	{
+		"buFaNr": "9220",
+		"name": "Gunzenhausen"
+	},
+	{
+		"buFaNr": "9221",
+		"name": "Hersbruck"
+	},
+	{
+		"buFaNr": "9222",
+		"name": "Hilpoltstein"
+	},
+	{
+		"buFaNr": "9223",
+		"name": "Hof mit Außenstellen"
+	},
+	{
+		"buFaNr": "9227",
+		"name": "Kitzingen"
+	},
+	{
+		"buFaNr": "9228",
+		"name": "Kronach"
+	},
+	{
+		"buFaNr": "9229",
+		"name": "Kulmbach"
+	},
+	{
+		"buFaNr": "9230",
+		"name": "Lichtenfels"
+	},
+	{
+		"buFaNr": "9231",
+		"name": "Lohr a. Main mit Außenstellen"
+	},
+	{
+		"buFaNr": "9232",
+		"name": "Lohr a. Main mit Außenstellen – Grunderwerbsteuer"
+	},
+	{
+		"buFaNr": "9235",
+		"name": "Neumarkt i.d.Opf."
+	},
+	{
+		"buFaNr": "9238",
+		"name": "Nürnberg-Nord"
+	},
+	{
+		"buFaNr": "9240",
+		"name": "Nürnberg-Süd"
+	},
+	{
+		"buFaNr": "9241",
+		"name": "Nürnberg-Zentral"
+	},
+	{
+		"buFaNr": "9244",
+		"name": "Regensburg"
+	},
+	{
+		"buFaNr": "9247",
+		"name": "Schwabach"
+	},
+	{
+		"buFaNr": "9248",
+		"name": "Schwandorf mit Außenstelle Neunburg v. W."
+	},
+	{
+		"buFaNr": "9249",
+		"name": "Schweinfurt"
+	},
+	{
+		"buFaNr": "9252",
+		"name": "Uffenheim"
+	},
+	{
+		"buFaNr": "9254",
+		"name": "Waldsassen"
+	},
+	{
+		"buFaNr": "9255",
+		"name": "Weiden i.d.Opf."
+	},
+	{
+		"buFaNr": "9257",
+		"name": "Würzburg mit Außenstelle Ochsenfurt"
+	},
+	{
+		"buFaNr": "9258",
+		"name": "Wunsiedel mit Außenstelle Selb"
+	},
+	{
+		"buFaNr": "9259",
+		"name": "Zeil am Main mit Außenstelle Ebern"
+	}
+]

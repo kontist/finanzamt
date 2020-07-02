@@ -20,9 +20,11 @@
   "repository": "kontist/finanzamt",
   "author": "Kontist GmbH (kontist.com)",
   "files": [
+    "data/finanzaemter.json",
     "index.js"
   ],
   "scripts": {
+    "data:convert": "node scripts/data-convert.js",
     "data:download": "node scripts/data-download.js",
     "test": "xo && mocha"
   },
@@ -31,6 +33,8 @@
     "download": "^8.0.0",
     "got": "^11.3.0",
     "mocha": "^8.0.1",
+    "write-json-file": "^4.3.0",
+    "xml2js": "^0.4.23",
     "xo": "^0.32.0"
   },
   "engines": {

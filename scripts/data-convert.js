@@ -1,0 +1,32 @@
+'use strict';
+// This script is only for development and therefore doesn’t need to support Node.js v10.
+// eslint-disable-next-line node/no-unsupported-features/node-builtins
+const fs = require('fs').promises;
+const globby = require('globby');
+const xml2js = require('xml2js');
+const writeJsonFile = require('write-json-file');
+
+(async () => {
+  const xmlPaths = await globby('data/GemFA_Export_*.xml');
+
+  if (xmlPaths.length === 0) {
+    throw new Error('No XML file found');
+  }
+
+  const xmlPath = xmlPaths[0];
+  const xmlFile = await fs.readFile(xmlPath);
+  const input = await xml2js.parseStringPromise(xmlFile);
+
+  const finanzamtListe = input.GemfaExport.FinanzamtListe[0].Finanzamt;
+
+  const output = finanzamtListe.map((finanzamt) => {
+    const attributes = finanzamt.$;
+
+    return {
+      buFaNr: attributes.BuFaNr,
+      name: attributes.Name
+    };
+  });
+
+  await writeJsonFile('data/finanzaemter.json', output);
+})();
