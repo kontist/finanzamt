@@ -16,7 +16,7 @@
     "tax",
     "taxes"
   ],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": "kontist/finanzamt",
   "author": "Kontist GmbH (kontist.com)",
   "files": [

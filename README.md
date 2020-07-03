@@ -46,3 +46,7 @@ Die Bundesfinanzamtsnummer.
 Type: `string`
 
 Der Name der Finanzbehörde.
+
+## License
+
+This project is licensed under the MIT License. The underlying [GemFA](https://www.bzst.de/DE/Service/Behoerdenwegweiser/Finanzamtsuche/finanzamtsuche_node.html) data by the [Federal Central Tax Office](https://www.bzst.de/EN/Home/home_node.html) is in the public domain in accordance with [§ 5 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__5.html).
