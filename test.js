@@ -9,6 +9,13 @@ it('returns information about the Finanzamt Prenzlauer Berg', () => {
   });
 });
 
+it('throws an error if bundesfinanzamtsnummer is not 4 characters long', () => {
+  assert.throws(() => finanzamt('1'), {
+    name: 'TypeError',
+    message: '`bundesfinanzamtsnummer` must be 4 characters long'
+  });
+});
+
 it('throws an error if bundesfinanzamtsnummer is not a string', () => {
   assert.throws(() => finanzamt(1131), {
     name: 'TypeError',
