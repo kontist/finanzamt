@@ -164,10 +164,6 @@
 		"name": "Lübeck"
 	},
 	{
-		"buFaNr": "2123",
-		"name": "Dithmarschen"
-	},
-	{
 		"buFaNr": "2124",
 		"name": "Neumünster"
 	},
@@ -792,10 +788,6 @@
 		"name": "Landesfinanzkasse Daun"
 	},
 	{
-		"buFaNr": "2714",
-		"name": "Montabaur-Diez Aussenstelle Diez"
-	},
-	{
 		"buFaNr": "2718",
 		"name": "Altenkirchen-Hachenburg Aussenstelle Hachenburg"
 	},
@@ -850,10 +842,6 @@
 	{
 		"buFaNr": "2735",
 		"name": "Pirmasens"
-	},
-	{
-		"buFaNr": "2736",
-		"name": "Bitburg-Prüm Aussenstelle Prüm"
 	},
 	{
 		"buFaNr": "2740",
