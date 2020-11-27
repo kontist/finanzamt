@@ -4,6 +4,7 @@
 const fs = require('fs').promises;
 const globby = require('globby');
 const xml2js = require('xml2js');
+const _ = require('lodash');
 const writeJsonFile = require('write-json-file');
 
 (async () => {
@@ -21,10 +22,14 @@ const writeJsonFile = require('write-json-file');
 
   const output = finanzamtListe.map((finanzamt) => {
     const attributes = finanzamt.$;
+    const kontaktListe = finanzamt.KontaktListe[0].Kontakt;
+
+    const url = _.find(kontaktListe, ['$.Bezeichnung', 'URL'])?.$.Inhalt;
 
     return {
       buFaNr: attributes.BuFaNr,
-      name: attributes.Name
+      name: attributes.Name,
+      url
     };
   });
 

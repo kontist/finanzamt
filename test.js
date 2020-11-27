@@ -5,8 +5,13 @@ const finanzamt = require('.');
 it('returns information about the Finanzamt Prenzlauer Berg', () => {
   assert.deepStrictEqual(finanzamt('1131'), {
     buFaNr: '1131',
-    name: 'Prenzlauer Berg'
+    name: 'Prenzlauer Berg',
+    url: 'http://www.berlin.de/sen/finanzen'
   });
+});
+
+it('returns no url property if there is none', () => {
+  assert(!Object.prototype.hasOwnProperty.call(finanzamt('1055'), 'url'));
 });
 
 it('returns undefined if Finanzamt can’t be found', () => {

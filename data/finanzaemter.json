@@ -1,19 +1,23 @@
 [
 	{
 		"buFaNr": "1010",
-		"name": "Saarlouis"
+		"name": "Saarlouis",
+		"url": "www.finanzamt-saarlouis.de"
 	},
 	{
 		"buFaNr": "1020",
-		"name": "Merzig"
+		"name": "Merzig",
+		"url": "www.finanzamt-merzig.de"
 	},
 	{
 		"buFaNr": "1030",
-		"name": "Neunkirchen"
+		"name": "Neunkirchen",
+		"url": "www.finanzamt-neunkirchen.de"
 	},
 	{
 		"buFaNr": "1040",
-		"name": "Saarbrücken Am Stadtgraben"
+		"name": "Saarbrücken Am Stadtgraben",
+		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1055",
@@ -21,115 +25,143 @@
 	},
 	{
 		"buFaNr": "1060",
-		"name": "St. Wendel"
+		"name": "St. Wendel",
+		"url": "www.finanzamt-sankt-wendel.de"
 	},
 	{
 		"buFaNr": "1070",
-		"name": "Saarbrücken Am Stadtgraben - Außenst. Sulzbach"
+		"name": "Saarbrücken Am Stadtgraben - Außenst. Sulzbach",
+		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1075",
-		"name": "Homburg"
+		"name": "Homburg",
+		"url": "www.finanzamt-homburg.de"
 	},
 	{
 		"buFaNr": "1085",
-		"name": "Homburg - Außenst. St. Ingbert"
+		"name": "Homburg - Außenst. St. Ingbert",
+		"url": "www.finanzamt-homburg.de"
 	},
 	{
 		"buFaNr": "1090",
-		"name": "Saarbrücken Am Stadtgraben - Außenst. Völklingen"
+		"name": "Saarbrücken Am Stadtgraben - Außenst. Völklingen",
+		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1113",
-		"name": "Charlottenburg"
+		"name": "Charlottenburg",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1114",
-		"name": "Friedrichshain-Kreuzberg"
+		"name": "Friedrichshain-Kreuzberg",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1116",
-		"name": "Neukölln"
+		"name": "Neukölln",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1117",
-		"name": "Reinickendorf"
+		"name": "Reinickendorf",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1118",
-		"name": "Schöneberg"
+		"name": "Schöneberg",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1119",
-		"name": "Spandau"
+		"name": "Spandau",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1120",
-		"name": "Steglitz"
+		"name": "Steglitz",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1121",
-		"name": "Tempelhof"
+		"name": "Tempelhof",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1123",
-		"name": "Wedding"
+		"name": "Wedding",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1124",
-		"name": "Wilmersdorf"
+		"name": "Wilmersdorf",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1125",
-		"name": "Zehlendorf"
+		"name": "Zehlendorf",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1127",
-		"name": "für Körperschaften I"
+		"name": "für Körperschaften I",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1129",
-		"name": "für Körperschaften III"
+		"name": "für Körperschaften III",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1130",
-		"name": "für Körperschaften IV"
+		"name": "für Körperschaften IV",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1131",
-		"name": "Prenzlauer Berg"
+		"name": "Prenzlauer Berg",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1132",
-		"name": "Lichtenberg"
+		"name": "Lichtenberg",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1133",
-		"name": "Marzahn-Hellersdorf"
+		"name": "Marzahn-Hellersdorf",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1134",
-		"name": "Mitte/Tiergarten"
+		"name": "Mitte/Tiergarten",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1135",
-		"name": "Pankow/Weißensee"
+		"name": "Pankow/Weißensee",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1136",
-		"name": "Treptow-Köpenick"
+		"name": "Treptow-Köpenick",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1137",
-		"name": "für Körperschaften II"
+		"name": "für Körperschaften II",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1138",
-		"name": "für Fahndung und Strafsachen Berlin"
+		"name": "für Fahndung und Strafsachen Berlin",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1191",
-		"name": "Technisches Finanzamt Berlin"
+		"name": "Technisches Finanzamt Berlin",
+		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "2111",
@@ -201,347 +233,433 @@
 	},
 	{
 		"buFaNr": "2201",
-		"name": "Hamburg für Steuererhebung in Hamburg"
+		"name": "Hamburg für Steuererhebung in Hamburg",
+		"url": "https://www.hamburg.de/fb/steuka-start/"
 	},
 	{
 		"buFaNr": "2210",
-		"name": "Hamburg für Verkehrst. und Grundbesitz"
+		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"url": "http://www.hamburg.de/vug-start/"
 	},
 	{
 		"buFaNr": "2216",
-		"name": "Hamburg für Verkehrst. und Grundbesitz"
+		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"url": "https://www.hamburg.de/fb/vug-start/"
 	},
 	{
 		"buFaNr": "2217",
-		"name": "Hamburg-Nord"
+		"name": "Hamburg-Nord",
+		"url": "https://www.hamburg.de/fb/nord-start/"
 	},
 	{
 		"buFaNr": "2220",
-		"name": "Hamburg für Verkehrst. und Grundbesitz"
+		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"url": "http://www.hamburg.de/vug-start/"
 	},
 	{
 		"buFaNr": "2227",
-		"name": "Hamburg für Großunternehmen in Hamburg"
+		"name": "Hamburg für Großunternehmen in Hamburg",
+		"url": "https://www.hamburg.de/fb/grossunternehmen-start/"
 	},
 	{
 		"buFaNr": "2228",
-		"name": "Hamburg für Prüfungsd. und Strafsachen"
+		"name": "Hamburg für Prüfungsd. und Strafsachen",
+		"url": "https://www.hamburg.de/fb/pruestra-start/"
 	},
 	{
 		"buFaNr": "2230",
-		"name": "Hamburg für Verkehrst. und Grundbesitz"
+		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"url": "http://www.hamburg.de/vug-start/"
 	},
 	{
 		"buFaNr": "2235",
-		"name": "Hamburg für Verkehrst. und Grundbesitz"
+		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"url": "https://www.hamburg.de/fb/vug-start/"
 	},
 	{
 		"buFaNr": "2241",
-		"name": "Hamburg-Altona"
+		"name": "Hamburg-Altona",
+		"url": "https://www.hamburg.de/fb/altonastart/"
 	},
 	{
 		"buFaNr": "2242",
-		"name": "Hamburg-Am Tierpark"
+		"name": "Hamburg-Am Tierpark",
+		"url": "https://www.hamburg.de/fb/amtierpark-start/"
 	},
 	{
 		"buFaNr": "2243",
-		"name": "Hamburg-Barmbek-Uhlenhorst"
+		"name": "Hamburg-Barmbek-Uhlenhorst",
+		"url": "https://www.hamburg.de/fb/bustart/"
 	},
 	{
 		"buFaNr": "2244",
-		"name": "Hamburg-Ost"
+		"name": "Hamburg-Ost",
+		"url": "http://www.hamburg.de/fb/ost-start/"
 	},
 	{
 		"buFaNr": "2245",
-		"name": "Hamburg-Eimsbüttel"
+		"name": "Hamburg-Eimsbüttel",
+		"url": "https://www.hamburg.de/fb/eimsbuettel-start/"
 	},
 	{
 		"buFaNr": "2246",
-		"name": "Hamburg-Hansa"
+		"name": "Hamburg-Hansa",
+		"url": "https://www.hamburg.de/fb/hansa-start/"
 	},
 	{
 		"buFaNr": "2247",
-		"name": "Hamburg-Harburg"
+		"name": "Hamburg-Harburg",
+		"url": "https://www.hamburg.de/fb/harburg-start/"
 	},
 	{
 		"buFaNr": "2248",
-		"name": "Hamburg-Mitte"
+		"name": "Hamburg-Mitte",
+		"url": "https://www.hamburg.de/fb/mitte-start/"
 	},
 	{
 		"buFaNr": "2249",
-		"name": "Hamburg-Nord"
+		"name": "Hamburg-Nord",
+		"url": "https://www.hamburg.de/fb/nord-start/"
 	},
 	{
 		"buFaNr": "2250",
-		"name": "Hamburg-Oberalster"
+		"name": "Hamburg-Oberalster",
+		"url": "https://www.hamburg.de/fb/oberalster-start/"
 	},
 	{
 		"buFaNr": "2251",
-		"name": "Hamburg-Ost"
+		"name": "Hamburg-Ost",
+		"url": "http://www.hamburg.de/fb/ost-start/"
 	},
 	{
 		"buFaNr": "2312",
-		"name": "Bad Gandersheim"
+		"name": "Bad Gandersheim",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2313",
-		"name": "Braunschweig-Altewiekring"
+		"name": "Braunschweig-Altewiekring",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2314",
-		"name": "Braunschweig-Wilhelmstr."
+		"name": "Braunschweig-Wilhelmstr.",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2315",
-		"name": "Buchholz in der Nordheide"
+		"name": "Buchholz in der Nordheide",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2316",
-		"name": "Burgdorf"
+		"name": "Burgdorf",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2317",
-		"name": "Celle"
+		"name": "Celle",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2318",
-		"name": "Cuxhaven"
+		"name": "Cuxhaven",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2319",
-		"name": "Gifhorn"
+		"name": "Gifhorn",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2320",
-		"name": "Göttingen"
+		"name": "Göttingen",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2321",
-		"name": "Goslar"
+		"name": "Goslar",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2322",
-		"name": "Hameln"
+		"name": "Hameln",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2323",
-		"name": "Hannover-Land I"
+		"name": "Hannover-Land I",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2324",
-		"name": "Hannover-Mitte"
+		"name": "Hannover-Mitte",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2325",
-		"name": "Hannover-Nord"
+		"name": "Hannover-Nord",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2326",
-		"name": "Hannover-Süd"
+		"name": "Hannover-Süd",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2327",
-		"name": "Hannover-Land II"
+		"name": "Hannover-Land II",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2328",
-		"name": "Helmstedt"
+		"name": "Helmstedt",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2329",
-		"name": "Herzberg am Harz"
+		"name": "Herzberg am Harz",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2330",
-		"name": "Hildesheim-Alfeld"
+		"name": "Hildesheim-Alfeld",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2331",
-		"name": "Holzminden"
+		"name": "Holzminden",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2333",
-		"name": "Lüneburg"
+		"name": "Lüneburg",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2334",
-		"name": "Nienburg/Weser"
+		"name": "Nienburg/Weser",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2335",
-		"name": "Northeim"
+		"name": "Northeim",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2336",
-		"name": "Osterholz-Scharmbeck"
+		"name": "Osterholz-Scharmbeck",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2338",
-		"name": "Peine"
+		"name": "Peine",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2340",
-		"name": "Rotenburg (Wümme)"
+		"name": "Rotenburg (Wümme)",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2341",
-		"name": "Soltau"
+		"name": "Soltau",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2342",
-		"name": "Hannover-Land I Außenstelle Springe"
+		"name": "Hannover-Land I Außenstelle Springe",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2343",
-		"name": "Stade"
+		"name": "Stade",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2344",
-		"name": "Stadthagen"
+		"name": "Stadthagen",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2345",
-		"name": "Sulingen"
+		"name": "Sulingen",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2346",
-		"name": "Syke"
+		"name": "Syke",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2347",
-		"name": "Uelzen-Lüchow"
+		"name": "Uelzen-Lüchow",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2348",
-		"name": "Verden (Aller)"
+		"name": "Verden (Aller)",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2349",
-		"name": "Wesermünde"
+		"name": "Wesermünde",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2350",
-		"name": "Winsen (Luhe)"
+		"name": "Winsen (Luhe)",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2351",
-		"name": "Wolfenbüttel"
+		"name": "Wolfenbüttel",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2352",
-		"name": "Zeven"
+		"name": "Zeven",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2353",
-		"name": "Papenburg"
+		"name": "Papenburg",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2354",
-		"name": "Aurich"
+		"name": "Aurich",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2355",
-		"name": "Bad Bentheim"
+		"name": "Bad Bentheim",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2356",
-		"name": "Cloppenburg"
+		"name": "Cloppenburg",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2357",
-		"name": "Delmenhorst"
+		"name": "Delmenhorst",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2358",
-		"name": "Emden"
+		"name": "Emden",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2360",
-		"name": "Leer (Ostfriesland)"
+		"name": "Leer (Ostfriesland)",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2361",
-		"name": "Lingen (Ems)"
+		"name": "Lingen (Ems)",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2362",
-		"name": "Norden"
+		"name": "Norden",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2363",
-		"name": "Nordenham"
+		"name": "Nordenham",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2364",
-		"name": "Oldenburg (Oldenburg)"
+		"name": "Oldenburg (Oldenburg)",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2365",
-		"name": "Osnabrück-Land"
+		"name": "Osnabrück-Land",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2366",
-		"name": "Osnabrück-Stadt"
+		"name": "Osnabrück-Stadt",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2367",
-		"name": "Quakenbrück"
+		"name": "Quakenbrück",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2368",
-		"name": "Vechta"
+		"name": "Vechta",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2369",
-		"name": "Westerstede"
+		"name": "Westerstede",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2370",
-		"name": "Wilhelmshaven"
+		"name": "Wilhelmshaven",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2371",
-		"name": "Wittmund"
+		"name": "Wittmund",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2380",
-		"name": "Braunschweig für Großbetriebsprüfung"
+		"name": "Braunschweig für Großbetriebsprüfung",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2381",
-		"name": "Göttingen für Großbetriebsprüfung"
+		"name": "Göttingen für Großbetriebsprüfung",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2382",
-		"name": "Hannover für Großbetriebsprüfung"
+		"name": "Hannover für Großbetriebsprüfung",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2384",
-		"name": "Stade für Großbetriebsprüfung"
+		"name": "Stade für Großbetriebsprüfung",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2385",
-		"name": "Oldenburg für Großbetriebsprüfung"
+		"name": "Oldenburg für Großbetriebsprüfung",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2386",
-		"name": "Osnabrück für Großbetriebsprüfung"
+		"name": "Osnabrück für Großbetriebsprüfung",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2390",
-		"name": "für Fahndung und Strafsachen Braunschweig"
+		"name": "für Fahndung und Strafsachen Braunschweig",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2391",
-		"name": "Hannover für Fahndung und Strafsachen"
+		"name": "Hannover für Fahndung und Strafsachen",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2392",
-		"name": "Lüneburg für Fahndung und Strafsachen"
+		"name": "Lüneburg für Fahndung und Strafsachen",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2393",
-		"name": "Oldenburg für Fahndung und Strafsachen"
+		"name": "Oldenburg für Fahndung und Strafsachen",
+		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2457",
@@ -573,191 +691,238 @@
 	},
 	{
 		"buFaNr": "2601",
-		"name": "Alsfeld-Lauterbach Verwaltungsstelle Alsfeld"
+		"name": "Alsfeld-Lauterbach Verwaltungsstelle Alsfeld",
+		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
 	{
 		"buFaNr": "2602",
-		"name": "Hersfeld-Rotenburg Verwaltungsstelle Bad Hersfeld"
+		"name": "Hersfeld-Rotenburg Verwaltungsstelle Bad Hersfeld",
+		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
 	{
 		"buFaNr": "2603",
-		"name": "Bad Homburg vor der Höhe"
+		"name": "Bad Homburg vor der Höhe",
+		"url": "www.Finanzamt-Bad-Homburg.de"
 	},
 	{
 		"buFaNr": "2604",
-		"name": "Rheingau-Taunus Verwaltungsst. Bad Schwalbach"
+		"name": "Rheingau-Taunus Verwaltungsst. Bad Schwalbach",
+		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
 	{
 		"buFaNr": "2605",
-		"name": "Bensheim"
+		"name": "Bensheim",
+		"url": "www.Finanzamt-Bensheim.de"
 	},
 	{
 		"buFaNr": "2606",
-		"name": "Marburg-Biedenkopf Verwaltungsstelle Biedenkopf"
+		"name": "Marburg-Biedenkopf Verwaltungsstelle Biedenkopf",
+		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
 	{
 		"buFaNr": "2607",
-		"name": "Darmstadt"
+		"name": "Darmstadt",
+		"url": "www.Finanzamt-Darmstadt.de"
 	},
 	{
 		"buFaNr": "2608",
-		"name": "Dieburg"
+		"name": "Dieburg",
+		"url": "www.Finanzamt-Dieburg.de"
 	},
 	{
 		"buFaNr": "2609",
-		"name": "Dillenburg"
+		"name": "Dillenburg",
+		"url": "www.Finanzamt-Dillenburg.de"
 	},
 	{
 		"buFaNr": "2610",
-		"name": "Eschwege-Witzenhausen Verwaltungsstelle Eschwege"
+		"name": "Eschwege-Witzenhausen Verwaltungsstelle Eschwege",
+		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
 	{
 		"buFaNr": "2611",
-		"name": "Korbach-Frankenberg Verwaltungsstelle Frankenberg"
+		"name": "Korbach-Frankenberg Verwaltungsstelle Frankenberg",
+		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
 	{
 		"buFaNr": "2612",
-		"name": "Frankfurt am Main II"
+		"name": "Frankfurt am Main II",
+		"url": "https://www.finanzamt-frankfurt-am-main-2.de"
 	},
 	{
 		"buFaNr": "2613",
-		"name": "Frankfurt am Main I"
+		"name": "Frankfurt am Main I",
+		"url": "https://www.finanzamt-frankfurt-am-main-1.de"
 	},
 	{
 		"buFaNr": "2614",
-		"name": "Frankfurt am Main IV"
+		"name": "Frankfurt am Main IV",
+		"url": "https://www.finanzamt-frankfurt-am-main-4.de"
 	},
 	{
 		"buFaNr": "2615",
-		"name": "Frankfurt/M. V-Höchst Verwaltungsstelle Höchst"
+		"name": "Frankfurt/M. V-Höchst Verwaltungsstelle Höchst",
+		"url": "https://www.finanzamt-frankfurt-am-main-5-hoechst.de"
 	},
 	{
 		"buFaNr": "2616",
-		"name": "Friedberg (Hessen)"
+		"name": "Friedberg (Hessen)",
+		"url": "www.Finanzamt-Friedberg.de"
 	},
 	{
 		"buFaNr": "2617",
-		"name": "Bensheim Außenstelle Fürth"
+		"name": "Bensheim Außenstelle Fürth",
+		"url": "www.Finanzamt-Bensheim.de"
 	},
 	{
 		"buFaNr": "2618",
-		"name": "Fulda"
+		"name": "Fulda",
+		"url": "www.Finanzamt-Fulda.de"
 	},
 	{
 		"buFaNr": "2619",
-		"name": "Gelnhausen"
+		"name": "Gelnhausen",
+		"url": "www.Finanzamt-Gelnhausen.de"
 	},
 	{
 		"buFaNr": "2620",
-		"name": "Gießen"
+		"name": "Gießen",
+		"url": "www.Finanzamt-Giessen.de"
 	},
 	{
 		"buFaNr": "2621",
-		"name": "Groß-Gerau"
+		"name": "Groß-Gerau",
+		"url": "www.Finanzamt-Gross-Gerau.de"
 	},
 	{
 		"buFaNr": "2622",
-		"name": "Hanau"
+		"name": "Hanau",
+		"url": "www.Finanzamt-Hanau.de"
 	},
 	{
 		"buFaNr": "2623",
-		"name": "Kassel II-Hofgeismar Verwaltungsstelle Hofgeismar"
+		"name": "Kassel II-Hofgeismar Verwaltungsstelle Hofgeismar",
+		"url": "https://www.finanzamt-kassel-2-hofgeismar.de"
 	},
 	{
 		"buFaNr": "2624",
-		"name": "Schwalm-Eder Verwaltungsstelle Fritzlar"
+		"name": "Schwalm-Eder Verwaltungsstelle Fritzlar",
+		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
 	{
 		"buFaNr": "2625",
-		"name": "Kassel I"
+		"name": "Kassel I",
+		"url": "https://www.finanzamt-kassel-1.de"
 	},
 	{
 		"buFaNr": "2626",
-		"name": "Kassel II-Hofgeismar Verwaltungsstelle Kassel"
+		"name": "Kassel II-Hofgeismar Verwaltungsstelle Kassel",
+		"url": "https://www.finanzamt-kassel-2-hofgeismar.de"
 	},
 	{
 		"buFaNr": "2627",
-		"name": "Korbach-Frankenberg Verwaltungsstelle Korbach"
+		"name": "Korbach-Frankenberg Verwaltungsstelle Korbach",
+		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
 	{
 		"buFaNr": "2628",
-		"name": "Langen"
+		"name": "Langen",
+		"url": "www.Finanzamt-Langen.de"
 	},
 	{
 		"buFaNr": "2629",
-		"name": "Alsfeld-Lauterbach Verwaltungsstelle Lauterbach"
+		"name": "Alsfeld-Lauterbach Verwaltungsstelle Lauterbach",
+		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
 	{
 		"buFaNr": "2630",
-		"name": "Limburg-Weilburg Verwaltungsstelle Limburg"
+		"name": "Limburg-Weilburg Verwaltungsstelle Limburg",
+		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
 	{
 		"buFaNr": "2631",
-		"name": "Marburg-Biedenkopf Verwaltungsstelle Marburg"
+		"name": "Marburg-Biedenkopf Verwaltungsstelle Marburg",
+		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
 	{
 		"buFaNr": "2632",
-		"name": "Schwalm-Eder Verwaltungsstelle Melsungen"
+		"name": "Schwalm-Eder Verwaltungsstelle Melsungen",
+		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
 	{
 		"buFaNr": "2633",
-		"name": "Michelstadt"
+		"name": "Michelstadt",
+		"url": "www.Finanzamt-Michelstadt.de"
 	},
 	{
 		"buFaNr": "2634",
-		"name": "Nidda"
+		"name": "Nidda",
+		"url": "www.Finanzamt-Nidda.de"
 	},
 	{
 		"buFaNr": "2635",
-		"name": "Offenbach am Main I"
+		"name": "Offenbach am Main I",
+		"url": "https://www.finanzamt-offenbach-1.de"
 	},
 	{
 		"buFaNr": "2636",
-		"name": "Hersfeld-Rotenburg Verwaltungsstelle Rotenburg"
+		"name": "Hersfeld-Rotenburg Verwaltungsstelle Rotenburg",
+		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
 	{
 		"buFaNr": "2637",
-		"name": "Rheingau-Taunus Verwaltungsstelle Rüdesheim"
+		"name": "Rheingau-Taunus Verwaltungsstelle Rüdesheim",
+		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
 	{
 		"buFaNr": "2638",
-		"name": "Limburg-Weilburg Verwaltungsstelle Weilburg"
+		"name": "Limburg-Weilburg Verwaltungsstelle Weilburg",
+		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
 	{
 		"buFaNr": "2639",
-		"name": "Wetzlar"
+		"name": "Wetzlar",
+		"url": "www.Finanzamt-Wetzlar.de"
 	},
 	{
 		"buFaNr": "2640",
-		"name": "Wiesbaden I"
+		"name": "Wiesbaden I",
+		"url": "https://www.finanzamt-wiesbaden-1.de"
 	},
 	{
 		"buFaNr": "2641",
-		"name": "Eschwege-Witzenhausen Verwaltungsstelle Witzenhausen"
+		"name": "Eschwege-Witzenhausen Verwaltungsstelle Witzenhausen",
+		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
 	{
 		"buFaNr": "2642",
-		"name": "Schwalm-Eder Verwaltungsstelle Schwalmstadt"
+		"name": "Schwalm-Eder Verwaltungsstelle Schwalmstadt",
+		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
 	{
 		"buFaNr": "2643",
-		"name": "Wiesbaden II"
+		"name": "Wiesbaden II",
+		"url": "https://www.finanzamt-wiesbaden-2.de"
 	},
 	{
 		"buFaNr": "2644",
-		"name": "Offenbach am Main II"
+		"name": "Offenbach am Main II",
+		"url": "https://www.finanzamt-offenbach-2.de"
 	},
 	{
 		"buFaNr": "2645",
-		"name": "Frankfurt am Main III"
+		"name": "Frankfurt am Main III",
+		"url": "https://www.finanzamt-frankfurt-am-main-3.de"
 	},
 	{
 		"buFaNr": "2646",
-		"name": "Hofheim am Taunus"
+		"name": "Hofheim am Taunus",
+		"url": "www.Finanzamt-Hofheim-am-Taunus.de"
 	},
 	{
 		"buFaNr": "2647",
-		"name": "Frankfurt am Main V-Höchst Verwaltungsstelle Frankfurt"
+		"name": "Frankfurt am Main V-Höchst Verwaltungsstelle Frankfurt",
+		"url": "https://www.finanzamt-frankfurt-am-main-5-hoechst.de"
 	},
 	{
 		"buFaNr": "2701",
@@ -765,43 +930,53 @@
 	},
 	{
 		"buFaNr": "2702",
-		"name": "Altenkirchen-Hachenburg"
+		"name": "Altenkirchen-Hachenburg",
+		"url": "www.finanzamt-altenkirchen-hachenburg.de"
 	},
 	{
 		"buFaNr": "2706",
-		"name": "Bad Kreuznach"
+		"name": "Bad Kreuznach",
+		"url": "www.finanzamt-bad-kreuznach.de"
 	},
 	{
 		"buFaNr": "2708",
-		"name": "Bingen-Alzey"
+		"name": "Bingen-Alzey",
+		"url": "www.finanzamt-bingen-alzey.de"
 	},
 	{
 		"buFaNr": "2709",
-		"name": "Idar-Oberstein"
+		"name": "Idar-Oberstein",
+		"url": "www.finanzamt-idar-oberstein.de"
 	},
 	{
 		"buFaNr": "2710",
-		"name": "Bitburg-Prüm"
+		"name": "Bitburg-Prüm",
+		"url": "www.finanzamt-bitburg-pruem.de"
 	},
 	{
 		"buFaNr": "2713",
-		"name": "Landesfinanzkasse Daun"
+		"name": "Landesfinanzkasse Daun",
+		"url": "www.landesfinanzkasse-daun.de"
 	},
 	{
 		"buFaNr": "2718",
-		"name": "Altenkirchen-Hachenburg Aussenstelle Hachenburg"
+		"name": "Altenkirchen-Hachenburg Aussenstelle Hachenburg",
+		"url": "www.finanzamt-altenkirchen-hachenburg.de"
 	},
 	{
 		"buFaNr": "2719",
-		"name": "Kaiserslautern"
+		"name": "Kaiserslautern",
+		"url": "www.finanzamt-kaiserslautern.de"
 	},
 	{
 		"buFaNr": "2722",
-		"name": "Koblenz"
+		"name": "Koblenz",
+		"url": "www.finanzamt-koblenz.de"
 	},
 	{
 		"buFaNr": "2723",
-		"name": "Kusel-Landstuhl"
+		"name": "Kusel-Landstuhl",
+		"url": "www.finanzamt-kusel-landstuhl.de"
 	},
 	{
 		"buFaNr": "2724",
@@ -809,23 +984,28 @@
 	},
 	{
 		"buFaNr": "2725",
-		"name": "Kusel-Landstuhl Aussenstelle Landstuhl"
+		"name": "Kusel-Landstuhl Aussenstelle Landstuhl",
+		"url": "www.finanzamt-kusel-landstuhl.de"
 	},
 	{
 		"buFaNr": "2726",
-		"name": "Mainz"
+		"name": "Mainz",
+		"url": "https://www.finanzamt-mainz.de"
 	},
 	{
 		"buFaNr": "2727",
-		"name": "Ludwigshafen"
+		"name": "Ludwigshafen",
+		"url": "www.finanzamt-ludwigshafen.de"
 	},
 	{
 		"buFaNr": "2729",
-		"name": "Mayen"
+		"name": "Mayen",
+		"url": "www.finanzamt-mayen.de"
 	},
 	{
 		"buFaNr": "2730",
-		"name": "Montabaur-Diez"
+		"name": "Montabaur-Diez",
+		"url": "www.finanzamt-montabaur-diez.de"
 	},
 	{
 		"buFaNr": "2731",
@@ -837,11 +1017,13 @@
 	},
 	{
 		"buFaNr": "2734",
-		"name": "Kusel-Landstuhl für Erb/Schenk.St. Saarland"
+		"name": "Kusel-Landstuhl für Erb/Schenk.St. Saarland",
+		"url": "www.finanzamt-kusel-landstuhl.de"
 	},
 	{
 		"buFaNr": "2735",
-		"name": "Pirmasens"
+		"name": "Pirmasens",
+		"url": "www.finanzamt-pirmasens.de"
 	},
 	{
 		"buFaNr": "2740",
@@ -849,763 +1031,953 @@
 	},
 	{
 		"buFaNr": "2741",
-		"name": "Speyer-Germersheim"
+		"name": "Speyer-Germersheim",
+		"url": "www.finanzamt-speyer-germersheim.de"
 	},
 	{
 		"buFaNr": "2742",
-		"name": "Trier"
+		"name": "Trier",
+		"url": "www.finanzamt-trier.de"
 	},
 	{
 		"buFaNr": "2743",
-		"name": "Wittlich"
+		"name": "Wittlich",
+		"url": "www.finanzamt-wittlich.de"
 	},
 	{
 		"buFaNr": "2744",
-		"name": "Worms-Kirchheimbolanden"
+		"name": "Worms-Kirchheimbolanden",
+		"url": "www.finanzamt-worms-kirchheimbolanden.de"
 	},
 	{
 		"buFaNr": "2801",
-		"name": "Offenburg Außenstelle Achern"
+		"name": "Offenburg Außenstelle Achern",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2804",
-		"name": "Villingen-Schwenningen Außenstelle Donaueschingen"
+		"name": "Villingen-Schwenningen Außenstelle Donaueschingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2805",
-		"name": "Emmendingen"
+		"name": "Emmendingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2806",
-		"name": "Freiburg-Stadt"
+		"name": "Freiburg-Stadt",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2807",
-		"name": "Freiburg-Land"
+		"name": "Freiburg-Land",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2808",
-		"name": "Offenburg Außenstelle Kehl"
+		"name": "Offenburg Außenstelle Kehl",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2809",
-		"name": "Konstanz"
+		"name": "Konstanz",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2810",
-		"name": "Lahr"
+		"name": "Lahr",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2811",
-		"name": "Lörrach"
+		"name": "Lörrach",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2812",
-		"name": "Müllheim"
+		"name": "Müllheim",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2813",
-		"name": "Freiburg-Land Außenstelle Titisee-Neustadt"
+		"name": "Freiburg-Land Außenstelle Titisee-Neustadt",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2814",
-		"name": "Offenburg"
+		"name": "Offenburg",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2815",
-		"name": "Rottweil Außenstelle Oberndorf"
+		"name": "Rottweil Außenstelle Oberndorf",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2816",
-		"name": "Waldshut-Tiengen Außenstelle Bad Säckingen"
+		"name": "Waldshut-Tiengen Außenstelle Bad Säckingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2818",
-		"name": "Singen"
+		"name": "Singen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2819",
-		"name": "Rottweil"
+		"name": "Rottweil",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2820",
-		"name": "Waldshut-Tiengen"
+		"name": "Waldshut-Tiengen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2821",
-		"name": "Tuttlingen"
+		"name": "Tuttlingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2822",
-		"name": "Villingen-Schwenningen"
+		"name": "Villingen-Schwenningen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2823",
-		"name": "Offenburg Außenstelle Wolfach"
+		"name": "Offenburg Außenstelle Wolfach",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2830",
-		"name": "Bruchsal"
+		"name": "Bruchsal",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2831",
-		"name": "Ettlingen"
+		"name": "Ettlingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2832",
-		"name": "Heidelberg"
+		"name": "Heidelberg",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2833",
-		"name": "Baden-Baden"
+		"name": "Baden-Baden",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2834",
-		"name": "Karlsruhe-Durlach"
+		"name": "Karlsruhe-Durlach",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2835",
-		"name": "Karlsruhe-Stadt"
+		"name": "Karlsruhe-Stadt",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2836",
-		"name": "Baden-Baden Außenstelle Bühl"
+		"name": "Baden-Baden Außenstelle Bühl",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2837",
-		"name": "Mannheim-Neckarstadt"
+		"name": "Mannheim-Neckarstadt",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2838",
-		"name": "Mannheim-Stadt"
+		"name": "Mannheim-Stadt",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2839",
-		"name": "Rastatt"
+		"name": "Rastatt",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2840",
-		"name": "Mosbach"
+		"name": "Mosbach",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2841",
-		"name": "Pforzheim"
+		"name": "Pforzheim",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2842",
-		"name": "Freudenstadt"
+		"name": "Freudenstadt",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2843",
-		"name": "Schwetzingen"
+		"name": "Schwetzingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2844",
-		"name": "Sinsheim"
+		"name": "Sinsheim",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2845",
-		"name": "Calw"
+		"name": "Calw",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2846",
-		"name": "Mosbach Außenstelle Walldürn"
+		"name": "Mosbach Außenstelle Walldürn",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2847",
-		"name": "Weinheim"
+		"name": "Weinheim",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2848",
-		"name": "Mühlacker"
+		"name": "Mühlacker",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2849",
-		"name": "Pforzheim Außenstelle Neuenbürg"
+		"name": "Pforzheim Außenstelle Neuenbürg",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2850",
-		"name": "Aalen"
+		"name": "Aalen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2851",
-		"name": "Backnang"
+		"name": "Backnang",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2852",
-		"name": "Tauberbischofsheim Außenstelle Bad Mergentheim"
+		"name": "Tauberbischofsheim Außenstelle Bad Mergentheim",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2853",
-		"name": "Balingen"
+		"name": "Balingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2854",
-		"name": "Biberach"
+		"name": "Biberach",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2855",
-		"name": "Bietigheim-Bissingen"
+		"name": "Bietigheim-Bissingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2856",
-		"name": "Böblingen"
+		"name": "Böblingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2857",
-		"name": "Schwäbisch Hall Außenstelle Crailsheim"
+		"name": "Schwäbisch Hall Außenstelle Crailsheim",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2858",
-		"name": "Ehingen"
+		"name": "Ehingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2859",
-		"name": "Esslingen"
+		"name": "Esslingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2861",
-		"name": "Friedrichshafen"
+		"name": "Friedrichshafen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2862",
-		"name": "Göppingen Außenstelle Geislingen"
+		"name": "Göppingen Außenstelle Geislingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2863",
-		"name": "Göppingen"
+		"name": "Göppingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2864",
-		"name": "Heidenheim"
+		"name": "Heidenheim",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2865",
-		"name": "Heilbronn"
+		"name": "Heilbronn",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2869",
-		"name": "Nürtingen Außenstelle Kirchheim"
+		"name": "Nürtingen Außenstelle Kirchheim",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2870",
-		"name": "Leonberg"
+		"name": "Leonberg",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2871",
-		"name": "Ludwigsburg"
+		"name": "Ludwigsburg",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2874",
-		"name": "Nürtingen"
+		"name": "Nürtingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2876",
-		"name": "Öhringen"
+		"name": "Öhringen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2877",
-		"name": "Ravensburg"
+		"name": "Ravensburg",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2878",
-		"name": "Reutlingen"
+		"name": "Reutlingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2879",
-		"name": "Biberach Außenstelle Riedlingen"
+		"name": "Biberach Außenstelle Riedlingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2880",
-		"name": "Tauberbischofsheim"
+		"name": "Tauberbischofsheim",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2881",
-		"name": "Sigmaringen Außenstelle Bad Saulgau"
+		"name": "Sigmaringen Außenstelle Bad Saulgau",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2882",
-		"name": "Schorndorf"
+		"name": "Schorndorf",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2883",
-		"name": "Schwäbisch Gmünd"
+		"name": "Schwäbisch Gmünd",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2884",
-		"name": "Schwäbisch Hall"
+		"name": "Schwäbisch Hall",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2885",
-		"name": "Sigmaringen"
+		"name": "Sigmaringen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2886",
-		"name": "Tübingen"
+		"name": "Tübingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2887",
-		"name": "Überlingen (Bodensee)"
+		"name": "Überlingen (Bodensee)",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2888",
-		"name": "Ulm"
+		"name": "Ulm",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2889",
-		"name": "Bad Urach"
+		"name": "Bad Urach",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2890",
-		"name": "Waiblingen"
+		"name": "Waiblingen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2891",
-		"name": "Wangen"
+		"name": "Wangen",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2892",
-		"name": "Stuttgart IV"
+		"name": "Stuttgart IV",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2893",
-		"name": "Stuttgart I"
+		"name": "Stuttgart I",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2895",
-		"name": "Stuttgart II"
+		"name": "Stuttgart II",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2896",
-		"name": "Stuttgart Zentrales Konzernprüfungsamt"
+		"name": "Stuttgart Zentrales Konzernprüfungsamt",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2897",
-		"name": "Stuttgart III"
+		"name": "Stuttgart III",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2899",
-		"name": "Stuttgart-Körpersch."
+		"name": "Stuttgart-Körpersch.",
+		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "3046",
-		"name": "Potsdam"
+		"name": "Potsdam",
+		"url": "www.fa-potsdam.brandenburg.de"
 	},
 	{
 		"buFaNr": "3048",
-		"name": "Brandenburg"
+		"name": "Brandenburg",
+		"url": "www.fa-brandenburg.brandenburg.de"
 	},
 	{
 		"buFaNr": "3049",
-		"name": "Königs Wusterhausen"
+		"name": "Königs Wusterhausen",
+		"url": "www.fa-koenigs-wusterhausen.brandenburg.de"
 	},
 	{
 		"buFaNr": "3050",
-		"name": "Luckenwalde"
+		"name": "Luckenwalde",
+		"url": "www.fa-luckenwalde.brandenburg.de"
 	},
 	{
 		"buFaNr": "3051",
-		"name": "Nauen"
+		"name": "Nauen",
+		"url": "www.fa-nauen.brandenburg.de"
 	},
 	{
 		"buFaNr": "3052",
-		"name": "Kyritz"
+		"name": "Kyritz",
+		"url": "www.fa-kyritz.brandenburg.de"
 	},
 	{
 		"buFaNr": "3053",
-		"name": "Oranienburg"
+		"name": "Oranienburg",
+		"url": "www.fa-oranienburg.brandenburg.de"
 	},
 	{
 		"buFaNr": "3056",
-		"name": "Cottbus"
+		"name": "Cottbus",
+		"url": "www.fa-cottbus.brandenburg.de"
 	},
 	{
 		"buFaNr": "3057",
-		"name": "Calau"
+		"name": "Calau",
+		"url": "www.fa-calau.brandenburg.de"
 	},
 	{
 		"buFaNr": "3061",
-		"name": "Frankfurt (Oder)"
+		"name": "Frankfurt (Oder)",
+		"url": "www.fa-frankfurt-oder.brandenburg.de"
 	},
 	{
 		"buFaNr": "3062",
-		"name": "Angermünde"
+		"name": "Angermünde",
+		"url": "www.fa-angermuende.brandenburg.de"
 	},
 	{
 		"buFaNr": "3064",
-		"name": "Strausberg"
+		"name": "Strausberg",
+		"url": "www.fa-strausberg.brandenburg.de"
 	},
 	{
 		"buFaNr": "3065",
-		"name": "Eberswalde"
+		"name": "Eberswalde",
+		"url": "www.fa-eberswalde.brandenburg.de"
 	},
 	{
 		"buFaNr": "3102",
-		"name": "Magdeburg"
+		"name": "Magdeburg",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3103",
-		"name": "Genthin"
+		"name": "Genthin",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3105",
-		"name": "Haldensleben"
+		"name": "Haldensleben",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3106",
-		"name": "Salzwedel"
+		"name": "Salzwedel",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3107",
-		"name": "Staßfurt"
+		"name": "Staßfurt",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3108",
-		"name": "Stendal"
+		"name": "Stendal",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3110",
-		"name": "Halle (Saale)"
+		"name": "Halle (Saale)",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3112",
-		"name": "Merseburg"
+		"name": "Merseburg",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3114",
-		"name": "Dessau-Roßlau"
+		"name": "Dessau-Roßlau",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3115",
-		"name": "Wittenberg"
+		"name": "Wittenberg",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3116",
-		"name": "Bitterfeld-Wolfen"
+		"name": "Bitterfeld-Wolfen",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3117",
-		"name": "Quedlinburg"
+		"name": "Quedlinburg",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3118",
-		"name": "Eisleben"
+		"name": "Eisleben",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3119",
-		"name": "Naumburg"
+		"name": "Naumburg",
+		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3202",
-		"name": "Dresden-Nord"
+		"name": "Dresden-Nord",
+		"url": "http://www.finanzamt.sachsen.de/dresden-nord.html"
 	},
 	{
 		"buFaNr": "3203",
-		"name": "Dresden-Süd"
+		"name": "Dresden-Süd",
+		"url": "http://www.finanzamt.sachsen.de/dresden-sued.html"
 	},
 	{
 		"buFaNr": "3204",
-		"name": "Bautzen"
+		"name": "Bautzen",
+		"url": "http://www.finanzamt.sachsen.de/bautzen.html"
 	},
 	{
 		"buFaNr": "3207",
-		"name": "Görlitz"
+		"name": "Görlitz",
+		"url": "http://www.finanzamt.sachsen.de/goerlitz.html"
 	},
 	{
 		"buFaNr": "3208",
-		"name": "Löbau"
+		"name": "Löbau",
+		"url": "http://www.finanzamt.sachsen.de/loebau.html"
 	},
 	{
 		"buFaNr": "3209",
-		"name": "Meißen"
+		"name": "Meißen",
+		"url": "http://www.finanzamt.sachsen.de/meissen.html"
 	},
 	{
 		"buFaNr": "3210",
-		"name": "Pirna"
+		"name": "Pirna",
+		"url": "http://www.finanzamt.sachsen.de/pirna.html"
 	},
 	{
 		"buFaNr": "3213",
-		"name": "Hoyerswerda"
+		"name": "Hoyerswerda",
+		"url": "http://www.finanzamt.sachsen.de/hoyerswerda.html"
 	},
 	{
 		"buFaNr": "3214",
-		"name": "Chemnitz-Süd"
+		"name": "Chemnitz-Süd",
+		"url": "http://www.finanzamt.sachsen.de/chemnitz-sued.html"
 	},
 	{
 		"buFaNr": "3215",
-		"name": "Chemnitz-Mitte"
+		"name": "Chemnitz-Mitte",
+		"url": "http://www.finanzamt.sachsen.de/chemnitz-mitte.html"
 	},
 	{
 		"buFaNr": "3217",
-		"name": "Annaberg"
+		"name": "Annaberg",
+		"url": "http://www.finanzamt.sachsen.de/annaberg.html"
 	},
 	{
 		"buFaNr": "3218",
-		"name": "Schwarzenberg"
+		"name": "Schwarzenberg",
+		"url": "http://www.finanzamt.sachsen.de/schwarzenberg.html"
 	},
 	{
 		"buFaNr": "3220",
-		"name": "Freiberg"
+		"name": "Freiberg",
+		"url": "http://www.finanzamt.sachsen.de/freiberg.html"
 	},
 	{
 		"buFaNr": "3222",
-		"name": "Mittweida"
+		"name": "Mittweida",
+		"url": "http://www.finanzamt.sachsen.de/mittweida.html"
 	},
 	{
 		"buFaNr": "3223",
-		"name": "Plauen"
+		"name": "Plauen",
+		"url": "http://www.finanzamt.sachsen.de/plauen.html"
 	},
 	{
 		"buFaNr": "3224",
-		"name": "Stollberg"
+		"name": "Stollberg",
+		"url": "http://www.finanzamt.sachsen.de/stollberg.html"
 	},
 	{
 		"buFaNr": "3227",
-		"name": "Zwickau"
+		"name": "Zwickau",
+		"url": "http://www.finanzamt.sachsen.de/zwickau.html"
 	},
 	{
 		"buFaNr": "3228",
-		"name": "Zschopau"
+		"name": "Zschopau",
+		"url": "http://www.finanzamt.sachsen.de/zschopau.html"
 	},
 	{
 		"buFaNr": "3231",
-		"name": "Leipzig II"
+		"name": "Leipzig II",
+		"url": "http://www.finanzamt.sachsen.de/leipzig2.html"
 	},
 	{
 		"buFaNr": "3232",
-		"name": "Leipzig I"
+		"name": "Leipzig I",
+		"url": "http://www.finanzamt.sachsen.de/leipzig1.html"
 	},
 	{
 		"buFaNr": "3236",
-		"name": "Döbeln"
+		"name": "Döbeln",
+		"url": "http://www.finanzamt.sachsen.de/doebeln.html"
 	},
 	{
 		"buFaNr": "3237",
-		"name": "Eilenburg"
+		"name": "Eilenburg",
+		"url": "http://www.finanzamt.sachsen.de/eilenburg.html"
 	},
 	{
 		"buFaNr": "3238",
-		"name": "Grimma"
+		"name": "Grimma",
+		"url": "http://www.finanzamt.sachsen.de/grimma.html"
 	},
 	{
 		"buFaNr": "3239",
-		"name": "Oschatz"
+		"name": "Oschatz",
+		"url": "http://www.finanzamt.sachsen.de/oschatz.html"
 	},
 	{
 		"buFaNr": "4069",
-		"name": "Neubrandenburg - RAB"
+		"name": "Neubrandenburg - RAB",
+		"url": "www.finanzamt-neubrandenburg.de"
 	},
 	{
 		"buFaNr": "4070",
-		"name": "Neubrandenburg - RIA (Rentenempfänger im Ausland)"
+		"name": "Neubrandenburg - RIA (Rentenempfänger im Ausland)",
+		"url": "www.finanzamt-neubrandenburg.de"
 	},
 	{
 		"buFaNr": "4072",
-		"name": "Neubrandenburg"
+		"name": "Neubrandenburg",
+		"url": "www.finanzamt-neubrandenburg.de"
 	},
 	{
 		"buFaNr": "4075",
-		"name": "Waren"
+		"name": "Waren",
+		"url": "www.finanzamt-waren.de"
 	},
 	{
 		"buFaNr": "4079",
-		"name": "Rostock"
+		"name": "Rostock",
+		"url": "www.finanzamt-rostock.de"
 	},
 	{
 		"buFaNr": "4080",
-		"name": "Wismar"
+		"name": "Wismar",
+		"url": "www.finanzamt-wismar.de"
 	},
 	{
 		"buFaNr": "4081",
-		"name": "Ribnitz-Damgarten"
+		"name": "Ribnitz-Damgarten",
+		"url": "www.finanzamt-ribnitz-damgarten.de"
 	},
 	{
 		"buFaNr": "4082",
-		"name": "Stralsund"
+		"name": "Stralsund",
+		"url": "www.finanzamt-stralsund.de"
 	},
 	{
 		"buFaNr": "4084",
-		"name": "Greifswald"
+		"name": "Greifswald",
+		"url": "www.finanzamt-greifswald.de"
 	},
 	{
 		"buFaNr": "4086",
-		"name": "Güstrow"
+		"name": "Güstrow",
+		"url": "www.finanzamt-guestrow.de"
 	},
 	{
 		"buFaNr": "4087",
-		"name": "Hagenow"
+		"name": "Hagenow",
+		"url": "www.finanzamt-hagenow.de"
 	},
 	{
 		"buFaNr": "4090",
-		"name": "Schwerin"
+		"name": "Schwerin",
+		"url": "www.finanzamt-schwerin.de"
 	},
 	{
 		"buFaNr": "4151",
-		"name": "Erfurt"
+		"name": "Erfurt",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-erfurt/"
 	},
 	{
 		"buFaNr": "4154",
-		"name": "Ilmenau"
+		"name": "Ilmenau",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-ilmenau/"
 	},
 	{
 		"buFaNr": "4155",
-		"name": "Eisenach"
+		"name": "Eisenach",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-eisenach/"
 	},
 	{
 		"buFaNr": "4156",
-		"name": "Gotha"
+		"name": "Gotha",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-gotha"
 	},
 	{
 		"buFaNr": "4157",
-		"name": "Mühlhausen"
+		"name": "Mühlhausen",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-muehlhausen/"
 	},
 	{
 		"buFaNr": "4159",
-		"name": "Sondershausen"
+		"name": "Sondershausen",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-sondershausen/"
 	},
 	{
 		"buFaNr": "4161",
-		"name": "Gera"
+		"name": "Gera",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-gera/"
 	},
 	{
 		"buFaNr": "4162",
-		"name": "Jena"
+		"name": "Jena",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-jena/"
 	},
 	{
 		"buFaNr": "4165",
-		"name": "Pößneck"
+		"name": "Pößneck",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-poessneck/"
 	},
 	{
 		"buFaNr": "4166",
-		"name": "Altenburg"
+		"name": "Altenburg",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-altenburg/"
 	},
 	{
 		"buFaNr": "4170",
-		"name": "Sonneberg"
+		"name": "Sonneberg",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-sonneberg/"
 	},
 	{
 		"buFaNr": "4171",
-		"name": "Suhl"
+		"name": "Suhl",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-suhl/"
 	},
 	{
 		"buFaNr": "5101",
-		"name": "Dinslaken"
+		"name": "Dinslaken",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5102",
-		"name": "Viersen"
+		"name": "Viersen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5103",
-		"name": "Düsseldorf-Altstadt"
+		"name": "Düsseldorf-Altstadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5105",
-		"name": "Düsseldorf-Nord"
+		"name": "Düsseldorf-Nord",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5106",
-		"name": "Düsseldorf-Süd"
+		"name": "Düsseldorf-Süd",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5107",
-		"name": "Duisburg-Hamborn"
+		"name": "Duisburg-Hamborn",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5109",
-		"name": "Duisburg-Süd"
+		"name": "Duisburg-Süd",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5111",
-		"name": "Essen-NordOst"
+		"name": "Essen-NordOst",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5112",
-		"name": "Essen-Süd"
+		"name": "Essen-Süd",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5113",
-		"name": "Geldern"
+		"name": "Geldern",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5114",
-		"name": "Grevenbroich"
+		"name": "Grevenbroich",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5115",
-		"name": "Kempen"
+		"name": "Kempen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5116",
-		"name": "Kleve"
+		"name": "Kleve",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5117",
-		"name": "Krefeld"
+		"name": "Krefeld",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5119",
-		"name": "Kamp-Lintfort"
+		"name": "Kamp-Lintfort",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5120",
-		"name": "Mülheim an der Ruhr"
+		"name": "Mülheim an der Ruhr",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5121",
-		"name": "Mönchengladbach"
+		"name": "Mönchengladbach",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5122",
-		"name": "Neuss"
+		"name": "Neuss",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5123",
-		"name": "Oberhausen-Nord"
+		"name": "Oberhausen-Nord",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5124",
-		"name": "Oberhausen-Süd"
+		"name": "Oberhausen-Süd",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5126",
-		"name": "Remscheid"
+		"name": "Remscheid",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5128",
-		"name": "Solingen"
+		"name": "Solingen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5130",
-		"name": "Wesel"
+		"name": "Wesel",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5131",
-		"name": "Wuppertal-Barmen"
+		"name": "Wuppertal-Barmen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5132",
-		"name": "Wuppertal-Elberfeld"
+		"name": "Wuppertal-Elberfeld",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5133",
-		"name": "Düsseldorf-Mitte"
+		"name": "Düsseldorf-Mitte",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5134",
-		"name": "Duisburg-West"
+		"name": "Duisburg-West",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5135",
-		"name": "Hilden"
+		"name": "Hilden",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5139",
-		"name": "Velbert"
+		"name": "Velbert",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5147",
-		"name": "Düsseldorf-Mettmann"
+		"name": "Düsseldorf-Mettmann",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5149",
@@ -1649,103 +2021,128 @@
 	},
 	{
 		"buFaNr": "5201",
-		"name": "Aachen-Stadt"
+		"name": "Aachen-Stadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5202",
-		"name": "Aachen-Kreis"
+		"name": "Aachen-Kreis",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5203",
-		"name": "Bergheim"
+		"name": "Bergheim",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5204",
-		"name": "Bergisch Gladbach"
+		"name": "Bergisch Gladbach",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5205",
-		"name": "Bonn-Innenstadt"
+		"name": "Bonn-Innenstadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5206",
-		"name": "Bonn-Außenstadt"
+		"name": "Bonn-Außenstadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5207",
-		"name": "Düren"
+		"name": "Düren",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5208",
-		"name": "Erkelenz"
+		"name": "Erkelenz",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5209",
-		"name": "Euskirchen"
+		"name": "Euskirchen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5210",
-		"name": "Geilenkirchen"
+		"name": "Geilenkirchen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5211",
-		"name": "Schleiden"
+		"name": "Schleiden",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5212",
-		"name": "Gummersbach"
+		"name": "Gummersbach",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5213",
-		"name": "Jülich"
+		"name": "Jülich",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5214",
-		"name": "Köln-Altstadt"
+		"name": "Köln-Altstadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5215",
-		"name": "Köln-Mitte"
+		"name": "Köln-Mitte",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5216",
-		"name": "Köln-Porz"
+		"name": "Köln-Porz",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5217",
-		"name": "Köln-Nord"
+		"name": "Köln-Nord",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5218",
-		"name": "Köln-Ost"
+		"name": "Köln-Ost",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5219",
-		"name": "Köln-Süd"
+		"name": "Köln-Süd",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5220",
-		"name": "Siegburg"
+		"name": "Siegburg",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5221",
-		"name": "Wipperfürth"
+		"name": "Wipperfürth",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5222",
-		"name": "Sankt Augustin"
+		"name": "Sankt Augustin",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5223",
-		"name": "Köln-West"
+		"name": "Köln-West",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5224",
-		"name": "Brühl"
+		"name": "Brühl",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5230",
-		"name": "Leverkusen"
+		"name": "Leverkusen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5270",
@@ -1773,199 +2170,248 @@
 	},
 	{
 		"buFaNr": "5301",
-		"name": "Ahaus"
+		"name": "Ahaus",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5302",
-		"name": "Altena"
+		"name": "Altena",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5303",
-		"name": "Arnsberg"
+		"name": "Arnsberg",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5304",
-		"name": "Beckum"
+		"name": "Beckum",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5305",
-		"name": "Bielefeld-Innenstadt"
+		"name": "Bielefeld-Innenstadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5306",
-		"name": "Bochum-Mitte"
+		"name": "Bochum-Mitte",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5307",
-		"name": "Borken"
+		"name": "Borken",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5308",
-		"name": "Bottrop"
+		"name": "Bottrop",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5309",
-		"name": "Brilon"
+		"name": "Brilon",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5310",
-		"name": "Bünde"
+		"name": "Bünde",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5311",
-		"name": "Steinfurt"
+		"name": "Steinfurt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5312",
-		"name": "Coesfeld"
+		"name": "Coesfeld",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5313",
-		"name": "Detmold"
+		"name": "Detmold",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5314",
-		"name": "Dortmund-West"
+		"name": "Dortmund-West",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5315",
-		"name": "Dortmund-Hörde"
+		"name": "Dortmund-Hörde",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5316",
-		"name": "Dortmund-Unna"
+		"name": "Dortmund-Unna",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5317",
-		"name": "Dortmund-Ost"
+		"name": "Dortmund-Ost",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5319",
-		"name": "Gelsenkirchen"
+		"name": "Gelsenkirchen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5321",
-		"name": "Hagen"
+		"name": "Hagen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5322",
-		"name": "Hamm"
+		"name": "Hamm",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5323",
-		"name": "Hattingen"
+		"name": "Hattingen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5324",
-		"name": "Herford"
+		"name": "Herford",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5325",
-		"name": "Herne"
+		"name": "Herne",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5326",
-		"name": "Höxter"
+		"name": "Höxter",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5327",
-		"name": "Ibbenbüren"
+		"name": "Ibbenbüren",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5328",
-		"name": "Iserlohn"
+		"name": "Iserlohn",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5329",
-		"name": "Lemgo"
+		"name": "Lemgo",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5330",
-		"name": "Lippstadt"
+		"name": "Lippstadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5331",
-		"name": "Lübbecke"
+		"name": "Lübbecke",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5332",
-		"name": "Lüdenscheid"
+		"name": "Lüdenscheid",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5333",
-		"name": "Lüdinghausen"
+		"name": "Lüdinghausen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5334",
-		"name": "Meschede"
+		"name": "Meschede",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5335",
-		"name": "Minden"
+		"name": "Minden",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5336",
-		"name": "Münster-Außenstadt"
+		"name": "Münster-Außenstadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5337",
-		"name": "Münster-Innenstadt"
+		"name": "Münster-Innenstadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5338",
-		"name": "Olpe"
+		"name": "Olpe",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5339",
-		"name": "Paderborn"
+		"name": "Paderborn",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5340",
-		"name": "Recklinghausen"
+		"name": "Recklinghausen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5341",
-		"name": "Schwelm"
+		"name": "Schwelm",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5342",
-		"name": "Siegen"
+		"name": "Siegen",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5343",
-		"name": "Soest"
+		"name": "Soest",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5345",
-		"name": "Warburg"
+		"name": "Warburg",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5346",
-		"name": "Warendorf"
+		"name": "Warendorf",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5347",
-		"name": "Wiedenbrück"
+		"name": "Wiedenbrück",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5348",
-		"name": "Witten"
+		"name": "Witten",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5349",
-		"name": "Bielefeld-Außenstadt"
+		"name": "Bielefeld-Außenstadt",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5350",
-		"name": "Bochum-Süd"
+		"name": "Bochum-Süd",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5351",
-		"name": "Gütersloh"
+		"name": "Gütersloh",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5359",
-		"name": "Marl"
+		"name": "Marl",
+		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5371",
@@ -2009,63 +2455,78 @@
 	},
 	{
 		"buFaNr": "9101",
-		"name": "Augsburg-Stadt Arbeitnehmerbereich"
+		"name": "Augsburg-Stadt Arbeitnehmerbereich",
+		"url": "www.finanzamt-augsburg-stadt.de"
 	},
 	{
 		"buFaNr": "9102",
-		"name": "Augsburg-Land"
+		"name": "Augsburg-Land",
+		"url": "www.finanzamt-augsburg-land.de"
 	},
 	{
 		"buFaNr": "9103",
-		"name": "Augsburg-Stadt"
+		"name": "Augsburg-Stadt",
+		"url": "www.finanzamt-augsburg-stadt.de"
 	},
 	{
 		"buFaNr": "9104",
-		"name": "Wolfratshausen - Bad Tölz"
+		"name": "Wolfratshausen - Bad Tölz",
+		"url": "www.finanzamt-bad-toelz.de"
 	},
 	{
 		"buFaNr": "9105",
-		"name": "Berchtesgaden-Laufen"
+		"name": "Berchtesgaden-Laufen",
+		"url": "www.finanzamt-berchtesgaden.de"
 	},
 	{
 		"buFaNr": "9106",
-		"name": "Burghausen"
+		"name": "Burghausen",
+		"url": "www.finanzamt-burghausen.de"
 	},
 	{
 		"buFaNr": "9107",
-		"name": "Dachau"
+		"name": "Dachau",
+		"url": "www.finanzamt-dachau.de"
 	},
 	{
 		"buFaNr": "9108",
-		"name": "Deggendorf"
+		"name": "Deggendorf",
+		"url": "www.finanzamt-deggendorf.de"
 	},
 	{
 		"buFaNr": "9109",
-		"name": "Dillingen"
+		"name": "Dillingen",
+		"url": "www.finanzamt-dillingen.de"
 	},
 	{
 		"buFaNr": "9110",
-		"name": "Dingolfing"
+		"name": "Dingolfing",
+		"url": "www.finanzamt-dingolfing.de"
 	},
 	{
 		"buFaNr": "9111",
-		"name": "Nördlingen mit ASt Donauwörth"
+		"name": "Nördlingen mit ASt Donauwörth",
+		"url": "www.finanzamt-donauwoerth.de"
 	},
 	{
 		"buFaNr": "9112",
-		"name": "Ebersberg"
+		"name": "Ebersberg",
+		"url": "www.finanzamt-ebersberg.de"
 	},
 	{
 		"buFaNr": "9113",
-		"name": "Eggenfelden"
+		"name": "Eggenfelden",
+		"url": "www.finanzamt-eggenfelden.de"
 	},
 	{
 		"buFaNr": "9114",
-		"name": "Erding"
+		"name": "Erding",
+		"url": "www.finanzamt-erding.de"
 	},
 	{
 		"buFaNr": "9115",
-		"name": "Freising"
+		"name": "Freising",
+		"url": "www.finanzamt-freising.de"
 	},
 	{
 		"buFaNr": "9116",
@@ -2073,330 +2534,412 @@
 	},
 	{
 		"buFaNr": "9117",
-		"name": "Fürstenfeldbruck"
+		"name": "Fürstenfeldbruck",
+		"url": "www.finanzamt-fuerstenfeldbruck.de"
 	},
 	{
 		"buFaNr": "9119",
-		"name": "Garmisch-Partenkirchen"
+		"name": "Garmisch-Partenkirchen",
+		"url": "www.finanzamt-garmisch-partenkirchen.de"
 	},
 	{
 		"buFaNr": "9121",
-		"name": "Günzburg"
+		"name": "Günzburg",
+		"url": "www.finanzamt-guenzburg.de"
 	},
 	{
 		"buFaNr": "9123",
-		"name": "Kempten-Immenstadt"
+		"name": "Kempten-Immenstadt",
+		"url": "www.finanzamt-immenstadt.de"
 	},
 	{
 		"buFaNr": "9124",
-		"name": "Ingolstadt"
+		"name": "Ingolstadt",
+		"url": "www.finanzamt-ingolstadt.de"
 	},
 	{
 		"buFaNr": "9125",
-		"name": "Kaufbeuren m. ASt Füssen"
+		"name": "Kaufbeuren m. ASt Füssen",
+		"url": "www.finanzamt-kaufbeuren.de"
 	},
 	{
 		"buFaNr": "9126",
-		"name": "Kelheim"
+		"name": "Kelheim",
+		"url": "www.finanzamt-kelheim.de"
 	},
 	{
 		"buFaNr": "9127",
-		"name": "Kempten-Immenstadt"
+		"name": "Kempten-Immenstadt",
+		"url": "www.finanzamt-kempten.de"
 	},
 	{
 		"buFaNr": "9131",
-		"name": "Landsberg am Lech"
+		"name": "Landsberg am Lech",
+		"url": "www.finanzamt-landsberg.de"
 	},
 	{
 		"buFaNr": "9132",
-		"name": "Landshut"
+		"name": "Landshut",
+		"url": "www.finanzamt-landshut.de"
 	},
 	{
 		"buFaNr": "9134",
-		"name": "Lindau"
+		"name": "Lindau",
+		"url": "www.finanzamt-lindau.de"
 	},
 	{
 		"buFaNr": "9138",
-		"name": "Memmingen-Mindelheim"
+		"name": "Memmingen-Mindelheim",
+		"url": "www.finanzamt-memmingen.de"
 	},
 	{
 		"buFaNr": "9139",
-		"name": "Miesbach"
+		"name": "Miesbach",
+		"url": "www.finanzamt-miesbach.de"
 	},
 	{
 		"buFaNr": "9140",
-		"name": "Memmingen-Mindelheim"
+		"name": "Memmingen-Mindelheim",
+		"url": "www.finanzamt-mindelheim.de"
 	},
 	{
 		"buFaNr": "9141",
-		"name": "Mühldorf"
+		"name": "Mühldorf",
+		"url": "www.finanzamt-muehldorf.de"
 	},
 	{
 		"buFaNr": "9142",
-		"name": "München Bewertung des Grundbesitzes"
+		"name": "München Bewertung des Grundbesitzes",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9143",
-		"name": "München Körperschaften/PersonenGesellschaften"
+		"name": "München Körperschaften/PersonenGesellschaften",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9144",
-		"name": "München Gewinneinkünfte"
+		"name": "München Gewinneinkünfte",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9145",
-		"name": "München Gewinneinkünfte"
+		"name": "München Gewinneinkünfte",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9146",
-		"name": "München Gewinneinkünfte"
+		"name": "München Gewinneinkünfte",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9147",
-		"name": "München Gewinneinkünfte"
+		"name": "München Gewinneinkünfte",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9148",
-		"name": "München Gewinneinkünfte"
+		"name": "München Gewinneinkünfte",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9149",
-		"name": "München Erhebung"
+		"name": "München Erhebung",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9151",
-		"name": "Neu-Ulm"
+		"name": "Neu-Ulm",
+		"url": "www.finanzamt-neu-ulm.de"
 	},
 	{
 		"buFaNr": "9152",
-		"name": "Nördlingen mit ASt Donauwörth"
+		"name": "Nördlingen mit ASt Donauwörth",
+		"url": "www.finanzamt-noerdlingen.de"
 	},
 	{
 		"buFaNr": "9153",
-		"name": "Passau mit Außenstellen"
+		"name": "Passau mit Außenstellen",
+		"url": "www.finanzamt-passau.de"
 	},
 	{
 		"buFaNr": "9154",
-		"name": "Pfaffenhofen"
+		"name": "Pfaffenhofen",
+		"url": "www.finanzamt-pfaffenhofen.de"
 	},
 	{
 		"buFaNr": "9156",
-		"name": "Rosenheim m. ASt Wasserburg"
+		"name": "Rosenheim m. ASt Wasserburg",
+		"url": "www.finanzamt-rosenheim.de"
 	},
 	{
 		"buFaNr": "9157",
-		"name": "Grafenau"
+		"name": "Grafenau",
+		"url": "www.finanzamt-grafenau.de"
 	},
 	{
 		"buFaNr": "9159",
-		"name": "Schrobenhausen m. ASt Neuburg"
+		"name": "Schrobenhausen m. ASt Neuburg",
+		"url": "www.finanzamt-schrobenhausen.de"
 	},
 	{
 		"buFaNr": "9161",
-		"name": "Starnberg"
+		"name": "Starnberg",
+		"url": "www.finanzamt-starnberg.de"
 	},
 	{
 		"buFaNr": "9162",
-		"name": "Straubing"
+		"name": "Straubing",
+		"url": "www.finanzamt-straubing.de"
 	},
 	{
 		"buFaNr": "9163",
-		"name": "Traunstein"
+		"name": "Traunstein",
+		"url": "www.finanzamt-traunstein.de"
 	},
 	{
 		"buFaNr": "9168",
-		"name": "Weilheim-Schongau"
+		"name": "Weilheim-Schongau",
+		"url": "www.finanzamt-weilheim.de"
 	},
 	{
 		"buFaNr": "9169",
-		"name": "Wolfratshausen - Bad Tölz"
+		"name": "Wolfratshausen - Bad Tölz",
+		"url": "www.finanzamt-wolfratshausen.de"
 	},
 	{
 		"buFaNr": "9170",
-		"name": "Zwiesel m. ASt Viechtach"
+		"name": "Zwiesel m. ASt Viechtach",
+		"url": "www.finanzamt-zwiesel.de"
 	},
 	{
 		"buFaNr": "9171",
-		"name": "Eichstätt"
+		"name": "Eichstätt",
+		"url": "www.finanzamt-eichstaett.de"
 	},
 	{
 		"buFaNr": "9181",
-		"name": "München Überschusseinkünfte"
+		"name": "München Überschusseinkünfte",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9182",
-		"name": "München Überschusseinkünfte u. Beschränkt Steuerpfl."
+		"name": "München Überschusseinkünfte u. Beschränkt Steuerpfl.",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9183",
-		"name": "München Überschusseinkünfte"
+		"name": "München Überschusseinkünfte",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9184",
-		"name": "München Überschusseinkünfte"
+		"name": "München Überschusseinkünfte",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9185",
-		"name": "München Überschusseinkünfte"
+		"name": "München Überschusseinkünfte",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9187",
-		"name": "München Körperschaften"
+		"name": "München Körperschaften",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9188",
-		"name": "München Betriebsprüfung"
+		"name": "München Betriebsprüfung",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9189",
-		"name": "München Erhebung"
+		"name": "München Erhebung",
+		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9201",
-		"name": "Amberg"
+		"name": "Amberg",
+		"url": "www.finanzamt-amberg.de"
 	},
 	{
 		"buFaNr": "9202",
-		"name": "Obernburg am Main mit Außenstelle Amorbach"
+		"name": "Obernburg am Main mit Außenstelle Amorbach",
+		"url": "www.finanzamt-amorbach.de"
 	},
 	{
 		"buFaNr": "9203",
-		"name": "Ansbach mit Außenstellen"
+		"name": "Ansbach mit Außenstellen",
+		"url": "www.finanzamt-ansbach.de"
 	},
 	{
 		"buFaNr": "9204",
-		"name": "Aschaffenburg"
+		"name": "Aschaffenburg",
+		"url": "www.finanzamt-aschaffenburg.de"
 	},
 	{
 		"buFaNr": "9205",
-		"name": "Bad Kissingen"
+		"name": "Bad Kissingen",
+		"url": "www.finanzamt-bad-kissingen.de"
 	},
 	{
 		"buFaNr": "9206",
-		"name": "Bad Neustadt a.d.S."
+		"name": "Bad Neustadt a.d.S.",
+		"url": "www.finanzamt-bad-neustadt.de"
 	},
 	{
 		"buFaNr": "9207",
-		"name": "Bamberg"
+		"name": "Bamberg",
+		"url": "www.finanzamt-bamberg.de"
 	},
 	{
 		"buFaNr": "9208",
-		"name": "Bayreuth"
+		"name": "Bayreuth",
+		"url": "www.finanzamt-bayreuth.de"
 	},
 	{
 		"buFaNr": "9211",
-		"name": "Cham mit Außenstellen"
+		"name": "Cham mit Außenstellen",
+		"url": "www.finanzamt-cham.de"
 	},
 	{
 		"buFaNr": "9212",
-		"name": "Coburg"
+		"name": "Coburg",
+		"url": "www.finanzamt-coburg.de"
 	},
 	{
 		"buFaNr": "9216",
-		"name": "Erlangen"
+		"name": "Erlangen",
+		"url": "www.finanzamt-erlangen.de"
 	},
 	{
 		"buFaNr": "9217",
-		"name": "Forchheim"
+		"name": "Forchheim",
+		"url": "www.finanzamt-forchheim.de"
 	},
 	{
 		"buFaNr": "9218",
-		"name": "Fürth"
+		"name": "Fürth",
+		"url": "www.finanzamt-fuerth.de"
 	},
 	{
 		"buFaNr": "9220",
-		"name": "Gunzenhausen"
+		"name": "Gunzenhausen",
+		"url": "www.finanzamt-gunzenhausen.de"
 	},
 	{
 		"buFaNr": "9221",
-		"name": "Hersbruck"
+		"name": "Hersbruck",
+		"url": "www.finanzamt-hersbruck.de"
 	},
 	{
 		"buFaNr": "9222",
-		"name": "Hilpoltstein"
+		"name": "Hilpoltstein",
+		"url": "www.finanzamt-hilpoltstein.de"
 	},
 	{
 		"buFaNr": "9223",
-		"name": "Hof mit Außenstellen"
+		"name": "Hof mit Außenstellen",
+		"url": "www.finanzamt-hof.de"
 	},
 	{
 		"buFaNr": "9227",
-		"name": "Kitzingen"
+		"name": "Kitzingen",
+		"url": "www.finanzamt-kitzingen.de"
 	},
 	{
 		"buFaNr": "9228",
-		"name": "Kronach"
+		"name": "Kronach",
+		"url": "www.finanzamt-kronach.de"
 	},
 	{
 		"buFaNr": "9229",
-		"name": "Kulmbach"
+		"name": "Kulmbach",
+		"url": "www.finanzamt-kulmbach.de"
 	},
 	{
 		"buFaNr": "9230",
-		"name": "Lichtenfels"
+		"name": "Lichtenfels",
+		"url": "www.finanzamt-lichtenfels.de"
 	},
 	{
 		"buFaNr": "9231",
-		"name": "Lohr a. Main mit Außenstellen"
+		"name": "Lohr a. Main mit Außenstellen",
+		"url": "www.finanzamt-lohr.de"
 	},
 	{
 		"buFaNr": "9232",
-		"name": "Lohr a. Main mit Außenstellen – Grunderwerbsteuer"
+		"name": "Lohr a. Main mit Außenstellen – Grunderwerbsteuer",
+		"url": "www.finanzamt-lohr.de"
 	},
 	{
 		"buFaNr": "9235",
-		"name": "Neumarkt i.d.Opf."
+		"name": "Neumarkt i.d.Opf.",
+		"url": "/www.finanzamt-neumarkt.de"
 	},
 	{
 		"buFaNr": "9238",
-		"name": "Nürnberg-Nord"
+		"name": "Nürnberg-Nord",
+		"url": "www.finanzamt-nuernberg-nord.de"
 	},
 	{
 		"buFaNr": "9240",
-		"name": "Nürnberg-Süd"
+		"name": "Nürnberg-Süd",
+		"url": "www.finanzamt-nuernberg-sued.de"
 	},
 	{
 		"buFaNr": "9241",
-		"name": "Nürnberg-Zentral"
+		"name": "Nürnberg-Zentral",
+		"url": "www.zentralfinanzamt-nuernberg.de"
 	},
 	{
 		"buFaNr": "9244",
-		"name": "Regensburg"
+		"name": "Regensburg",
+		"url": "www.finanzamt-regensburg.de"
 	},
 	{
 		"buFaNr": "9247",
-		"name": "Schwabach"
+		"name": "Schwabach",
+		"url": "www.finanzamt-schwabach.de"
 	},
 	{
 		"buFaNr": "9248",
-		"name": "Schwandorf mit Außenstelle Neunburg v. W."
+		"name": "Schwandorf mit Außenstelle Neunburg v. W.",
+		"url": "www.finanzamt-schwandorf.de"
 	},
 	{
 		"buFaNr": "9249",
-		"name": "Schweinfurt"
+		"name": "Schweinfurt",
+		"url": "www.finanzamt-schweinfurt.de"
 	},
 	{
 		"buFaNr": "9252",
-		"name": "Uffenheim"
+		"name": "Uffenheim",
+		"url": "www.finanzamt-uffenheim.de"
 	},
 	{
 		"buFaNr": "9254",
-		"name": "Waldsassen"
+		"name": "Waldsassen",
+		"url": "www.finanzamt-waldsassen.de"
 	},
 	{
 		"buFaNr": "9255",
-		"name": "Weiden i.d.Opf."
+		"name": "Weiden i.d.Opf.",
+		"url": "www.finanzamt-weiden.de"
 	},
 	{
 		"buFaNr": "9257",
-		"name": "Würzburg mit Außenstelle Ochsenfurt"
+		"name": "Würzburg mit Außenstelle Ochsenfurt",
+		"url": "www.finanzamt-wuerzburg.de"
 	},
 	{
 		"buFaNr": "9258",
-		"name": "Wunsiedel mit Außenstelle Selb"
+		"name": "Wunsiedel mit Außenstelle Selb",
+		"url": "www.finanzamt-wunsiedel.de"
 	},
 	{
 		"buFaNr": "9259",
-		"name": "Zeil am Main mit Außenstelle Ebern"
+		"name": "Zeil am Main mit Außenstelle Ebern",
+		"url": "www.finanzamt-zeil.de"
 	}
 ]
