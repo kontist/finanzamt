@@ -20,6 +20,7 @@ finanzamt('1131');
 ## API
 
 ### finanzamt(bundesfinanzamtsnummer)
+### finanzamt(steuernummer)
 
 Returns a [Finanzamt object](#finanzamt-1).
 
@@ -28,6 +29,14 @@ Returns a [Finanzamt object](#finanzamt-1).
 Type: `string`
 
 German federal tax office number (*Bundesfinanzamtsnummer*).
+
+#### steuernummer
+
+Type: `string`
+
+German tax number (*Steuernummer*) in the national format.
+
+**Tip:** Use [normalize-steuernummer](https://github.com/kontist/normalize-steuernummer).
 
 ### Finanzamt
 

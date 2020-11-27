@@ -1,14 +1,21 @@
 'use strict';
 const finanzaemter = require('./data/finanzaemter.json');
 
-module.exports = (bundesfinanzamtsnummer) => {
-  if (typeof bundesfinanzamtsnummer !== 'string') {
-    throw new TypeError('`bundesfinanzamtsnummer` must be a string');
+module.exports = (input) => {
+  if (typeof input !== 'string') {
+    throw new TypeError(
+      '`bundesfinanzamtsnummer` or `steuernummer` must be a string'
+    );
   }
 
-  if (bundesfinanzamtsnummer.length !== 4) {
-    throw new TypeError('`bundesfinanzamtsnummer` must be 4 characters long');
+  if (input.length !== 4 && input.length !== 13) {
+    throw new TypeError(
+      '`bundesfinanzamtsnummer` or `steuernummer` must be 4 or 13 characters long respectively'
+    );
   }
+
+  const bundesfinanzamtsnummer =
+    input.length === 13 ? input.slice(0, 4) : input;
 
   return finanzaemter.find((finanzamt) => {
     return finanzamt.buFaNr === bundesfinanzamtsnummer;
