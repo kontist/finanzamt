@@ -332,11 +332,6 @@
 		"url": "http://www.hamburg.de/fb/ost-start/"
 	},
 	{
-		"buFaNr": "2312",
-		"name": "Bad Gandersheim",
-		"url": "www.lstn.niedersachsen.de"
-	},
-	{
 		"buFaNr": "2313",
 		"name": "Braunschweig-Altewiekring",
 		"url": "www.lstn.niedersachsen.de"
@@ -378,8 +373,7 @@
 	},
 	{
 		"buFaNr": "2321",
-		"name": "Goslar",
-		"url": "www.lstn.niedersachsen.de"
+		"name": "Goslar-Bad Gandersheim"
 	},
 	{
 		"buFaNr": "2322",
@@ -959,11 +953,6 @@
 		"url": "www.landesfinanzkasse-daun.de"
 	},
 	{
-		"buFaNr": "2718",
-		"name": "Altenkirchen-Hachenburg Aussenstelle Hachenburg",
-		"url": "www.finanzamt-altenkirchen-hachenburg.de"
-	},
-	{
 		"buFaNr": "2719",
 		"name": "Kaiserslautern",
 		"url": "www.finanzamt-kaiserslautern.de"
@@ -981,11 +970,6 @@
 	{
 		"buFaNr": "2724",
 		"name": "Landau"
-	},
-	{
-		"buFaNr": "2725",
-		"name": "Kusel-Landstuhl Aussenstelle Landstuhl",
-		"url": "www.finanzamt-kusel-landstuhl.de"
 	},
 	{
 		"buFaNr": "2726",
