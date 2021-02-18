@@ -2,6 +2,7 @@
 const path = require('path');
 const got = require('got');
 const cheerio = require('cheerio');
+const del = require('del');
 const download = require('download');
 
 const pageUrl =
@@ -16,5 +17,6 @@ const downloadDirectory = path.join(__dirname, '..', 'data');
     .prop('href');
   const downloadUrl = new URL(downloadLink, pageUrl);
 
+  await del('data/GemFA_Export_*.xml');
   await download(downloadUrl, downloadDirectory, {extract: true});
 })();

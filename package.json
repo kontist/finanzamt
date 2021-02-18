@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "del": "^6.0.0",
     "download": "^8.0.0",
     "globby": "^11.0.1",
     "got": "^11.3.0",
