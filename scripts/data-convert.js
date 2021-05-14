@@ -1,6 +1,4 @@
 'use strict';
-// This script is only for development and therefore doesn’t need to support Node.js v10.
-// eslint-disable-next-line node/no-unsupported-features/node-builtins
 const fs = require('fs').promises;
 const globby = require('globby');
 const xml2js = require('xml2js');
