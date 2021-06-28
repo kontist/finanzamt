@@ -543,7 +543,7 @@
 	},
 	{
 		"buFaNr": "2358",
-		"name": "Emden",
+		"name": "Emden-Norden",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
@@ -554,11 +554,6 @@
 	{
 		"buFaNr": "2361",
 		"name": "Lingen (Ems)",
-		"url": "www.lstn.niedersachsen.de"
-	},
-	{
-		"buFaNr": "2362",
-		"name": "Norden",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
@@ -2926,5 +2921,9 @@
 		"buFaNr": "9259",
 		"name": "Zeil am Main mit Außenstelle Ebern",
 		"url": "www.finanzamt-zeil.de"
+	},
+	{
+		"buFaNr": "2171",
+		"name": "Bad Segeberg Bewertung für Grundsteuer 71"
 	}
 ]
