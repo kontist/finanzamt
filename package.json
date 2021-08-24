@@ -24,7 +24,7 @@
     "index.js"
   ],
   "scripts": {
-    "data:convert": "node scripts/data-convert.js",
+    "data:convert": "node scripts/data-convert.mjs",
     "data:download": "node scripts/data-download.js",
     "test": "xo && mocha"
   },
@@ -32,7 +32,7 @@
     "cheerio": "^1.0.0-rc.10",
     "del": "^6.0.0",
     "download": "^8.0.0",
-    "globby": "^12.0.1",
+    "globby": "^12.0.2",
     "got": "^11.8.2",
     "lodash": "^4.17.21",
     "mocha": "^9.1.0",
@@ -49,6 +49,12 @@
       "node"
     ],
     "space": true,
-    "prettier": true
+    "prettier": true,
+    "rules": {
+      "unicorn/prefer-module": 0
+    }
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }

@@ -1,4 +1,3 @@
-'use strict';
 const assert = require('assert');
 const finanzamt = require('.');
 
@@ -6,7 +5,22 @@ it('returns information about the Finanzamt Prenzlauer Berg', () => {
   assert.deepStrictEqual(finanzamt('1131'), {
     buFaNr: '1131',
     name: 'Prenzlauer Berg',
-    url: 'http://www.berlin.de/sen/finanzen'
+    kontakt: {
+      tel: '030 9024-28 0',
+      fax: '030 9024-28 900',
+      email: 'poststelle@fa-prenzlauer-berg.verwalt-berlin.de',
+      url: 'https://http://www.berlin.de/sen/finanzen',
+    },
+    adresses: [
+      {
+        type: 'HausanschriftType',
+        strasse: 'Storkower Straße',
+        hausNr: '134',
+        plz: '10407',
+        ort: 'Berlin',
+        state: 'Berlin',
+      },
+    ],
   });
 });
 
@@ -26,7 +40,7 @@ it('throws an error if bundesfinanzamtsnummer is not 4 characters long', () => {
   assert.throws(() => finanzamt('1'), {
     name: 'TypeError',
     message:
-      '`bundesfinanzamtsnummer` or `steuernummer` must be 4 or 13 characters long respectively'
+      '`bundesfinanzamtsnummer` or `steuernummer` must be 4 or 13 characters long respectively',
   });
 });
 
@@ -34,13 +48,13 @@ it('throws an error if steuernummer is not 13 characters long', () => {
   assert.throws(() => finanzamt('21/815/08150'), {
     name: 'TypeError',
     message:
-      '`bundesfinanzamtsnummer` or `steuernummer` must be 4 or 13 characters long respectively'
+      '`bundesfinanzamtsnummer` or `steuernummer` must be 4 or 13 characters long respectively',
   });
 });
 
 it('throws an error if input is not a string', () => {
   assert.throws(() => finanzamt(1131), {
     name: 'TypeError',
-    message: '`bundesfinanzamtsnummer` or `steuernummer` must be a string'
+    message: '`bundesfinanzamtsnummer` or `steuernummer` must be a string',
   });
 });
