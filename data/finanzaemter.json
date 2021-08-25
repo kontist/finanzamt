@@ -2,1031 +2,1243 @@
 	{
 		"buFaNr": "1010",
 		"name": "Saarlouis",
+		"mail": "poststelle@fasls.saarland.de",
 		"url": "www.finanzamt-saarlouis.de"
 	},
 	{
 		"buFaNr": "1020",
 		"name": "Merzig",
+		"mail": "poststelle@famzg.saarland.de",
 		"url": "www.finanzamt-merzig.de"
 	},
 	{
 		"buFaNr": "1030",
 		"name": "Neunkirchen",
+		"mail": "poststelle@fank.saarland.de",
 		"url": "www.finanzamt-neunkirchen.de"
 	},
 	{
 		"buFaNr": "1040",
 		"name": "Saarbrücken Am Stadtgraben",
+		"mail": "poststelle@fasb.saarland.de",
 		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1055",
-		"name": "Saarbrücken MainzerStr"
+		"name": "Saarbrücken MainzerStr",
+		"mail": "poststelle@fasbm.saarland.de"
 	},
 	{
 		"buFaNr": "1060",
 		"name": "St. Wendel",
+		"mail": "poststelle@fawnd.saarland.de",
 		"url": "www.finanzamt-sankt-wendel.de"
 	},
 	{
 		"buFaNr": "1070",
 		"name": "Saarbrücken Am Stadtgraben - Außenst. Sulzbach",
+		"mail": "poststelle@fasb.saarland.de",
 		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1075",
 		"name": "Homburg",
+		"mail": "poststelle@fahom.saarland.de",
 		"url": "www.finanzamt-homburg.de"
 	},
 	{
 		"buFaNr": "1085",
 		"name": "Homburg - Außenst. St. Ingbert",
+		"mail": "poststelle@fahom.saarland.de",
 		"url": "www.finanzamt-homburg.de"
 	},
 	{
 		"buFaNr": "1090",
 		"name": "Saarbrücken Am Stadtgraben - Außenst. Völklingen",
+		"mail": "poststelle@fasb.saarland.de",
 		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1113",
 		"name": "Charlottenburg",
+		"mail": "poststelle@fa-charlottenburg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1114",
 		"name": "Friedrichshain-Kreuzberg",
+		"mail": "poststelle@fa-friedrichshain-kreuzberg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1116",
 		"name": "Neukölln",
+		"mail": "poststelle@fa-neukoelln.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1117",
 		"name": "Reinickendorf",
+		"mail": "poststelle@fa-reinickendorf.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1118",
 		"name": "Schöneberg",
+		"mail": "poststelle@fa-schoeneberg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1119",
 		"name": "Spandau",
+		"mail": "poststelle@fa-spandau.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1120",
 		"name": "Steglitz",
+		"mail": "poststelle@fa-steglitz.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1121",
 		"name": "Tempelhof",
+		"mail": "poststelle@fa-tempelhof.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1123",
 		"name": "Wedding",
+		"mail": "poststelle@fa-wedding.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1124",
 		"name": "Wilmersdorf",
+		"mail": "poststelle@fa-wilmersdorf.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1125",
 		"name": "Zehlendorf",
+		"mail": "poststelle@fa-zehlendorf.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1127",
 		"name": "für Körperschaften I",
+		"mail": "poststelle@fa-koerperschaften-i.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1129",
 		"name": "für Körperschaften III",
+		"mail": "poststelle@fa-koerperschaften-iii.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1130",
 		"name": "für Körperschaften IV",
+		"mail": "poststelle@fa-koerperschaften-iv.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1131",
 		"name": "Prenzlauer Berg",
+		"mail": "poststelle@fa-prenzlauer-berg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1132",
 		"name": "Lichtenberg",
+		"mail": "poststelle@fa-lichtenberg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1133",
 		"name": "Marzahn-Hellersdorf",
+		"mail": "poststelle@fa-marzahn-hellersdorf.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1134",
 		"name": "Mitte/Tiergarten",
+		"mail": "poststelle@fa-mitte-tiergarten.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1135",
 		"name": "Pankow/Weißensee",
+		"mail": "poststelle@fa-pankow-weissensee.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1136",
 		"name": "Treptow-Köpenick",
+		"mail": "poststelle@fa-treptow-koepenick.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1137",
 		"name": "für Körperschaften II",
+		"mail": "poststelle@fa-koerperschaften-ii.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1138",
 		"name": "für Fahndung und Strafsachen Berlin",
+		"mail": "poststelle@fa-fahndung-und-strafsachen.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1191",
 		"name": "Technisches Finanzamt Berlin",
+		"mail": "poststelle@tfa.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "2111",
-		"name": "Bad Segeberg"
+		"name": "Bad Segeberg",
+		"mail": "poststelle@fa-bad-segeberg.landsh.de"
 	},
 	{
 		"buFaNr": "2113",
-		"name": "Elmshorn"
+		"name": "Elmshorn",
+		"mail": "poststelle@fa-elmshorn.landsh.de"
 	},
 	{
 		"buFaNr": "2115",
-		"name": "Flensburg"
+		"name": "Flensburg",
+		"mail": "poststelle@fa-flensburg.landsh.de"
 	},
 	{
 		"buFaNr": "2116",
-		"name": "Dithmarschen"
+		"name": "Dithmarschen",
+		"mail": "poststelle@fa-dithmarschen.landsh.de"
 	},
 	{
 		"buFaNr": "2117",
-		"name": "Nordfriesland"
+		"name": "Nordfriesland",
+		"mail": "poststelle@fa-nordfriesland.landsh.de"
 	},
 	{
 		"buFaNr": "2118",
-		"name": "Itzehoe"
+		"name": "Itzehoe",
+		"mail": "poststelle@fa-itzehoe.landsh.de"
 	},
 	{
 		"buFaNr": "2120",
-		"name": "Kiel"
+		"name": "Kiel",
+		"mail": "poststelle@fa-kiel.landsh.de"
 	},
 	{
 		"buFaNr": "2122",
-		"name": "Lübeck"
+		"name": "Lübeck",
+		"mail": "poststelle@fa-luebeck.landsh.de"
 	},
 	{
 		"buFaNr": "2124",
-		"name": "Neumünster"
+		"name": "Neumünster",
+		"mail": "poststelle@fa-neumuenster.landsh.de"
 	},
 	{
 		"buFaNr": "2125",
-		"name": "Ostholstein"
+		"name": "Ostholstein",
+		"mail": "poststelle@fa-ostholstein.landsh.de"
 	},
 	{
 		"buFaNr": "2126",
-		"name": "Plön"
+		"name": "Plön",
+		"mail": "poststelle@fa-ploen.landsh.de"
 	},
 	{
 		"buFaNr": "2127",
-		"name": "Ratzeburg"
+		"name": "Ratzeburg",
+		"mail": "poststelle@fa-ratzeburg.landsh.de"
 	},
 	{
 		"buFaNr": "2128",
-		"name": "Rendsburg"
+		"name": "Rendsburg",
+		"mail": "poststelle@fa-rendsburg.landsh.de"
 	},
 	{
 		"buFaNr": "2129",
-		"name": "Eckernförde-Schleswig"
+		"name": "Eckernförde-Schleswig",
+		"mail": "poststelle@fa-eck-sl.landsh.de"
 	},
 	{
 		"buFaNr": "2130",
-		"name": "Stormarn"
+		"name": "Stormarn",
+		"mail": "poststelle@fa-stormarn.landsh.de"
 	},
 	{
 		"buFaNr": "2131",
-		"name": "Pinneberg"
+		"name": "Pinneberg",
+		"mail": "poststelle@fa-pinneberg.landsh.de"
 	},
 	{
 		"buFaNr": "2137",
-		"name": "Zentrale Prüfungsdienste"
+		"name": "Zentrale Prüfungsdienste",
+		"mail": "poststelle@fa-zpd.landsh.de"
 	},
 	{
 		"buFaNr": "2201",
 		"name": "Hamburg für Steuererhebung in Hamburg",
+		"mail": "FAfuerSteuererhebung@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/steuka-start/"
 	},
 	{
 		"buFaNr": "2210",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/vug-start/"
 	},
 	{
 		"buFaNr": "2216",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/vug-start/"
 	},
 	{
 		"buFaNr": "2217",
 		"name": "Hamburg-Nord",
+		"mail": "FAHamburgNord@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/nord-start/"
 	},
 	{
 		"buFaNr": "2220",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/vug-start/"
 	},
 	{
 		"buFaNr": "2227",
 		"name": "Hamburg für Großunternehmen in Hamburg",
+		"mail": "FAfuerGrossunternehmen@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/grossunternehmen-start/"
 	},
 	{
 		"buFaNr": "2228",
 		"name": "Hamburg für Prüfungsd. und Strafsachen",
+		"mail": "PoststelleFAPrueStra@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/pruestra-start/"
 	},
 	{
 		"buFaNr": "2230",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/vug-start/"
 	},
 	{
 		"buFaNr": "2235",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/vug-start/"
 	},
 	{
 		"buFaNr": "2241",
 		"name": "Hamburg-Altona",
+		"mail": "FAHamburgAltona@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/altonastart/"
 	},
 	{
 		"buFaNr": "2242",
 		"name": "Hamburg-Am Tierpark",
+		"mail": "FAHamburgAmTierpark@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/amtierpark-start/"
 	},
 	{
 		"buFaNr": "2243",
 		"name": "Hamburg-Barmbek-Uhlenhorst",
+		"mail": "FAHamburgBarmbekUhlenhorst@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/bustart/"
 	},
 	{
 		"buFaNr": "2244",
 		"name": "Hamburg-Ost",
+		"mail": "FAHamburgOst@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/fb/ost-start/"
 	},
 	{
 		"buFaNr": "2245",
 		"name": "Hamburg-Eimsbüttel",
+		"mail": "FAHamburgEimsbuettel@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/eimsbuettel-start/"
 	},
 	{
 		"buFaNr": "2246",
 		"name": "Hamburg-Hansa",
+		"mail": "FAHamburgHansa@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/hansa-start/"
 	},
 	{
 		"buFaNr": "2247",
 		"name": "Hamburg-Harburg",
+		"mail": "FAHamburgHarburg@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/harburg-start/"
 	},
 	{
 		"buFaNr": "2248",
 		"name": "Hamburg-Mitte",
+		"mail": "FAHamburgMitte@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/mitte-start/"
 	},
 	{
 		"buFaNr": "2249",
 		"name": "Hamburg-Nord",
+		"mail": "FAHamburgNord@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/nord-start/"
 	},
 	{
 		"buFaNr": "2250",
 		"name": "Hamburg-Oberalster",
+		"mail": "FAHamburgOberalster@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/oberalster-start/"
 	},
 	{
 		"buFaNr": "2251",
 		"name": "Hamburg-Ost",
+		"mail": "FAHamburgOst@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/fb/ost-start/"
 	},
 	{
 		"buFaNr": "2313",
 		"name": "Braunschweig-Altewiekring",
+		"mail": "Poststelle@fa-bs-a.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2314",
 		"name": "Braunschweig-Wilhelmstr.",
+		"mail": "Poststelle@fa-bs-w.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2315",
 		"name": "Buchholz in der Nordheide",
+		"mail": "Poststelle@fa-buc.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2316",
 		"name": "Burgdorf",
+		"mail": "Poststelle@fa-bu.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2317",
 		"name": "Celle",
+		"mail": "Poststelle@fa-ce.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2318",
 		"name": "Cuxhaven",
+		"mail": "Poststelle@fa-cux.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2319",
 		"name": "Gifhorn",
+		"mail": "Poststelle@fa-gf.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2320",
 		"name": "Göttingen",
+		"mail": "Poststelle@fa-goe.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2321",
 		"name": "Goslar-Bad Gandersheim",
+		"mail": "Poststelle@fa-gs-gan.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2322",
 		"name": "Hameln",
+		"mail": "Poststelle@fa-hm.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2323",
 		"name": "Hannover-Land I",
+		"mail": "Poststelle@fa-h-l1.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2324",
 		"name": "Hannover-Mitte",
+		"mail": "Poststelle@fa-h-mi.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2325",
 		"name": "Hannover-Nord",
+		"mail": "Poststelle@fa-h-no.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2326",
 		"name": "Hannover-Süd",
+		"mail": "Poststelle@fa-h-su.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2327",
 		"name": "Hannover-Land II",
+		"mail": "Poststelle@fa-h-l2.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2328",
 		"name": "Helmstedt",
+		"mail": "Poststelle@fa-he.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2329",
 		"name": "Herzberg am Harz",
+		"mail": "Poststelle@fa-hz.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2330",
 		"name": "Hildesheim-Alfeld",
+		"mail": "Poststelle@fa-hi-alf.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2331",
 		"name": "Holzminden",
+		"mail": "Poststelle@fa-hol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2333",
 		"name": "Lüneburg",
+		"mail": "Poststelle@fa-lg.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2334",
 		"name": "Nienburg/Weser",
+		"mail": "Poststelle@fa-ni.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2335",
 		"name": "Northeim",
+		"mail": "Poststelle@fa-nom.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2336",
 		"name": "Osterholz-Scharmbeck",
+		"mail": "Poststelle@fa-ohz.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2338",
 		"name": "Peine",
+		"mail": "Poststelle@fa-pe.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2340",
 		"name": "Rotenburg (Wümme)",
+		"mail": "Poststelle@fa-row.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2341",
 		"name": "Soltau",
+		"mail": "Poststelle@fa-sol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2342",
 		"name": "Hannover-Land I Außenstelle Springe",
+		"mail": "Poststelle@fa-ast-spr.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2343",
 		"name": "Stade",
+		"mail": "Poststelle@fa-std.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2344",
 		"name": "Stadthagen",
+		"mail": "Poststelle@fa-shg.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2345",
 		"name": "Sulingen",
+		"mail": "Poststelle@fa-su.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2346",
 		"name": "Syke",
+		"mail": "Poststelle@fa-sy.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2347",
 		"name": "Uelzen-Lüchow",
+		"mail": "Poststelle@fa-ue-luw.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2348",
 		"name": "Verden (Aller)",
+		"mail": "Poststelle@fa-ver.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2349",
 		"name": "Wesermünde",
+		"mail": "Poststelle@fa-wem.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2350",
 		"name": "Winsen (Luhe)",
+		"mail": "Poststelle@fa-wl.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2351",
 		"name": "Wolfenbüttel",
+		"mail": "Poststelle@fa-wf.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2352",
 		"name": "Zeven",
+		"mail": "Poststelle@fa-zev.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2353",
 		"name": "Papenburg",
+		"mail": "Poststelle@fa-pap.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2354",
 		"name": "Aurich",
+		"mail": "Poststelle@fa-aur.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2355",
 		"name": "Bad Bentheim",
+		"mail": "Poststelle@fa-ben.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2356",
 		"name": "Cloppenburg",
+		"mail": "Poststelle@fa-clp.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2357",
 		"name": "Delmenhorst",
+		"mail": "Poststelle@fa-del.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2358",
 		"name": "Emden-Norden",
+		"mail": "Poststelle@fa-emd-nor.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2360",
 		"name": "Leer (Ostfriesland)",
+		"mail": "Poststelle@fa-ler.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2361",
 		"name": "Lingen (Ems)",
+		"mail": "Poststelle@fa-lin.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2363",
 		"name": "Nordenham",
+		"mail": "Poststelle@fa-nhm.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2364",
 		"name": "Oldenburg (Oldenburg)",
+		"mail": "Poststelle@fa-ol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2365",
 		"name": "Osnabrück-Land",
+		"mail": "Poststelle@fa-os-l.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2366",
 		"name": "Osnabrück-Stadt",
+		"mail": "Poststelle@fa-os-s.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2367",
 		"name": "Quakenbrück",
+		"mail": "Poststelle@fa-qua.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2368",
 		"name": "Vechta",
+		"mail": "Poststelle@fa-vec.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2369",
 		"name": "Westerstede",
+		"mail": "Poststelle@fa-wst.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2370",
 		"name": "Wilhelmshaven",
+		"mail": "Poststelle@fa-whv.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2371",
 		"name": "Wittmund",
+		"mail": "Poststelle@fa-wtm.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2380",
 		"name": "Braunschweig für Großbetriebsprüfung",
+		"mail": "Poststelle@fa-gbp-bs.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2381",
 		"name": "Göttingen für Großbetriebsprüfung",
+		"mail": "Poststelle@fa-gbp-goe.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2382",
 		"name": "Hannover für Großbetriebsprüfung",
+		"mail": "Poststelle@fa-gbp-h.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2384",
 		"name": "Stade für Großbetriebsprüfung",
+		"mail": "Poststelle@fa-gbp-std.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2385",
 		"name": "Oldenburg für Großbetriebsprüfung",
+		"mail": "Poststelle@fa-gbp-ol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2386",
 		"name": "Osnabrück für Großbetriebsprüfung",
+		"mail": "Poststelle@fa-gbp-os.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2390",
 		"name": "für Fahndung und Strafsachen Braunschweig",
+		"mail": "Poststelle@fa-fust-bs.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2391",
 		"name": "Hannover für Fahndung und Strafsachen",
+		"mail": "Poststelle@fa-fust-h.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2392",
 		"name": "Lüneburg für Fahndung und Strafsachen",
+		"mail": "Poststelle@fa-fust-lg.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2393",
 		"name": "Oldenburg für Fahndung und Strafsachen",
+		"mail": "Poststelle@fa-fust-ol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2457",
-		"name": "Bremerhaven Bewertung Bremen"
+		"name": "Bremerhaven Bewertung Bremen",
+		"mail": "office@FinanzamtBremerhaven.bremen.de"
 	},
 	{
 		"buFaNr": "2460",
-		"name": "Bremen"
+		"name": "Bremen",
+		"mail": "office@fa-hb.bremen.de"
 	},
 	{
 		"buFaNr": "2471",
-		"name": "Landeshauptkasse Bremen"
+		"name": "Landeshauptkasse Bremen",
+		"mail": "office@lhk.bremen.de"
 	},
 	{
 		"buFaNr": "2475",
-		"name": "Bremerhaven"
+		"name": "Bremerhaven",
+		"mail": "office@FinanzamtBremerhaven.bremen.de"
 	},
 	{
 		"buFaNr": "2477",
-		"name": "Bremerhaven Bewertung"
+		"name": "Bremerhaven Bewertung",
+		"mail": "office@FinanzamtBremerhaven.bremen.de"
 	},
 	{
 		"buFaNr": "2478",
-		"name": "Bremen für Außenprüfung"
+		"name": "Bremen für Außenprüfung",
+		"mail": "office@fa-ap.bremen.de"
 	},
 	{
 		"buFaNr": "2485",
-		"name": "Bremerhaven Arbeitnehmerbereich"
+		"name": "Bremerhaven Arbeitnehmerbereich",
+		"mail": "office@FinanzamtBremerhaven.bremen.de"
 	},
 	{
 		"buFaNr": "2601",
 		"name": "Alsfeld-Lauterbach Verwaltungsstelle Alsfeld",
+		"mail": "Poststelle@FA-AL.Hessen.de",
 		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
 	{
 		"buFaNr": "2602",
 		"name": "Hersfeld-Rotenburg Verwaltungsstelle Bad Hersfeld",
+		"mail": "Poststelle@FA-HR.Hessen.de",
 		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
 	{
 		"buFaNr": "2603",
 		"name": "Bad Homburg vor der Höhe",
+		"mail": "Poststelle@FA-BHG.Hessen.de",
 		"url": "www.Finanzamt-Bad-Homburg.de"
 	},
 	{
 		"buFaNr": "2604",
 		"name": "Rheingau-Taunus Verwaltungsstelle Bad Schwalbach",
+		"mail": "Poststelle@FA-RT.Hessen.de",
 		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
 	{
 		"buFaNr": "2605",
 		"name": "Bensheim",
+		"mail": "Poststelle@FA-BEN.Hessen.de",
 		"url": "www.Finanzamt-Bensheim.de"
 	},
 	{
 		"buFaNr": "2606",
 		"name": "Marburg-Biedenkopf Verwaltungsstelle Biedenkopf",
+		"mail": "Poststelle@FA-MB.Hessen.de",
 		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
 	{
 		"buFaNr": "2607",
 		"name": "Darmstadt",
+		"mail": "Poststelle@FA-DAM.Hessen.de",
 		"url": "www.Finanzamt-Darmstadt.de"
 	},
 	{
 		"buFaNr": "2608",
 		"name": "Dieburg",
+		"mail": "Poststelle@FA-DIB.Hessen.de",
 		"url": "www.Finanzamt-Dieburg.de"
 	},
 	{
 		"buFaNr": "2609",
 		"name": "Dillenburg",
+		"mail": "Poststelle@FA-DIL.Hessen.de",
 		"url": "www.Finanzamt-Dillenburg.de"
 	},
 	{
 		"buFaNr": "2610",
 		"name": "Eschwege-Witzenhausen Verwaltungsstelle Eschwege",
+		"mail": "Poststelle@FA-EW.Hessen.de",
 		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
 	{
 		"buFaNr": "2611",
 		"name": "Korbach-Frankenberg Verwaltungsstelle Frankenberg",
+		"mail": "Poststelle@FA-KF.Hessen.de",
 		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
 	{
 		"buFaNr": "2612",
 		"name": "Frankfurt am Main II",
+		"mail": "Poststelle@FA-FF2.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-2.de"
 	},
 	{
 		"buFaNr": "2613",
 		"name": "Frankfurt am Main I",
+		"mail": "Poststelle@FA-FF1.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-1.de"
 	},
 	{
 		"buFaNr": "2614",
 		"name": "Frankfurt am Main IV",
+		"mail": "Poststelle@FA-FF4.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-4.de"
 	},
 	{
 		"buFaNr": "2615",
 		"name": "Frankfurt am Main V-Höchst Verwaltungsstelle Höchst",
+		"mail": "Poststelle@FA-FH.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-5-hoechst.de"
 	},
 	{
 		"buFaNr": "2616",
 		"name": "Friedberg (Hessen)",
+		"mail": "Poststelle@FA-FBG.Hessen.de",
 		"url": "www.Finanzamt-Friedberg.de"
 	},
 	{
 		"buFaNr": "2617",
 		"name": "Bensheim Außenstelle Fürth",
+		"mail": "Poststelle@FA-BEN.Hessen.de",
 		"url": "www.Finanzamt-Bensheim.de"
 	},
 	{
 		"buFaNr": "2618",
 		"name": "Fulda",
+		"mail": "Poststelle@FA-FDA.Hessen.de",
 		"url": "www.Finanzamt-Fulda.de"
 	},
 	{
 		"buFaNr": "2619",
 		"name": "Gelnhausen",
+		"mail": "Poststelle@FA-GEL.Hessen.de",
 		"url": "www.Finanzamt-Gelnhausen.de"
 	},
 	{
 		"buFaNr": "2620",
 		"name": "Gießen",
+		"mail": "Poststelle@FA-GIS.Hessen.de",
 		"url": "www.Finanzamt-Giessen.de"
 	},
 	{
 		"buFaNr": "2621",
 		"name": "Groß-Gerau",
+		"mail": "Poststelle@FA-GGE.Hessen.de",
 		"url": "www.Finanzamt-Gross-Gerau.de"
 	},
 	{
 		"buFaNr": "2622",
 		"name": "Hanau",
+		"mail": "Poststelle@FA-HAN.Hessen.de",
 		"url": "www.Finanzamt-Hanau.de"
 	},
 	{
 		"buFaNr": "2623",
 		"name": "Kassel II-Hofgeismar Verwaltungsstelle Hofgeismar",
+		"mail": "Poststelle@FA-KH.Hessen.de",
 		"url": "https://www.finanzamt-kassel-2-hofgeismar.de"
 	},
 	{
 		"buFaNr": "2624",
 		"name": "Schwalm-Eder Verwaltungsstelle Fritzlar",
+		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
 	{
 		"buFaNr": "2625",
 		"name": "Kassel I",
+		"mail": "Poststelle@FA-KS1.Hessen.de",
 		"url": "https://www.finanzamt-kassel-1.de"
 	},
 	{
 		"buFaNr": "2626",
 		"name": "Kassel II-Hofgeismar Verwaltungsstelle Kassel",
+		"mail": "Poststelle@FA-KH.Hessen.de",
 		"url": "https://www.finanzamt-kassel-2-hofgeismar.de"
 	},
 	{
 		"buFaNr": "2627",
 		"name": "Korbach-Frankenberg Verwaltungsstelle Korbach",
+		"mail": "Poststelle@FA-KF.Hessen.de",
 		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
 	{
 		"buFaNr": "2628",
 		"name": "Langen",
+		"mail": "Poststelle@FA-LAN.Hessen.de",
 		"url": "www.Finanzamt-Langen.de"
 	},
 	{
 		"buFaNr": "2629",
 		"name": "Alsfeld-Lauterbach Verwaltungsstelle Lauterbach",
+		"mail": "Poststelle@FA-AL.Hessen.de",
 		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
 	{
 		"buFaNr": "2630",
 		"name": "Limburg-Weilburg Verwaltungsstelle Limburg",
+		"mail": "Poststelle@FA-LW.Hessen.de",
 		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
 	{
 		"buFaNr": "2631",
 		"name": "Marburg-Biedenkopf Verwaltungsstelle Marburg",
+		"mail": "Poststelle@FA-MB.Hessen.de",
 		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
 	{
 		"buFaNr": "2632",
 		"name": "Schwalm-Eder Verwaltungsstelle Melsungen",
+		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
 	{
 		"buFaNr": "2633",
 		"name": "Michelstadt",
+		"mail": "Poststelle@FA-MIC.Hessen.de",
 		"url": "www.Finanzamt-Michelstadt.de"
 	},
 	{
 		"buFaNr": "2634",
 		"name": "Nidda",
+		"mail": "Poststelle@FA-NID.Hessen.de",
 		"url": "www.Finanzamt-Nidda.de"
 	},
 	{
 		"buFaNr": "2635",
 		"name": "Offenbach am Main I",
+		"mail": "Poststelle@FA-OF1.Hessen.de",
 		"url": "https://www.finanzamt-offenbach-1.de"
 	},
 	{
 		"buFaNr": "2636",
 		"name": "Hersfeld-Rotenburg Verwaltungsstelle Rotenburg",
+		"mail": "Poststelle@FA-HR.Hessen.de",
 		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
 	{
 		"buFaNr": "2637",
 		"name": "Rheingau-Taunus Verwaltungsstelle Rüdesheim",
+		"mail": "Poststelle@FA-RT.Hessen.de",
 		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
 	{
 		"buFaNr": "2638",
 		"name": "Limburg-Weilburg Verwaltungsstelle Weilburg",
+		"mail": "Poststelle@FA-LW.Hessen.de",
 		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
 	{
 		"buFaNr": "2639",
 		"name": "Wetzlar",
+		"mail": "Poststelle@FA-WEZ.Hessen.de",
 		"url": "www.Finanzamt-Wetzlar.de"
 	},
 	{
 		"buFaNr": "2640",
 		"name": "Wiesbaden I",
+		"mail": "Poststelle@FA-WI1.Hessen.de",
 		"url": "https://www.finanzamt-wiesbaden-1.de"
 	},
 	{
 		"buFaNr": "2641",
 		"name": "Eschwege-Witzenhausen Verwaltungsstelle Witzenhausen",
+		"mail": "Poststelle@FA-EW.Hessen.de",
 		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
 	{
 		"buFaNr": "2642",
 		"name": "Schwalm-Eder Verwaltungsstelle Schwalmstadt",
+		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
 	{
 		"buFaNr": "2643",
 		"name": "Wiesbaden II",
+		"mail": "Poststelle@FA-WI2.Hessen.de",
 		"url": "https://www.finanzamt-wiesbaden-2.de"
 	},
 	{
 		"buFaNr": "2644",
 		"name": "Offenbach am Main II",
+		"mail": "Poststelle@FA-OF2.Hessen.de",
 		"url": "https://www.finanzamt-offenbach-2.de"
 	},
 	{
 		"buFaNr": "2645",
 		"name": "Frankfurt am Main III",
+		"mail": "Poststelle@FA-FF3.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-3.de"
 	},
 	{
 		"buFaNr": "2646",
 		"name": "Hofheim am Taunus",
+		"mail": "Poststelle@FA-HOH.Hessen.de",
 		"url": "www.Finanzamt-Hofheim-am-Taunus.de"
 	},
 	{
 		"buFaNr": "2647",
 		"name": "Frankfurt am Main V-Höchst Verwaltungsstelle Frankfurt",
+		"mail": "Poststelle@FA-FH.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-5-hoechst.de"
 	},
 	{
 		"buFaNr": "2701",
-		"name": "Bad Neuenahr-Ahrweiler"
+		"name": "Bad Neuenahr-Ahrweiler",
+		"mail": "Poststelle@fa-aw.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2702",
 		"name": "Altenkirchen-Hachenburg",
+		"mail": "Poststelle@fa-ak.fin-rlp.de",
 		"url": "www.finanzamt-altenkirchen-hachenburg.de"
 	},
 	{
 		"buFaNr": "2706",
 		"name": "Bad Kreuznach",
+		"mail": "Poststelle@fa-kh.fin-rlp.de",
 		"url": "www.finanzamt-bad-kreuznach.de"
 	},
 	{
 		"buFaNr": "2708",
 		"name": "Bingen-Alzey",
+		"mail": "Poststelle@fa-bi.fin-rlp.de",
 		"url": "www.finanzamt-bingen-alzey.de"
 	},
 	{
 		"buFaNr": "2709",
 		"name": "Idar-Oberstein",
+		"mail": "Poststelle@fa-io.fin-rlp.de",
 		"url": "www.finanzamt-idar-oberstein.de"
 	},
 	{
 		"buFaNr": "2710",
 		"name": "Bitburg-Prüm",
+		"mail": "Poststelle@fa-bt.fin-rlp.de",
 		"url": "www.finanzamt-bitburg-pruem.de"
 	},
 	{
 		"buFaNr": "2713",
 		"name": "Landesfinanzkasse Daun",
+		"mail": "poststelle@lfk.fin-rlp.de",
 		"url": "www.landesfinanzkasse-daun.de"
 	},
 	{
 		"buFaNr": "2719",
 		"name": "Kaiserslautern",
+		"mail": "Poststelle@fa-kl.fin-rlp.de",
 		"url": "www.finanzamt-kaiserslautern.de"
 	},
 	{
 		"buFaNr": "2722",
 		"name": "Koblenz",
+		"mail": "Poststelle@fa-ko.fin-rlp.de",
 		"url": "www.finanzamt-koblenz.de"
 	},
 	{
 		"buFaNr": "2723",
 		"name": "Kusel-Landstuhl",
+		"mail": "Poststelle@fa-ku.fin-rlp.de",
 		"url": "www.finanzamt-kusel-landstuhl.de"
 	},
 	{
 		"buFaNr": "2724",
-		"name": "Landau"
+		"name": "Landau",
+		"mail": "Poststelle@fa-ld.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2726",
 		"name": "Mainz",
+		"mail": "poststelle@fa-mz.fin-rlp.de",
 		"url": "https://www.finanzamt-mainz.de"
 	},
 	{
 		"buFaNr": "2727",
 		"name": "Ludwigshafen",
+		"mail": "Poststelle@fa-lu.fin-rlp.de",
 		"url": "www.finanzamt-ludwigshafen.de"
 	},
 	{
 		"buFaNr": "2729",
 		"name": "Mayen",
+		"mail": "Poststelle@fa-my.fin-rlp.de",
 		"url": "www.finanzamt-mayen.de"
 	},
 	{
 		"buFaNr": "2730",
 		"name": "Montabaur-Diez",
+		"mail": "Poststelle@fa-mt.fin-rlp.de",
 		"url": "www.finanzamt-montabaur-diez.de"
 	},
 	{
 		"buFaNr": "2731",
-		"name": "Neustadt"
+		"name": "Neustadt",
+		"mail": "Poststelle@fa-nw.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2732",
-		"name": "Neuwied"
+		"name": "Neuwied",
+		"mail": "Poststelle@fa-nr.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2734",
 		"name": "Kusel-Landstuhl für Erb/Schenk.St. Saarland",
+		"mail": "Poststelle@fa-ku.fin-rlp.de",
 		"url": "www.finanzamt-kusel-landstuhl.de"
 	},
 	{
 		"buFaNr": "2735",
 		"name": "Pirmasens",
+		"mail": "Poststelle@fa-ps.fin-rlp.de",
 		"url": "www.finanzamt-pirmasens.de"
 	},
 	{
 		"buFaNr": "2740",
-		"name": "Simmern-Zell"
+		"name": "Simmern-Zell",
+		"mail": "Poststelle@fa-si.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2741",
 		"name": "Speyer-Germersheim",
+		"mail": "Poststelle@fa-sp.fin-rlp.de",
 		"url": "www.finanzamt-speyer-germersheim.de"
 	},
 	{
 		"buFaNr": "2742",
 		"name": "Trier",
+		"mail": "Poststelle@fa-tr.fin-rlp.de",
 		"url": "www.finanzamt-trier.de"
 	},
 	{
 		"buFaNr": "2743",
 		"name": "Wittlich",
+		"mail": "Poststelle@fa-wi.fin-rlp.de",
 		"url": "www.finanzamt-wittlich.de"
 	},
 	{
 		"buFaNr": "2744",
 		"name": "Worms-Kirchheimbolanden",
+		"mail": "Poststelle@fa-wo.fin-rlp.de",
 		"url": "www.finanzamt-worms-kirchheimbolanden.de"
 	},
 	{
@@ -1092,6 +1304,7 @@
 	{
 		"buFaNr": "2815",
 		"name": "Rottweil Außenstelle Oberndorf",
+		"mail": "poststelle-19@finanzamt.bwl.de",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
@@ -1437,256 +1650,307 @@
 	{
 		"buFaNr": "3046",
 		"name": "Potsdam",
+		"mail": "poststelle.fa-potsdam@fa.brandenburg.de",
 		"url": "www.fa-potsdam.brandenburg.de"
 	},
 	{
 		"buFaNr": "3048",
 		"name": "Brandenburg",
+		"mail": "poststelle.fa-brandenburg@fa.brandenburg.de",
 		"url": "www.fa-brandenburg.brandenburg.de"
 	},
 	{
 		"buFaNr": "3049",
 		"name": "Königs Wusterhausen",
+		"mail": "poststelle.fa-koenigs-wusterhausen@fa.brandenburg.de",
 		"url": "www.fa-koenigs-wusterhausen.brandenburg.de"
 	},
 	{
 		"buFaNr": "3050",
 		"name": "Luckenwalde",
+		"mail": "poststelle.fa-luckenwalde@fa.brandenburg.de",
 		"url": "www.fa-luckenwalde.brandenburg.de"
 	},
 	{
 		"buFaNr": "3051",
 		"name": "Nauen",
+		"mail": "poststelle.fa-nauen@fa.brandenburg.de",
 		"url": "www.fa-nauen.brandenburg.de"
 	},
 	{
 		"buFaNr": "3052",
 		"name": "Kyritz",
+		"mail": "poststelle.fa-kyritz@fa.brandenburg.de",
 		"url": "www.fa-kyritz.brandenburg.de"
 	},
 	{
 		"buFaNr": "3053",
 		"name": "Oranienburg",
+		"mail": "poststelle.fa-oranienburg@fa.brandenburg.de",
 		"url": "www.fa-oranienburg.brandenburg.de"
 	},
 	{
 		"buFaNr": "3056",
 		"name": "Cottbus",
+		"mail": "poststelle.fa-cottbus@fa.brandenburg.de",
 		"url": "www.fa-cottbus.brandenburg.de"
 	},
 	{
 		"buFaNr": "3057",
 		"name": "Calau",
+		"mail": "poststelle.fa-calau@fa.brandenburg.de",
 		"url": "www.fa-calau.brandenburg.de"
 	},
 	{
 		"buFaNr": "3061",
 		"name": "Frankfurt (Oder)",
+		"mail": "poststelle.fa-frankfurt-oder@fa.brandenburg.de",
 		"url": "www.fa-frankfurt-oder.brandenburg.de"
 	},
 	{
 		"buFaNr": "3062",
 		"name": "Angermünde",
+		"mail": "poststelle.fa-angermuende@fa.brandenburg.de",
 		"url": "www.fa-angermuende.brandenburg.de"
 	},
 	{
 		"buFaNr": "3064",
 		"name": "Strausberg",
+		"mail": "poststelle.fa-strausberg@fa.brandenburg.de",
 		"url": "www.fa-strausberg.brandenburg.de"
 	},
 	{
 		"buFaNr": "3065",
 		"name": "Eberswalde",
+		"mail": "poststelle.fa-eberswalde@fa.brandenburg.de",
 		"url": "www.fa-eberswalde.brandenburg.de"
 	},
 	{
 		"buFaNr": "3102",
 		"name": "Magdeburg",
+		"mail": "poststelle@fa-md.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3103",
 		"name": "Genthin",
+		"mail": "poststelle@fa-gtn.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3105",
 		"name": "Haldensleben",
+		"mail": "poststelle@fa-hdl.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3106",
 		"name": "Salzwedel",
+		"mail": "poststelle@fa-saw.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3107",
 		"name": "Staßfurt",
+		"mail": "poststelle@fa-sft.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3108",
 		"name": "Stendal",
+		"mail": "poststelle@fa-sdl.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3110",
 		"name": "Halle (Saale)",
+		"mail": "poststelle@fa-hal.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3112",
 		"name": "Merseburg",
+		"mail": "poststelle@fa-msb.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3114",
 		"name": "Dessau-Roßlau",
+		"mail": "poststelle@fa-des.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3115",
 		"name": "Wittenberg",
+		"mail": "poststelle@fa-wbg.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3116",
 		"name": "Bitterfeld-Wolfen",
+		"mail": "poststelle@fa-btf.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3117",
 		"name": "Quedlinburg",
+		"mail": "poststelle@fa-qlb.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3118",
 		"name": "Eisleben",
+		"mail": "poststelle@fa-eil.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3119",
 		"name": "Naumburg",
+		"mail": "poststelle@fa-nbg.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3202",
 		"name": "Dresden-Nord",
+		"mail": "poststelle@fa-dresden-nord.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/dresden-nord.html"
 	},
 	{
 		"buFaNr": "3203",
 		"name": "Dresden-Süd",
+		"mail": "poststelle@fa-dresden-sued.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/dresden-sued.html"
 	},
 	{
 		"buFaNr": "3204",
 		"name": "Bautzen",
+		"mail": "poststelle@fa-bautzen.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/bautzen.html"
 	},
 	{
 		"buFaNr": "3207",
 		"name": "Görlitz",
+		"mail": "poststelle@fa-goerlitz.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/goerlitz.html"
 	},
 	{
 		"buFaNr": "3208",
 		"name": "Löbau",
+		"mail": "poststelle@fa-loebau.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/loebau.html"
 	},
 	{
 		"buFaNr": "3209",
 		"name": "Meißen",
+		"mail": "poststelle@fa-meissen.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/meissen.html"
 	},
 	{
 		"buFaNr": "3210",
 		"name": "Pirna",
+		"mail": "poststelle@fa-pirna.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/pirna.html"
 	},
 	{
 		"buFaNr": "3213",
 		"name": "Hoyerswerda",
+		"mail": "poststelle@fa-hoyerswerda.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/hoyerswerda.html"
 	},
 	{
 		"buFaNr": "3214",
 		"name": "Chemnitz-Süd",
+		"mail": "poststelle@fa-chemnitz-sued.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/chemnitz-sued.html"
 	},
 	{
 		"buFaNr": "3215",
 		"name": "Chemnitz-Mitte",
+		"mail": "poststelle@fa-chemnitz-mitte.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/chemnitz-mitte.html"
 	},
 	{
 		"buFaNr": "3217",
 		"name": "Annaberg",
+		"mail": "poststelle@fa-annaberg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/annaberg.html"
 	},
 	{
 		"buFaNr": "3218",
 		"name": "Schwarzenberg",
+		"mail": "poststelle@fa-schwarzenberg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/schwarzenberg.html"
 	},
 	{
 		"buFaNr": "3220",
 		"name": "Freiberg",
+		"mail": "poststelle@fa-freiberg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/freiberg.html"
 	},
 	{
 		"buFaNr": "3222",
 		"name": "Mittweida",
+		"mail": "poststelle@fa-mittweida.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/mittweida.html"
 	},
 	{
 		"buFaNr": "3223",
 		"name": "Plauen",
+		"mail": "poststelle@fa-plauen.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/plauen.html"
 	},
 	{
 		"buFaNr": "3224",
 		"name": "Stollberg",
+		"mail": "poststelle@fa-stollberg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/stollberg.html"
 	},
 	{
 		"buFaNr": "3227",
 		"name": "Zwickau",
+		"mail": "poststelle@fa-zwickau.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/zwickau.html"
 	},
 	{
 		"buFaNr": "3228",
 		"name": "Zschopau",
+		"mail": "poststelle@fa-zschopau.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/zschopau.html"
 	},
 	{
 		"buFaNr": "3231",
 		"name": "Leipzig II",
+		"mail": "poststelle@fa-leipzig2.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/leipzig2.html"
 	},
 	{
 		"buFaNr": "3232",
 		"name": "Leipzig I",
+		"mail": "poststelle@fa-leipzig1.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/leipzig1.html"
 	},
 	{
 		"buFaNr": "3236",
 		"name": "Döbeln",
+		"mail": "poststelle@fa-doebeln.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/doebeln.html"
 	},
 	{
 		"buFaNr": "3237",
 		"name": "Eilenburg",
+		"mail": "poststelle@fa-eilenburg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/eilenburg.html"
 	},
 	{
 		"buFaNr": "3238",
 		"name": "Grimma",
+		"mail": "poststelle@fa-grimma.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/grimma.html"
 	},
 	{
 		"buFaNr": "3239",
 		"name": "Oschatz",
+		"mail": "poststelle@fa-oschatz.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/oschatz.html"
 	},
 	{
@@ -1697,1233 +1961,1485 @@
 	{
 		"buFaNr": "4070",
 		"name": "Neubrandenburg - RIA (Rentenempfänger im Ausland)",
+		"mail": "ria@finanzamt-neubrandenburg.de",
 		"url": "www.finanzamt-neubrandenburg.de"
 	},
 	{
 		"buFaNr": "4072",
 		"name": "Neubrandenburg",
+		"mail": "poststelle@finanzamt-neubrandenburg.de",
 		"url": "www.finanzamt-neubrandenburg.de"
 	},
 	{
 		"buFaNr": "4075",
 		"name": "Waren",
+		"mail": "poststelle@finanzamt-waren.de",
 		"url": "www.finanzamt-waren.de"
 	},
 	{
 		"buFaNr": "4079",
 		"name": "Rostock",
+		"mail": "poststelle@finanzamt-rostock.de",
 		"url": "www.finanzamt-rostock.de"
 	},
 	{
 		"buFaNr": "4080",
 		"name": "Wismar",
+		"mail": "poststelle@finanzamt-wismar.de",
 		"url": "www.finanzamt-wismar.de"
 	},
 	{
 		"buFaNr": "4081",
 		"name": "Ribnitz-Damgarten",
+		"mail": "poststelle@finanzamt-ribnitz-damgarten.de",
 		"url": "www.finanzamt-ribnitz-damgarten.de"
 	},
 	{
 		"buFaNr": "4082",
 		"name": "Stralsund",
+		"mail": "poststelle@finanzamt-stralsund.de",
 		"url": "www.finanzamt-stralsund.de"
 	},
 	{
 		"buFaNr": "4084",
 		"name": "Greifswald",
+		"mail": "poststelle@finanzamt-greifswald.de",
 		"url": "www.finanzamt-greifswald.de"
 	},
 	{
 		"buFaNr": "4086",
 		"name": "Güstrow",
+		"mail": "poststelle@finanzamt-guestrow.de",
 		"url": "www.finanzamt-guestrow.de"
 	},
 	{
 		"buFaNr": "4087",
 		"name": "Hagenow",
+		"mail": "poststelle@finanzamt-hagenow.de",
 		"url": "www.finanzamt-hagenow.de"
 	},
 	{
 		"buFaNr": "4090",
 		"name": "Schwerin",
+		"mail": "poststelle@finanzamt-schwerin.de",
 		"url": "www.finanzamt-schwerin.de"
 	},
 	{
 		"buFaNr": "4151",
 		"name": "Erfurt",
+		"mail": "poststelle@finanzamt-erfurt.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-erfurt/"
 	},
 	{
 		"buFaNr": "4154",
 		"name": "Ilmenau",
+		"mail": "poststelle@finanzamt-ilmenau.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-ilmenau/"
 	},
 	{
 		"buFaNr": "4155",
 		"name": "Eisenach",
+		"mail": "poststelle@finanzamt-eisenach.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-eisenach/"
 	},
 	{
 		"buFaNr": "4156",
 		"name": "Gotha",
+		"mail": "poststelle@finanzamt-gotha.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-gotha"
 	},
 	{
 		"buFaNr": "4157",
 		"name": "Mühlhausen",
+		"mail": "poststelle@finanzamt-muehlhausen.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-muehlhausen/"
 	},
 	{
 		"buFaNr": "4159",
 		"name": "Sondershausen",
+		"mail": "poststelle@finanzamt-sondershausen.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-sondershausen/"
 	},
 	{
 		"buFaNr": "4161",
 		"name": "Gera",
+		"mail": "poststelle@finanzamt-gera.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-gera/"
 	},
 	{
 		"buFaNr": "4162",
 		"name": "Jena",
+		"mail": "poststelle@finanzamt-jena.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-jena/"
 	},
 	{
 		"buFaNr": "4165",
 		"name": "Pößneck",
+		"mail": "poststelle@finanzamt-poessneck.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-poessneck/"
 	},
 	{
 		"buFaNr": "4166",
 		"name": "Altenburg",
+		"mail": "poststelle@finanzamt-altenburg.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-altenburg/"
 	},
 	{
 		"buFaNr": "4170",
 		"name": "Sonneberg",
+		"mail": "poststelle@finanzamt-sonneberg.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-sonneberg/"
 	},
 	{
 		"buFaNr": "4171",
 		"name": "Suhl",
+		"mail": "poststelle@finanzamt-suhl.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-suhl/"
 	},
 	{
 		"buFaNr": "5101",
 		"name": "Dinslaken",
+		"mail": "Service@FA-5101.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5102",
 		"name": "Viersen",
+		"mail": "Service@FA-5102.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5103",
 		"name": "Düsseldorf-Altstadt",
+		"mail": "Service@FA-5103.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5105",
 		"name": "Düsseldorf-Nord",
+		"mail": "Service@FA-5105.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5106",
 		"name": "Düsseldorf-Süd",
+		"mail": "Service@FA-5106.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5107",
 		"name": "Duisburg-Hamborn",
+		"mail": "Service@FA-5107.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5109",
 		"name": "Duisburg-Süd",
+		"mail": "Service@FA-5109.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5111",
 		"name": "Essen-NordOst",
+		"mail": "Service@FA-5111.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5112",
 		"name": "Essen-Süd",
+		"mail": "Service@FA-5112.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5113",
 		"name": "Geldern",
+		"mail": "Service@FA-5113.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5114",
 		"name": "Grevenbroich",
+		"mail": "Service@FA-5114.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5115",
 		"name": "Kempen",
+		"mail": "Service@FA-5115.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5116",
 		"name": "Kleve",
+		"mail": "Service@FA-5116.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5117",
 		"name": "Krefeld",
+		"mail": "Service@FA-5117.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5119",
 		"name": "Kamp-Lintfort",
+		"mail": "Service@FA-5119.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5120",
 		"name": "Mülheim an der Ruhr",
+		"mail": "Service@FA-5120.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5121",
 		"name": "Mönchengladbach",
+		"mail": "Service@FA-5121.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5122",
 		"name": "Neuss",
+		"mail": "Service@FA-5122.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5123",
 		"name": "Oberhausen-Nord",
+		"mail": "Service@FA-5123.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5124",
 		"name": "Oberhausen-Süd",
+		"mail": "Service@FA-5124.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5126",
 		"name": "Remscheid",
+		"mail": "Service@FA-5126.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5128",
 		"name": "Solingen",
+		"mail": "Service@FA-5128.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5130",
 		"name": "Wesel",
+		"mail": "Service@FA-5130.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5131",
 		"name": "Wuppertal-Barmen",
+		"mail": "Service@FA-5131.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5132",
 		"name": "Wuppertal-Elberfeld",
+		"mail": "Service@FA-5132.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5133",
 		"name": "Düsseldorf-Mitte",
+		"mail": "Service@FA-5133.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5134",
 		"name": "Duisburg-West",
+		"mail": "Service@FA-5134.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5135",
 		"name": "Hilden",
+		"mail": "Service@FA-5135.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5139",
 		"name": "Velbert",
+		"mail": "Service@FA-5139.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5147",
 		"name": "Düsseldorf-Mettmann",
+		"mail": "Service@FA-5147.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5149",
-		"name": "Rechenzentrum d. FinVerw NRW"
+		"name": "Rechenzentrum d. FinVerw NRW",
+		"mail": "Service@FA-5149.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5170",
-		"name": "Düsseldorf I für Groß- und Konzernbetriebsprüfung"
+		"name": "Düsseldorf I für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5170.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5171",
-		"name": "Düsseldorf II für Groß- und Konzernbetriebsprüfung"
+		"name": "Düsseldorf II für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5171.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5172",
-		"name": "Essen für Groß- und Konzernbetriebsprüfung"
+		"name": "Essen für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5172.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5173",
-		"name": "Krefeld für Groß- und Konzernbetriebsprüfung"
+		"name": "Krefeld für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5173.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5174",
-		"name": "Bergisches Land für Groß- und Konzernbetriebsprüfung"
+		"name": "Bergisches Land für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5174.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5176",
-		"name": "Mönchengladbach für Groß- und Konzernbetriebsprüfung"
+		"name": "Mönchengladbach für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5176.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5181",
-		"name": "Düsseldorf f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Düsseldorf f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5181.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5182",
-		"name": "Essen f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Essen f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5182.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5183",
-		"name": "Wuppertal f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Wuppertal f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5183.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5201",
 		"name": "Aachen-Stadt",
+		"mail": "Service@FA-5201.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5202",
 		"name": "Aachen-Kreis",
+		"mail": "Service@FA-5202.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5203",
 		"name": "Bergheim",
+		"mail": "Service@FA-5203.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5204",
 		"name": "Bergisch Gladbach",
+		"mail": "Service@FA-5204.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5205",
 		"name": "Bonn-Innenstadt",
+		"mail": "Service@FA-5205.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5206",
 		"name": "Bonn-Außenstadt",
+		"mail": "Service@FA-5206.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5207",
 		"name": "Düren",
+		"mail": "Service@FA-5207.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5208",
 		"name": "Erkelenz",
+		"mail": "Service@FA-5208.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5209",
 		"name": "Euskirchen",
+		"mail": "Service@FA-5209.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5210",
 		"name": "Geilenkirchen",
+		"mail": "Service@FA-5210.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5211",
 		"name": "Schleiden",
+		"mail": "Service@FA-5211.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5212",
 		"name": "Gummersbach",
+		"mail": "Service@FA-5212.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5213",
 		"name": "Jülich",
+		"mail": "Service@FA-5213.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5214",
 		"name": "Köln-Altstadt",
+		"mail": "Service@FA-5214.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5215",
 		"name": "Köln-Mitte",
+		"mail": "Service@FA-5215.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5216",
 		"name": "Köln-Porz",
+		"mail": "Service@FA-5216.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5217",
 		"name": "Köln-Nord",
+		"mail": "Service@FA-5217.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5218",
 		"name": "Köln-Ost",
+		"mail": "Service@FA-5218.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5219",
 		"name": "Köln-Süd",
+		"mail": "Service@FA-5219.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5220",
 		"name": "Siegburg",
+		"mail": "Service@FA-5220.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5221",
 		"name": "Wipperfürth",
+		"mail": "Service@FA-5221.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5222",
 		"name": "Sankt Augustin",
+		"mail": "Service@FA-5222.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5223",
 		"name": "Köln-West",
+		"mail": "Service@FA-5223.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5224",
 		"name": "Brühl",
+		"mail": "Service@FA-5224.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5230",
 		"name": "Leverkusen",
+		"mail": "Service@FA-5230.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5270",
-		"name": "Köln für Groß- und Konzernbetriebsprüfung"
+		"name": "Köln für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5270.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5271",
-		"name": "Aachen für Groß- und Konzernbetriebsprüfung"
+		"name": "Aachen für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5271.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5272",
-		"name": "Bonn für Groß- und Konzernbetriebsprüfung"
+		"name": "Bonn für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5272.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5281",
-		"name": "Aachen f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Aachen f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5281.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5282",
-		"name": "Bonn f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Bonn f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5282.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5283",
-		"name": "Köln f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Köln f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5283.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5301",
 		"name": "Ahaus",
+		"mail": "Service@FA-5301.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5302",
 		"name": "Altena",
+		"mail": "Service@FA-5302.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5303",
 		"name": "Arnsberg",
+		"mail": "Service@FA-5303.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5304",
 		"name": "Beckum",
+		"mail": "Service@FA-5304.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5305",
 		"name": "Bielefeld-Innenstadt",
+		"mail": "Service@FA-5305.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5306",
 		"name": "Bochum-Mitte",
+		"mail": "Service@FA-5306.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5307",
 		"name": "Borken",
+		"mail": "Service@FA-5307.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5308",
 		"name": "Bottrop",
+		"mail": "Service@FA-5308.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5309",
 		"name": "Brilon",
+		"mail": "Service@FA-5309.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5310",
 		"name": "Bünde",
+		"mail": "Service@FA-5310.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5311",
 		"name": "Steinfurt",
+		"mail": "Service@FA-5311.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5312",
 		"name": "Coesfeld",
+		"mail": "Service@FA-5312.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5313",
 		"name": "Detmold",
+		"mail": "Service@FA-5313.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5314",
 		"name": "Dortmund-West",
+		"mail": "Service@FA-5314.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5315",
 		"name": "Dortmund-Hörde",
+		"mail": "Service@FA-5315.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5316",
 		"name": "Dortmund-Unna",
+		"mail": "Service@FA-5316.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5317",
 		"name": "Dortmund-Ost",
+		"mail": "Service@FA-5317.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5319",
 		"name": "Gelsenkirchen",
+		"mail": "Service@FA-5319.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5321",
 		"name": "Hagen",
+		"mail": "Service@FA-5321.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5322",
 		"name": "Hamm",
+		"mail": "Service@FA-5322.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5323",
 		"name": "Hattingen",
+		"mail": "Service@FA-5323.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5324",
 		"name": "Herford",
+		"mail": "Service@FA-5324.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5325",
 		"name": "Herne",
+		"mail": "Service@FA-5325.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5326",
 		"name": "Höxter",
+		"mail": "Service@FA-5326.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5327",
 		"name": "Ibbenbüren",
+		"mail": "Service@FA-5327.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5328",
 		"name": "Iserlohn",
+		"mail": "Service@FA-5328.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5329",
 		"name": "Lemgo",
+		"mail": "Service@FA-5329.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5330",
 		"name": "Lippstadt",
+		"mail": "Service@FA-5330.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5331",
 		"name": "Lübbecke",
+		"mail": "Service@FA-5331.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5332",
 		"name": "Lüdenscheid",
+		"mail": "Service@FA-5332.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5333",
 		"name": "Lüdinghausen",
+		"mail": "Service@FA-5333.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5334",
 		"name": "Meschede",
+		"mail": "Service@FA-5334.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5335",
 		"name": "Minden",
+		"mail": "Service@FA-5335.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5336",
 		"name": "Münster-Außenstadt",
+		"mail": "Service@FA-5336.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5337",
 		"name": "Münster-Innenstadt",
+		"mail": "Service@FA-5337.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5338",
 		"name": "Olpe",
+		"mail": "Service@FA-5338.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5339",
 		"name": "Paderborn",
+		"mail": "Service@FA-5339.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5340",
 		"name": "Recklinghausen",
+		"mail": "Service@FA-5340.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5341",
 		"name": "Schwelm",
+		"mail": "Service@FA-5341.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5342",
 		"name": "Siegen",
+		"mail": "Service@FA-5342.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5343",
 		"name": "Soest",
+		"mail": "Service@FA-5343.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5345",
 		"name": "Warburg",
+		"mail": "Service@FA-5345.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5346",
 		"name": "Warendorf",
+		"mail": "Service@FA-5346.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5347",
 		"name": "Wiedenbrück",
+		"mail": "Service@FA-5347.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5348",
 		"name": "Witten",
+		"mail": "Service@FA-5348.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5349",
 		"name": "Bielefeld-Außenstadt",
+		"mail": "Service@FA-5349.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5350",
 		"name": "Bochum-Süd",
+		"mail": "Service@FA-5350.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5351",
 		"name": "Gütersloh",
+		"mail": "Service@FA-5351.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5359",
 		"name": "Marl",
+		"mail": "Service@FA-5359.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5371",
-		"name": "Bielefeld für Groß- und Konzernbetriebsprüfung"
+		"name": "Bielefeld für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5371.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5372",
-		"name": "Herne für Groß- und Konzernbetriebsprüfung"
+		"name": "Herne für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5372.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5373",
-		"name": "Detmold für Groß- und Konzernbetriebsprüfung"
+		"name": "Detmold für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5373.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5374",
-		"name": "Dortmund für Groß- und Konzernbetriebsprüfung"
+		"name": "Dortmund für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5374.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5375",
-		"name": "Hagen für Groß- und Konzernbetriebsprüfung"
+		"name": "Hagen für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5375.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5376",
-		"name": "Münster für Groß- und Konzernbetriebsprüfung"
+		"name": "Münster für Groß- und Konzernbetriebsprüfung",
+		"mail": "Service@FA-5376.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5381",
-		"name": "Bielefeld f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Bielefeld f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5381.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5382",
-		"name": "Bochum f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Bochum f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5382.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5383",
-		"name": "Hagen f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Hagen f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5383.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5384",
-		"name": "Münster f. Steuerfahndung und Steuerstrafsachen"
+		"name": "Münster f. Steuerfahndung und Steuerstrafsachen",
+		"mail": "Service@FA-5384.fin-nrw.de"
 	},
 	{
 		"buFaNr": "9101",
 		"name": "Augsburg-Stadt Arbeitnehmerbereich",
+		"mail": "poststelle@fa-a-s.bayern.de",
 		"url": "www.finanzamt-augsburg-stadt.de"
 	},
 	{
 		"buFaNr": "9102",
 		"name": "Augsburg-Land",
+		"mail": "poststelle.fa-a-l@finanzamt.bayern.de",
 		"url": "www.finanzamt-augsburg-land.de"
 	},
 	{
 		"buFaNr": "9103",
 		"name": "Augsburg-Stadt",
+		"mail": "poststelle.fa-a-s@finanzamt.bayern.de",
 		"url": "www.finanzamt-augsburg-stadt.de"
 	},
 	{
 		"buFaNr": "9104",
 		"name": "Wolfratshausen - Bad Tölz",
+		"mail": "poststelle.fa-toel@finanzamt.bayern.de",
 		"url": "www.finanzamt-bad-toelz.de"
 	},
 	{
 		"buFaNr": "9105",
 		"name": "Berchtesgaden-Laufen",
+		"mail": "poststelle.fa-bgd@finanzamt.bayern.de",
 		"url": "www.finanzamt-berchtesgaden.de"
 	},
 	{
 		"buFaNr": "9106",
 		"name": "Burghausen",
+		"mail": "poststelle.fa-burgh@finanzamt.bayern.de",
 		"url": "www.finanzamt-burghausen.de"
 	},
 	{
 		"buFaNr": "9107",
 		"name": "Dachau",
+		"mail": "poststelle.fa-dah@finanzamt.bayern.de",
 		"url": "www.finanzamt-dachau.de"
 	},
 	{
 		"buFaNr": "9108",
 		"name": "Deggendorf",
+		"mail": "poststelle.fa-deg@finanzamt.bayern.de",
 		"url": "www.finanzamt-deggendorf.de"
 	},
 	{
 		"buFaNr": "9109",
 		"name": "Dillingen",
+		"mail": "poststelle.fa-dlg@finanzamt.bayern.de",
 		"url": "www.finanzamt-dillingen.de"
 	},
 	{
 		"buFaNr": "9110",
 		"name": "Dingolfing",
+		"mail": "poststelle.fa-dgf@finanzamt.bayern.de",
 		"url": "www.finanzamt-dingolfing.de"
 	},
 	{
 		"buFaNr": "9111",
 		"name": "Nördlingen mit ASt Donauwörth",
+		"mail": "poststelle.fa-noe@finanzamt.bayern.de",
 		"url": "www.finanzamt-donauwoerth.de"
 	},
 	{
 		"buFaNr": "9112",
 		"name": "Ebersberg",
+		"mail": "poststelle.fa-ebe@finanzamt.bayern.de",
 		"url": "www.finanzamt-ebersberg.de"
 	},
 	{
 		"buFaNr": "9113",
 		"name": "Eggenfelden",
+		"mail": "poststelle.fa-eg@finanzamt.bayern.de",
 		"url": "www.finanzamt-eggenfelden.de"
 	},
 	{
 		"buFaNr": "9114",
 		"name": "Erding",
+		"mail": "poststelle.fa-ed@finanzamt.bayern.de",
 		"url": "www.finanzamt-erding.de"
 	},
 	{
 		"buFaNr": "9115",
 		"name": "Freising",
+		"mail": "poststelle.fa-fs@finanzamt.bayern.de",
 		"url": "www.finanzamt-freising.de"
 	},
 	{
 		"buFaNr": "9116",
-		"name": "Bundeszentralamt für Steuern"
+		"name": "Bundeszentralamt für Steuern",
+		"mail": "Poststelle@bzst.bund.de"
 	},
 	{
 		"buFaNr": "9117",
 		"name": "Fürstenfeldbruck",
+		"mail": "poststelle.fa-ffb@finanzamt.bayern.de",
 		"url": "www.finanzamt-fuerstenfeldbruck.de"
 	},
 	{
 		"buFaNr": "9119",
 		"name": "Garmisch-Partenkirchen",
+		"mail": "poststelle.fa-gap@finanzamt.bayern.de",
 		"url": "www.finanzamt-garmisch-partenkirchen.de"
 	},
 	{
 		"buFaNr": "9121",
 		"name": "Günzburg",
+		"mail": "poststelle.fa-gz@finanzamt.bayern.de",
 		"url": "www.finanzamt-guenzburg.de"
 	},
 	{
 		"buFaNr": "9123",
 		"name": "Kempten-Immenstadt",
+		"mail": "poststelle.fa-immen@finanzamt.bayern.de",
 		"url": "www.finanzamt-immenstadt.de"
 	},
 	{
 		"buFaNr": "9124",
 		"name": "Ingolstadt",
+		"mail": "poststelle.fa-in@finanzamt.bayern.de",
 		"url": "www.finanzamt-ingolstadt.de"
 	},
 	{
 		"buFaNr": "9125",
 		"name": "Kaufbeuren m. ASt Füssen",
+		"mail": "poststelle.fa-kf@finanzamt.bayern.de",
 		"url": "www.finanzamt-kaufbeuren.de"
 	},
 	{
 		"buFaNr": "9126",
 		"name": "Kelheim",
+		"mail": "poststelle.fa-keh@finanzamt.bayern.de",
 		"url": "www.finanzamt-kelheim.de"
 	},
 	{
 		"buFaNr": "9127",
 		"name": "Kempten-Immenstadt",
+		"mail": "poststelle.fa-ke@finanzamt.bayern.de",
 		"url": "www.finanzamt-kempten.de"
 	},
 	{
 		"buFaNr": "9131",
 		"name": "Landsberg am Lech",
+		"mail": "poststelle.fa-ll@finanzamt.bayern.de",
 		"url": "www.finanzamt-landsberg.de"
 	},
 	{
 		"buFaNr": "9132",
 		"name": "Landshut",
+		"mail": "poststelle.fa-la@finanzamt.bayern.de",
 		"url": "www.finanzamt-landshut.de"
 	},
 	{
 		"buFaNr": "9134",
 		"name": "Lindau",
+		"mail": "poststelle.fa-li@finanzamt.bayern.de",
 		"url": "www.finanzamt-lindau.de"
 	},
 	{
 		"buFaNr": "9138",
 		"name": "Memmingen-Mindelheim",
+		"mail": "poststelle.fa-mm@finanzamt.bayern.de",
 		"url": "www.finanzamt-memmingen.de"
 	},
 	{
 		"buFaNr": "9139",
 		"name": "Miesbach",
+		"mail": "poststelle.fa-mb@finanzamt.bayern.de",
 		"url": "www.finanzamt-miesbach.de"
 	},
 	{
 		"buFaNr": "9140",
 		"name": "Memmingen-Mindelheim",
+		"mail": "poststelle.fa-mn@finanzamt.bayern.de",
 		"url": "www.finanzamt-mindelheim.de"
 	},
 	{
 		"buFaNr": "9141",
 		"name": "Mühldorf",
+		"mail": "poststelle.fa-mue@finanzamt.bayern.de",
 		"url": "www.finanzamt-muehldorf.de"
 	},
 	{
 		"buFaNr": "9142",
 		"name": "München Bewertung des Grundbesitzes",
+		"mail": "poststelle-hoe@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9143",
 		"name": "München Körperschaften/PersonenGesellschaften",
+		"mail": "poststelle-abteilung3@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9144",
 		"name": "München Gewinneinkünfte",
+		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9145",
 		"name": "München Gewinneinkünfte",
+		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9146",
 		"name": "München Gewinneinkünfte",
+		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9147",
 		"name": "München Gewinneinkünfte",
+		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9148",
 		"name": "München Gewinneinkünfte",
+		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9149",
 		"name": "München Erhebung",
+		"mail": "poststelle-abteilung6@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9151",
 		"name": "Neu-Ulm",
+		"mail": "poststelle.fa-nu@finanzamt.bayern.de",
 		"url": "www.finanzamt-neu-ulm.de"
 	},
 	{
 		"buFaNr": "9152",
 		"name": "Nördlingen mit ASt Donauwörth",
+		"mail": "poststelle.fa-noe@finanzamt.bayern.de",
 		"url": "www.finanzamt-noerdlingen.de"
 	},
 	{
 		"buFaNr": "9153",
 		"name": "Passau mit Außenstellen",
+		"mail": "poststelle.fa-pa@finanzamt.bayern.de",
 		"url": "www.finanzamt-passau.de"
 	},
 	{
 		"buFaNr": "9154",
 		"name": "Pfaffenhofen",
+		"mail": "poststelle.fa-paf@finanzamt.bayern.de",
 		"url": "www.finanzamt-pfaffenhofen.de"
 	},
 	{
 		"buFaNr": "9156",
 		"name": "Rosenheim m. ASt Wasserburg",
+		"mail": "poststelle.fa-ro@finanzamt.bayern.de",
 		"url": "www.finanzamt-rosenheim.de"
 	},
 	{
 		"buFaNr": "9157",
 		"name": "Grafenau",
+		"mail": "poststelle.fa-gra@finanzamt.bayern.de",
 		"url": "www.finanzamt-grafenau.de"
 	},
 	{
 		"buFaNr": "9159",
 		"name": "Schrobenhausen m. ASt Neuburg",
+		"mail": "poststelle.fa-sob@finanzamt.bayern.de",
 		"url": "www.finanzamt-schrobenhausen.de"
 	},
 	{
 		"buFaNr": "9161",
 		"name": "Starnberg",
+		"mail": "poststelle.fa-sta@finanzamt.bayern.de",
 		"url": "www.finanzamt-starnberg.de"
 	},
 	{
 		"buFaNr": "9162",
 		"name": "Straubing",
+		"mail": "poststelle.fa-sr@finanzamt.bayern.de",
 		"url": "www.finanzamt-straubing.de"
 	},
 	{
 		"buFaNr": "9163",
 		"name": "Traunstein",
+		"mail": "poststelle.fa-ts@finanzamt.bayern.de",
 		"url": "www.finanzamt-traunstein.de"
 	},
 	{
 		"buFaNr": "9168",
 		"name": "Weilheim-Schongau",
+		"mail": "poststelle.fa-wm@finanzamt.bayern.de",
 		"url": "www.finanzamt-weilheim.de"
 	},
 	{
 		"buFaNr": "9169",
 		"name": "Wolfratshausen - Bad Tölz",
+		"mail": "poststelle.fa-wor@finanzamt.bayern.de",
 		"url": "www.finanzamt-wolfratshausen.de"
 	},
 	{
 		"buFaNr": "9170",
 		"name": "Zwiesel m. ASt Viechtach",
+		"mail": "poststelle.fa-zwi@finanzamt.bayern.de",
 		"url": "www.finanzamt-zwiesel.de"
 	},
 	{
 		"buFaNr": "9171",
 		"name": "Eichstätt",
+		"mail": "poststelle.fa-ei@finanzamt.bayern.de",
 		"url": "www.finanzamt-eichstaett.de"
 	},
 	{
 		"buFaNr": "9181",
 		"name": "München Überschusseinkünfte",
+		"mail": "poststelle-deg@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9182",
 		"name": "München Überschusseinkünfte u. Beschränkt Steuerpfl.",
+		"mail": "poststelle-sr@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9183",
 		"name": "München Überschusseinkünfte",
+		"mail": "poststelle-in@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9184",
 		"name": "München Überschusseinkünfte",
+		"mail": "poststelle-pa@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9185",
 		"name": "München Überschusseinkünfte",
+		"mail": "poststelle-ei@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9187",
 		"name": "München Körperschaften",
+		"mail": "poststelle-abteilung3@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9188",
 		"name": "München Betriebsprüfung",
+		"mail": "poststelle-abteilung5@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9189",
 		"name": "München Erhebung",
+		"mail": "poststelle-abteilung6@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9201",
 		"name": "Amberg",
+		"mail": "poststelle.fa-am@finanzamt.bayern.de",
 		"url": "www.finanzamt-amberg.de"
 	},
 	{
 		"buFaNr": "9202",
 		"name": "Obernburg am Main mit Außenstelle Amorbach",
+		"mail": "poststelle-obernburg.fa-amorb@finanzamt.bayern.de",
 		"url": "www.finanzamt-amorbach.de"
 	},
 	{
 		"buFaNr": "9203",
 		"name": "Ansbach mit Außenstellen",
+		"mail": "poststelle.fa-an@finanzamt.bayern.de",
 		"url": "www.finanzamt-ansbach.de"
 	},
 	{
 		"buFaNr": "9204",
 		"name": "Aschaffenburg",
+		"mail": "poststelle.fa-ab@finanzamt.bayern.de",
 		"url": "www.finanzamt-aschaffenburg.de"
 	},
 	{
 		"buFaNr": "9205",
 		"name": "Bad Kissingen",
+		"mail": "poststelle.fa-kg@finanzamt.bayern.de",
 		"url": "www.finanzamt-bad-kissingen.de"
 	},
 	{
 		"buFaNr": "9206",
 		"name": "Bad Neustadt a.d.S.",
+		"mail": "poststelle.fa-nes@finanzamt.bayern.de",
 		"url": "www.finanzamt-bad-neustadt.de"
 	},
 	{
 		"buFaNr": "9207",
 		"name": "Bamberg",
+		"mail": "poststelle.fa-ba@finanzamt.bayern.de",
 		"url": "www.finanzamt-bamberg.de"
 	},
 	{
 		"buFaNr": "9208",
 		"name": "Bayreuth",
+		"mail": "poststelle.fa-bt@finanzamt.bayern.de",
 		"url": "www.finanzamt-bayreuth.de"
 	},
 	{
 		"buFaNr": "9211",
 		"name": "Cham mit Außenstelle Bad Kötzting",
+		"mail": "poststelle.fa-cha@finanzamt.bayern.de",
 		"url": "www.finanzamt-cham.de"
 	},
 	{
 		"buFaNr": "9212",
 		"name": "Coburg",
+		"mail": "poststelle.fa-co@finanzamt.bayern.de",
 		"url": "www.finanzamt-coburg.de"
 	},
 	{
 		"buFaNr": "9216",
 		"name": "Erlangen",
+		"mail": "poststelle.fa-er@finanzamt.bayern.de",
 		"url": "www.finanzamt-erlangen.de"
 	},
 	{
 		"buFaNr": "9217",
 		"name": "Forchheim",
+		"mail": "poststelle.fa-fo@finanzamt.bayern.de",
 		"url": "www.finanzamt-forchheim.de"
 	},
 	{
 		"buFaNr": "9218",
 		"name": "Fürth",
+		"mail": "poststelle.fa-fue@finanzamt.bayern.de",
 		"url": "www.finanzamt-fuerth.de"
 	},
 	{
 		"buFaNr": "9220",
 		"name": "Gunzenhausen",
+		"mail": "poststelle.fa-gun@finanzamt.bayern.de",
 		"url": "www.finanzamt-gunzenhausen.de"
 	},
 	{
 		"buFaNr": "9221",
 		"name": "Hersbruck",
+		"mail": "poststelle.fa-heb@finanzamt.bayern.de",
 		"url": "www.finanzamt-hersbruck.de"
 	},
 	{
 		"buFaNr": "9222",
 		"name": "Hilpoltstein",
+		"mail": "poststelle.fa-hip@finanzamt.bayern.de",
 		"url": "www.finanzamt-hilpoltstein.de"
 	},
 	{
 		"buFaNr": "9223",
 		"name": "Hof mit Außenstellen",
+		"mail": "poststelle.fa-ho@finanzamt.bayern.de",
 		"url": "www.finanzamt-hof.de"
 	},
 	{
 		"buFaNr": "9227",
 		"name": "Kitzingen",
+		"mail": "poststelle.fa-kt@finanzamt.bayern.de",
 		"url": "www.finanzamt-kitzingen.de"
 	},
 	{
 		"buFaNr": "9228",
 		"name": "Kronach",
+		"mail": "poststelle.fa-kc@finanzamt.bayern.de",
 		"url": "www.finanzamt-kronach.de"
 	},
 	{
 		"buFaNr": "9229",
 		"name": "Kulmbach",
+		"mail": "poststelle.fa-ku@finanzamt.bayern.de",
 		"url": "www.finanzamt-kulmbach.de"
 	},
 	{
 		"buFaNr": "9230",
 		"name": "Lichtenfels",
+		"mail": "poststelle.fa-lif@finanzamt.bayern.de",
 		"url": "www.finanzamt-lichtenfels.de"
 	},
 	{
 		"buFaNr": "9231",
 		"name": "Lohr a. Main mit Außenstellen",
+		"mail": "poststelle.fa-loh@finanzamt.bayern.de",
 		"url": "www.finanzamt-lohr.de"
 	},
 	{
 		"buFaNr": "9232",
 		"name": "Lohr a. Main mit Außenstellen - Grunderwerbsteuer",
+		"mail": "poststelle.fa-loh@finanzamt.bayern.de",
 		"url": "www.finanzamt-lohr.de"
 	},
 	{
 		"buFaNr": "9235",
 		"name": "Neumarkt i.d.Opf.",
+		"mail": "poststelle.fa-nm@finanzamt.bayern.de",
 		"url": "/www.finanzamt-neumarkt.de"
 	},
 	{
 		"buFaNr": "9238",
 		"name": "Nürnberg-Nord",
+		"mail": "poststelle.fa-n-n@finanzamt.bayern.de",
 		"url": "www.finanzamt-nuernberg-nord.de"
 	},
 	{
 		"buFaNr": "9240",
 		"name": "Nürnberg-Süd",
+		"mail": "poststelle.fa-n-s@finanzamt.bayern.de",
 		"url": "www.finanzamt-nuernberg-sued.de"
 	},
 	{
 		"buFaNr": "9241",
 		"name": "Nürnberg-Zentral",
+		"mail": "poststelle.fa-n-zfa@finanzamt.bayern.de",
 		"url": "www.zentralfinanzamt-nuernberg.de"
 	},
 	{
 		"buFaNr": "9244",
 		"name": "Regensburg",
+		"mail": "poststelle.fa-r@finanzamt.bayern.de",
 		"url": "www.finanzamt-regensburg.de"
 	},
 	{
 		"buFaNr": "9247",
 		"name": "Schwabach",
+		"mail": "poststelle.fa-sc@finanzamt.bayern.de",
 		"url": "www.finanzamt-schwabach.de"
 	},
 	{
 		"buFaNr": "9248",
 		"name": "Schwandorf mit Außenstelle Neunburg v. W.",
+		"mail": "poststelle.fa-sad@finanzamt.bayern.de",
 		"url": "www.finanzamt-schwandorf.de"
 	},
 	{
 		"buFaNr": "9249",
 		"name": "Schweinfurt",
+		"mail": "poststelle.fa-sw@finanzamt.bayern.de",
 		"url": "www.finanzamt-schweinfurt.de"
 	},
 	{
 		"buFaNr": "9252",
 		"name": "Uffenheim",
+		"mail": "poststelle.fa-uff@finanzamt.bayern.de",
 		"url": "www.finanzamt-uffenheim.de"
 	},
 	{
 		"buFaNr": "9254",
 		"name": "Waldsassen",
+		"mail": "poststelle.fa-wasa@finanzamt.bayern.de",
 		"url": "www.finanzamt-waldsassen.de"
 	},
 	{
 		"buFaNr": "9255",
 		"name": "Weiden i.d.Opf.",
+		"mail": "poststelle.fa-wen@finanzamt.bayern.de",
 		"url": "www.finanzamt-weiden.de"
 	},
 	{
 		"buFaNr": "9257",
 		"name": "Würzburg mit Außenstelle Ochsenfurt",
+		"mail": "poststelle.fa-wue@finanzamt.bayern.de",
 		"url": "www.finanzamt-wuerzburg.de"
 	},
 	{
 		"buFaNr": "9258",
 		"name": "Wunsiedel mit Außenstelle Selb",
+		"mail": "poststelle.fa-wun@finanzamt.bayern.de",
 		"url": "www.finanzamt-wunsiedel.de"
 	},
 	{
 		"buFaNr": "9259",
 		"name": "Zeil am Main mit Außenstelle Ebern",
+		"mail": "poststelle.fa-zei@finanzamt.bayern.de",
 		"url": "www.finanzamt-zeil.de"
 	},
 	{
 		"buFaNr": "2171",
-		"name": "Bad Segeberg Bewertung für Grundsteuer 71"
+		"name": "Bad Segeberg Bewertung für Grundsteuer 71",
+		"mail": "poststelle@fa-bad-segeberg.landsh.de"
 	}
 ]

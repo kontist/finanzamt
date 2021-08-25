@@ -6,12 +6,17 @@ it('returns information about the Finanzamt Prenzlauer Berg', () => {
   assert.deepStrictEqual(finanzamt('1131'), {
     buFaNr: '1131',
     name: 'Prenzlauer Berg',
+    mail: 'poststelle@fa-prenzlauer-berg.verwalt-berlin.de',
     url: 'http://www.berlin.de/sen/finanzen'
   });
 });
 
 it('returns information when steuernummer is given', () => {
   assert.strictEqual(finanzamt('1121081508150').name, 'Tempelhof');
+});
+
+it('returns no mail property if there is none', () => {
+  assert(!Object.prototype.hasOwnProperty.call(finanzamt('2801'), 'mail'));
 });
 
 it('returns no url property if there is none', () => {

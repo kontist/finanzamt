@@ -22,11 +22,13 @@ const writeJsonFile = require('write-json-file');
     const attributes = finanzamt.$;
     const kontaktListe = finanzamt.KontaktListe[0].Kontakt;
 
+    const mail = _.find(kontaktListe, ['$.Bezeichnung', 'Mail'])?.$.Inhalt;
     const url = _.find(kontaktListe, ['$.Bezeichnung', 'URL'])?.$.Inhalt;
 
     return {
       buFaNr: attributes.BuFaNr,
       name: attributes.Name,
+      mail,
       url
     };
   });
