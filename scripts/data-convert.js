@@ -6,7 +6,7 @@ const _ = require('lodash');
 const writeJsonFile = require('write-json-file');
 
 (async () => {
-  const xmlPaths = await globby('data/GemFA_Export_*.xml');
+  const xmlPaths = await globby('data/gemfa_xml_export_datei.xml');
 
   if (xmlPaths.length === 0) {
     throw new Error('No XML file found');
