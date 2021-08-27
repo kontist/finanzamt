@@ -8,7 +8,7 @@ const writeJsonFile = require('write-json-file');
 const getAddresse = (xmlAddresses, addressType) => {
   const xmlAddress = _.find(
     xmlAddresses,
-    (address) => address.$["xsi:type"] === addressType
+    (address) => address.$['xsi:type'] === addressType
   );
 
   if (!xmlAddress) return undefined;
@@ -18,14 +18,14 @@ const getAddresse = (xmlAddresses, addressType) => {
     strasse: xmlAddress.$.Strasse,
     hausNr: xmlAddress.$.HausNr,
     plz: xmlAddress.$.PLZ,
-    ort: xmlAddress.$.Ort,
+    ort: xmlAddress.$.Ort
   };
 
   return address;
 };
 
 const getAddresses = (xmlAddresses) => {
-  const addressesTypes = ["HausanschriftType"];
+  const addressesTypes = ['HausanschriftType'];
   const adresses = _.map(addressesTypes, (addressType) =>
     getAddresse(xmlAddresses, addressType)
   );
@@ -33,7 +33,7 @@ const getAddresses = (xmlAddresses) => {
 };
 
 const getContactValue = (kontaktListe, attributeName) => {
-  const contactNode = _.find(kontaktListe, ["$.Bezeichnung", attributeName]);
+  const contactNode = _.find(kontaktListe, ['$.Bezeichnung', attributeName]);
   return contactNode ? contactNode.$.Inhalt : undefined;
 };
 
@@ -56,20 +56,20 @@ const getFinanzamt = (finanzamt) => {
   const finanzamtJson = {
     buFaNr: attributes.BuFaNr,
     name: attributes.Name,
-    tel: getContactValue(kontaktListe, "Tel"),
-    fax: getContactValue(kontaktListe, "Fax"),
-    mail: getContactValue(kontaktListe, "Mail"),
-    url: getContactValue(kontaktListe, "URL"),
-    addresses: getAddresses(adresseListe),
+    tel: getContactValue(kontaktListe, 'Tel'),
+    fax: getContactValue(kontaktListe, 'Fax'),
+    mail: getContactValue(kontaktListe, 'Mail'),
+    url: getContactValue(kontaktListe, 'URL'),
+    addresses: getAddresses(adresseListe)
   };
 
   return finanzamtJson;
 };
 
 (async () => {
-  const xmlFile = await readFile("data/GemFA_Export_*.xml");
+  const xmlFile = await readFile('data/GemFA_Export_*.xml');
   const input = await xml2js.parseStringPromise(xmlFile);
   const finanzamtListe = input.GemfaExport.FinanzamtListe[0].Finanzamt;
   const output = _.map(finanzamtListe, getFinanzamt);
-  await writeJsonFile("data/finanzaemter.json", output);
+  await writeJsonFile('data/finanzaemter.json', output);
 })();
