@@ -6,8 +6,19 @@ it('returns information about the Finanzamt Prenzlauer Berg', () => {
   assert.deepStrictEqual(finanzamt('1131'), {
     buFaNr: '1131',
     name: 'Prenzlauer Berg',
+    tel: '030 9024-28 0',
+    fax: '030 9024-28 900',
     mail: 'poststelle@fa-prenzlauer-berg.verwalt-berlin.de',
-    url: 'http://www.berlin.de/sen/finanzen'
+    url: 'http://www.berlin.de/sen/finanzen',
+    addresses: [
+      {
+        hausNr: '134',
+        ort: 'Berlin',
+        plz: '10407',
+        strasse: 'Storkower Straße',
+        type: 'HausanschriftType'
+      }
+    ]
   });
 });
 
