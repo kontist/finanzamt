@@ -631,8 +631,8 @@
 	},
 	{
 		"buFaNr": "2354",
-		"name": "Aurich",
-		"mail": "Poststelle@fa-aur.niedersachsen.de",
+		"name": "Aurich-Wittmund",
+		"mail": "Poststelle@fa-aur-wtm.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
@@ -717,12 +717,6 @@
 		"buFaNr": "2370",
 		"name": "Wilhelmshaven",
 		"mail": "Poststelle@fa-whv.niedersachsen.de",
-		"url": "www.lstn.niedersachsen.de"
-	},
-	{
-		"buFaNr": "2371",
-		"name": "Wittmund",
-		"mail": "Poststelle@fa-wtm.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
@@ -1515,7 +1509,7 @@
 	{
 		"buFaNr": "2865",
 		"name": "Heilbronn",
-		"url": "https://Kontakt.fv-bwl.de"
+		"url": "https://www.fa-heilbronn.de"
 	},
 	{
 		"buFaNr": "2869",
@@ -3441,5 +3435,98 @@
 		"buFaNr": "2171",
 		"name": "Bad Segeberg Bewertung für Grundsteuer 71",
 		"mail": "poststelle@fa-bad-segeberg.landsh.de"
+	},
+	{
+		"buFaNr": "2173",
+		"name": "Elmshorn Bewertung für Grundsteuer 73",
+		"mail": "poststelle@fa-elmshorn.landsh.de"
+	},
+	{
+		"buFaNr": "2175",
+		"name": "Flensburg Bewertung für Grundsteuer 75"
+	},
+	{
+		"buFaNr": "2190",
+		"name": "Stormarn Bewertung für Grundsteuer 90",
+		"mail": "poststelle@fa-stormarn.landsh.de"
+	},
+	{
+		"buFaNr": "2184",
+		"name": "Neumünster Bewertung für Grundsteuer 84",
+		"mail": "poststelle@fa-neumuenster.landsh.de"
+	},
+	{
+		"buFaNr": "2186",
+		"name": "Plön Bewertung für Grundsteuer 86",
+		"mail": "poststelle@fa-ploen.landsh.de"
+	},
+	{
+		"buFaNr": "2189",
+		"name": "Eckernförde-Schleswig Bewertung für Grundsteuer 89",
+		"mail": "poststelle@fa-eck-sl.landsh.de"
+	},
+	{
+		"buFaNr": "2191",
+		"name": "Pinneberg Bewertung für Grundsteuer 91",
+		"mail": "poststelle@fa-pinneberg.landsh.de"
+	},
+	{
+		"buFaNr": "2187",
+		"name": "Ratzeburg Bewertung für Grundsteuer 87",
+		"mail": "poststelle@fa-ratzeburg.landsh.de"
+	},
+	{
+		"buFaNr": "2172",
+		"name": "Eckernförde-Schleswig Bewertung fur Grundsteuer 72",
+		"mail": "poststelle@fa-eck-sl.landsh.de"
+	},
+	{
+		"buFaNr": "2183",
+		"name": "Dithmarschen Bewertung für Grundsteuer 83",
+		"mail": "poststelle@fa-dithmarschen.landsh.de"
+	},
+	{
+		"buFaNr": "2180",
+		"name": "Kiel Bewertung für Grundsteuer 80",
+		"mail": "poststelle@fa-kiel.landsh.de"
+	},
+	{
+		"buFaNr": "2188",
+		"name": "Rendsburg Bewertung für Grundsteuer 88",
+		"mail": "poststelle@fa-rendsburg.landsh.de"
+	},
+	{
+		"buFaNr": "2179",
+		"name": "Kiel Bewertung für Grundsteuer 79",
+		"mail": "poststelle@fa-kiel.landsh.de"
+	},
+	{
+		"buFaNr": "2182",
+		"name": "Lübeck Bewertung für Grundsteuer 82",
+		"mail": "poststelle@fa-luebeck.landsh.de"
+	},
+	{
+		"buFaNr": "2185",
+		"name": "Ostholstein Bewertung für Grundsteuer 85",
+		"mail": "poststelle@fa-ostholstein.landsh.de"
+	},
+	{
+		"buFaNr": "2176",
+		"name": "Dithmarschen Bewertung für Grundsteuer 76"
+	},
+	{
+		"buFaNr": "2177",
+		"name": "Nordfriesland Bewertung für Grundsteuer 77",
+		"mail": "poststelle@fa-nordfriesland.landsh.de"
+	},
+	{
+		"buFaNr": "2178",
+		"name": "Itzehoe Bewertung für Grundsteuer 78",
+		"mail": "poststelle@fa-itzehoe.landsh.de"
+	},
+	{
+		"buFaNr": "2181",
+		"name": "Nordfriesland Bewertung für Grundsteuer 81",
+		"mail": "poststelle@fa-nordfriesland.landsh.de"
 	}
 ]
