@@ -20,6 +20,19 @@ const writeJsonFile = require('write-json-file');
 
   const output = finanzamtListe.map((finanzamt) => {
     const attributes = finanzamt.$;
+
+    const adresseListe = finanzamt.AdresseListe[0].Adresse;
+    const hausanschrift = _.find(adresseListe, [
+      '$.xsi:type',
+      'HausanschriftType'
+    ]);
+
+    const strasse = hausanschrift?.$.Strasse;
+    const hausNr = hausanschrift?.$.HausNr;
+    const hausNrZusatz = hausanschrift?.$.HausNrZusatz;
+    const plz = hausanschrift?.$.PLZ;
+    const ort = hausanschrift?.$.Ort;
+
     const kontaktListe = finanzamt.KontaktListe[0].Kontakt;
 
     const tel = _.find(kontaktListe, ['$.Bezeichnung', 'Tel'])?.$.Inhalt;
@@ -30,6 +43,15 @@ const writeJsonFile = require('write-json-file');
     return {
       buFaNr: attributes.BuFaNr,
       name: attributes.Name,
+      ...(hausanschrift && {
+        hausanschrift: {
+          strasse,
+          hausNr,
+          hausNrZusatz,
+          plz,
+          ort
+        }
+      }),
       tel,
       fax,
       mail,

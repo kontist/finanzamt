@@ -6,6 +6,12 @@ it('returns information about the Finanzamt Prenzlauer Berg', () => {
   assert.deepStrictEqual(finanzamt('1131'), {
     buFaNr: '1131',
     name: 'Prenzlauer Berg',
+    hausanschrift: {
+      strasse: 'Storkower Straße',
+      hausNr: '134',
+      plz: '10407',
+      ort: 'Berlin'
+    },
     tel: '030 9024-28 0',
     fax: '030 9024-28 900',
     mail: 'poststelle@fa-prenzlauer-berg.verwalt-berlin.de',
@@ -15,6 +21,30 @@ it('returns information about the Finanzamt Prenzlauer Berg', () => {
 
 it('returns information when steuernummer is given', () => {
   assert.strictEqual(finanzamt('1121081508150').name, 'Tempelhof');
+});
+
+it('returns no hausanschrift property if there is none', () => {
+  assert(
+    !Object.prototype.hasOwnProperty.call(finanzamt('2175'), 'hausanschrift')
+  );
+});
+
+it('returns no hausanschrift.hausNr property if there is none', () => {
+  assert(
+    !Object.prototype.hasOwnProperty.call(
+      finanzamt('1020').hausanschrift,
+      'hausNr'
+    )
+  );
+});
+
+it('returns no hausanschrift.hausNrZusatz property if there is none', () => {
+  assert(
+    !Object.prototype.hasOwnProperty.call(
+      finanzamt('1010').hausanschrift,
+      'hausNrZusatz'
+    )
+  );
 });
 
 it('returns no tel property if there is none', () => {

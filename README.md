@@ -56,6 +56,48 @@ Type: `string`
 
 Der Name der Finanzbehörde.
 
+#### hausanschrift
+
+Type: `object`
+
+Die Hausanschrift der Finanzbehörde.
+
+*Nicht alle Finanzbehörden geben diese Adresse an.*
+
+##### strasse
+
+Type: `string`
+
+Die Strasse der Hausanschrift.
+
+##### hausNr
+
+Type: `string`
+
+Die Hausnummer der Hausanschrift.
+
+*Nicht alle Hausanschriften haben eine Hausnummer.*
+
+##### hausNrZusatz
+
+Type: `string`
+
+Der Hausnummernzusatz der Hausanschrift.
+
+*Nicht alle Hausanschriften haben einen Hausnummernzusatz.*
+
+##### plz
+
+Type: `string`
+
+Die PLZ der Hausanschrift.
+
+##### ort
+
+Type: `string`
+
+Der Ort der Hausanschrift.
+
 #### tel
 
 Type: `string`
