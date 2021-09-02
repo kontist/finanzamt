@@ -7,6 +7,7 @@ it('returns information about the Finanzamt Prenzlauer Berg', () => {
     buFaNr: '1131',
     name: 'Prenzlauer Berg',
     tel: '030 9024-28 0',
+    fax: '030 9024-28 900',
     mail: 'poststelle@fa-prenzlauer-berg.verwalt-berlin.de',
     url: 'http://www.berlin.de/sen/finanzen'
   });
@@ -18,6 +19,10 @@ it('returns information when steuernummer is given', () => {
 
 it('returns no tel property if there is none', () => {
   assert(!Object.prototype.hasOwnProperty.call(finanzamt('2175'), 'tel'));
+});
+
+it('returns no fax property if there is none', () => {
+  assert(!Object.prototype.hasOwnProperty.call(finanzamt('2188'), 'fax'));
 });
 
 it('returns no mail property if there is none', () => {

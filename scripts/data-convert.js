@@ -23,6 +23,7 @@ const writeJsonFile = require('write-json-file');
     const kontaktListe = finanzamt.KontaktListe[0].Kontakt;
 
     const tel = _.find(kontaktListe, ['$.Bezeichnung', 'Tel'])?.$.Inhalt;
+    const fax = _.find(kontaktListe, ['$.Bezeichnung', 'Fax'])?.$.Inhalt;
     const mail = _.find(kontaktListe, ['$.Bezeichnung', 'Mail'])?.$.Inhalt;
     const url = _.find(kontaktListe, ['$.Bezeichnung', 'URL'])?.$.Inhalt;
 
@@ -30,6 +31,7 @@ const writeJsonFile = require('write-json-file');
       buFaNr: attributes.BuFaNr,
       name: attributes.Name,
       tel,
+      fax,
       mail,
       url
     };

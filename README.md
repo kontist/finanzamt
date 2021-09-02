@@ -64,6 +64,14 @@ Die Telefonnummer-Kontaktangabe der Finanzbehörde.
 
 *Nicht alle Finanzbehörden geben diesen Kontakt an.*
 
+#### fax
+
+Type: `string`
+
+Die Fax-Kontaktangabe der Finanzbehörde.
+
+*Nicht alle Finanzbehörden geben diesen Kontakt an.*
+
 #### mail
 
 Type: `string`
