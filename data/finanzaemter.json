@@ -2,3443 +2,4040 @@
 	{
 		"buFaNr": "1010",
 		"name": "Saarlouis",
+		"tel": "06831 4490",
 		"mail": "poststelle@fasls.saarland.de",
 		"url": "www.finanzamt-saarlouis.de"
 	},
 	{
 		"buFaNr": "1020",
 		"name": "Merzig",
+		"tel": "06861 7030",
 		"mail": "poststelle@famzg.saarland.de",
 		"url": "www.finanzamt-merzig.de"
 	},
 	{
 		"buFaNr": "1030",
 		"name": "Neunkirchen",
+		"tel": "06821 1090",
 		"mail": "poststelle@fank.saarland.de",
 		"url": "www.finanzamt-neunkirchen.de"
 	},
 	{
 		"buFaNr": "1040",
 		"name": "Saarbrücken Am Stadtgraben",
+		"tel": "0681 30000",
 		"mail": "poststelle@fasb.saarland.de",
 		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1055",
 		"name": "Saarbrücken MainzerStr",
+		"tel": "0681 30000",
 		"mail": "poststelle@fasbm.saarland.de"
 	},
 	{
 		"buFaNr": "1060",
 		"name": "St. Wendel",
+		"tel": "06851 8040",
 		"mail": "poststelle@fawnd.saarland.de",
 		"url": "www.finanzamt-sankt-wendel.de"
 	},
 	{
 		"buFaNr": "1070",
 		"name": "Saarbrücken Am Stadtgraben - Außenst. Sulzbach",
+		"tel": "06897 90820",
 		"mail": "poststelle@fasb.saarland.de",
 		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1075",
 		"name": "Homburg",
+		"tel": "06841 6970",
 		"mail": "poststelle@fahom.saarland.de",
 		"url": "www.finanzamt-homburg.de"
 	},
 	{
 		"buFaNr": "1085",
 		"name": "Homburg - Außenst. St. Ingbert",
+		"tel": "06894 98401",
 		"mail": "poststelle@fahom.saarland.de",
 		"url": "www.finanzamt-homburg.de"
 	},
 	{
 		"buFaNr": "1090",
 		"name": "Saarbrücken Am Stadtgraben - Außenst. Völklingen",
+		"tel": "06898 20301",
 		"mail": "poststelle@fasb.saarland.de",
 		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1113",
 		"name": "Charlottenburg",
+		"tel": "030 9024-13 0",
 		"mail": "poststelle@fa-charlottenburg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1114",
 		"name": "Friedrichshain-Kreuzberg",
+		"tel": "030 9024-14 0",
 		"mail": "poststelle@fa-friedrichshain-kreuzberg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1116",
 		"name": "Neukölln",
+		"tel": "030 9024-16 0",
 		"mail": "poststelle@fa-neukoelln.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1117",
 		"name": "Reinickendorf",
+		"tel": "030 9024-17 0",
 		"mail": "poststelle@fa-reinickendorf.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1118",
 		"name": "Schöneberg",
+		"tel": "030 9024-18 0",
 		"mail": "poststelle@fa-schoeneberg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1119",
 		"name": "Spandau",
+		"tel": "030 9024-19 0",
 		"mail": "poststelle@fa-spandau.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1120",
 		"name": "Steglitz",
+		"tel": "030 9024-20 0",
 		"mail": "poststelle@fa-steglitz.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1121",
 		"name": "Tempelhof",
+		"tel": "030 9024-21 0",
 		"mail": "poststelle@fa-tempelhof.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1123",
 		"name": "Wedding",
+		"tel": "030 9024-23 0",
 		"mail": "poststelle@fa-wedding.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1124",
 		"name": "Wilmersdorf",
+		"tel": "030 9024-24 0",
 		"mail": "poststelle@fa-wilmersdorf.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1125",
 		"name": "Zehlendorf",
+		"tel": "030 9024-25 0",
 		"mail": "poststelle@fa-zehlendorf.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1127",
 		"name": "für Körperschaften I",
+		"tel": "030 9024-27 0",
 		"mail": "poststelle@fa-koerperschaften-i.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1129",
 		"name": "für Körperschaften III",
+		"tel": "030 9024-31 0",
 		"mail": "poststelle@fa-koerperschaften-iii.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1130",
 		"name": "für Körperschaften IV",
+		"tel": "030 9024-30 0",
 		"mail": "poststelle@fa-koerperschaften-iv.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1131",
 		"name": "Prenzlauer Berg",
+		"tel": "030 9024-28 0",
 		"mail": "poststelle@fa-prenzlauer-berg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1132",
 		"name": "Lichtenberg",
+		"tel": "030 9024-34 0",
 		"mail": "poststelle@fa-lichtenberg.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1133",
 		"name": "Marzahn-Hellersdorf",
+		"tel": "030 9024-26 0",
 		"mail": "poststelle@fa-marzahn-hellersdorf.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1134",
 		"name": "Mitte/Tiergarten",
+		"tel": "030 9024-22 0",
 		"mail": "poststelle@fa-mitte-tiergarten.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1135",
 		"name": "Pankow/Weißensee",
+		"tel": "030 9024-33 0",
 		"mail": "poststelle@fa-pankow-weissensee.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1136",
 		"name": "Treptow-Köpenick",
+		"tel": "030 9024-12 0",
 		"mail": "poststelle@fa-treptow-koepenick.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1137",
 		"name": "für Körperschaften II",
+		"tel": "030 9024-29 0",
 		"mail": "poststelle@fa-koerperschaften-ii.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1138",
 		"name": "für Fahndung und Strafsachen Berlin",
+		"tel": "030 9024-32 0",
 		"mail": "poststelle@fa-fahndung-und-strafsachen.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "1191",
 		"name": "Technisches Finanzamt Berlin",
+		"tel": "030 9024-35 0",
 		"mail": "poststelle@tfa.verwalt-berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
 		"buFaNr": "2111",
 		"name": "Bad Segeberg",
+		"tel": "04551 54-0",
 		"mail": "poststelle@fa-bad-segeberg.landsh.de"
 	},
 	{
 		"buFaNr": "2113",
 		"name": "Elmshorn",
+		"tel": "04121 481-0",
 		"mail": "poststelle@fa-elmshorn.landsh.de"
 	},
 	{
 		"buFaNr": "2115",
 		"name": "Flensburg",
+		"tel": "0461 813-0",
 		"mail": "poststelle@fa-flensburg.landsh.de"
 	},
 	{
 		"buFaNr": "2116",
 		"name": "Dithmarschen",
+		"tel": "0481 42155-0",
 		"mail": "poststelle@fa-dithmarschen.landsh.de"
 	},
 	{
 		"buFaNr": "2117",
 		"name": "Nordfriesland",
+		"tel": "04841 8949-0",
 		"mail": "poststelle@fa-nordfriesland.landsh.de"
 	},
 	{
 		"buFaNr": "2118",
 		"name": "Itzehoe",
+		"tel": "04821 66-0",
 		"mail": "poststelle@fa-itzehoe.landsh.de"
 	},
 	{
 		"buFaNr": "2120",
 		"name": "Kiel",
+		"tel": "0431 602-0",
 		"mail": "poststelle@fa-kiel.landsh.de"
 	},
 	{
 		"buFaNr": "2122",
 		"name": "Lübeck",
+		"tel": "0451 132-0",
 		"mail": "poststelle@fa-luebeck.landsh.de"
 	},
 	{
 		"buFaNr": "2124",
 		"name": "Neumünster",
+		"tel": "04321 496-0",
 		"mail": "poststelle@fa-neumuenster.landsh.de"
 	},
 	{
 		"buFaNr": "2125",
 		"name": "Ostholstein",
+		"tel": "04361 497-0",
 		"mail": "poststelle@fa-ostholstein.landsh.de"
 	},
 	{
 		"buFaNr": "2126",
 		"name": "Plön",
+		"tel": "04522 506-0",
 		"mail": "poststelle@fa-ploen.landsh.de"
 	},
 	{
 		"buFaNr": "2127",
 		"name": "Ratzeburg",
+		"tel": "04541 882-0",
 		"mail": "poststelle@fa-ratzeburg.landsh.de"
 	},
 	{
 		"buFaNr": "2128",
 		"name": "Rendsburg",
+		"tel": "04331 598-0",
 		"mail": "poststelle@fa-rendsburg.landsh.de"
 	},
 	{
 		"buFaNr": "2129",
 		"name": "Eckernförde-Schleswig",
+		"tel": "04351 756-0",
 		"mail": "poststelle@fa-eck-sl.landsh.de"
 	},
 	{
 		"buFaNr": "2130",
 		"name": "Stormarn",
+		"tel": "04531 507-0",
 		"mail": "poststelle@fa-stormarn.landsh.de"
 	},
 	{
 		"buFaNr": "2131",
 		"name": "Pinneberg",
+		"tel": "04101 5472-0",
 		"mail": "poststelle@fa-pinneberg.landsh.de"
 	},
 	{
 		"buFaNr": "2137",
 		"name": "Zentrale Prüfungsdienste",
+		"tel": "0431 55062-0",
 		"mail": "poststelle@fa-zpd.landsh.de"
 	},
 	{
 		"buFaNr": "2201",
 		"name": "Hamburg für Steuererhebung in Hamburg",
+		"tel": "040 115",
 		"mail": "FAfuerSteuererhebung@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/steuka-start/"
 	},
 	{
 		"buFaNr": "2210",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"tel": "040/428 28-0",
 		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/vug-start/"
 	},
 	{
 		"buFaNr": "2216",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"tel": "040 115",
 		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/vug-start/"
 	},
 	{
 		"buFaNr": "2217",
 		"name": "Hamburg-Nord",
+		"tel": "040 115",
 		"mail": "FAHamburgNord@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/nord-start/"
 	},
 	{
 		"buFaNr": "2220",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"tel": "040 115",
 		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/vug-start/"
 	},
 	{
 		"buFaNr": "2227",
 		"name": "Hamburg für Großunternehmen in Hamburg",
+		"tel": "040 115",
 		"mail": "FAfuerGrossunternehmen@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/grossunternehmen-start/"
 	},
 	{
 		"buFaNr": "2228",
 		"name": "Hamburg für Prüfungsd. und Strafsachen",
+		"tel": "040/428 11-5000",
 		"mail": "PoststelleFAPrueStra@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/pruestra-start/"
 	},
 	{
 		"buFaNr": "2230",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"tel": "040 115",
 		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/vug-start/"
 	},
 	{
 		"buFaNr": "2235",
 		"name": "Hamburg für Verkehrst. und Grundbesitz",
+		"tel": "040 115",
 		"mail": "FAfuerVerkehrsteuern@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/vug-start/"
 	},
 	{
 		"buFaNr": "2241",
 		"name": "Hamburg-Altona",
+		"tel": "040 115",
 		"mail": "FAHamburgAltona@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/altonastart/"
 	},
 	{
 		"buFaNr": "2242",
 		"name": "Hamburg-Am Tierpark",
+		"tel": "040 115",
 		"mail": "FAHamburgAmTierpark@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/amtierpark-start/"
 	},
 	{
 		"buFaNr": "2243",
 		"name": "Hamburg-Barmbek-Uhlenhorst",
+		"tel": "040 115",
 		"mail": "FAHamburgBarmbekUhlenhorst@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/bustart/"
 	},
 	{
 		"buFaNr": "2244",
 		"name": "Hamburg-Ost",
+		"tel": "040 115",
 		"mail": "FAHamburgOst@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/fb/ost-start/"
 	},
 	{
 		"buFaNr": "2245",
 		"name": "Hamburg-Eimsbüttel",
+		"tel": "040 115",
 		"mail": "FAHamburgEimsbuettel@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/eimsbuettel-start/"
 	},
 	{
 		"buFaNr": "2246",
 		"name": "Hamburg-Hansa",
+		"tel": "040 115",
 		"mail": "FAHamburgHansa@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/hansa-start/"
 	},
 	{
 		"buFaNr": "2247",
 		"name": "Hamburg-Harburg",
+		"tel": "040 115",
 		"mail": "FAHamburgHarburg@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/harburg-start/"
 	},
 	{
 		"buFaNr": "2248",
 		"name": "Hamburg-Mitte",
+		"tel": "040 115",
 		"mail": "FAHamburgMitte@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/mitte-start/"
 	},
 	{
 		"buFaNr": "2249",
 		"name": "Hamburg-Nord",
+		"tel": "040 115",
 		"mail": "FAHamburgNord@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/nord-start/"
 	},
 	{
 		"buFaNr": "2250",
 		"name": "Hamburg-Oberalster",
+		"tel": "040 115",
 		"mail": "FAHamburgOberalster@finanzamt.hamburg.de",
 		"url": "https://www.hamburg.de/fb/oberalster-start/"
 	},
 	{
 		"buFaNr": "2251",
 		"name": "Hamburg-Ost",
+		"tel": "040 115",
 		"mail": "FAHamburgOst@finanzamt.hamburg.de",
 		"url": "http://www.hamburg.de/fb/ost-start/"
 	},
 	{
 		"buFaNr": "2313",
 		"name": "Braunschweig-Altewiekring",
+		"tel": "0531 705-0",
 		"mail": "Poststelle@fa-bs-a.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2314",
 		"name": "Braunschweig-Wilhelmstr.",
+		"tel": "0531 489-0",
 		"mail": "Poststelle@fa-bs-w.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2315",
 		"name": "Buchholz in der Nordheide",
+		"tel": "04181 203-0",
 		"mail": "Poststelle@fa-buc.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2316",
 		"name": "Burgdorf",
+		"tel": "05136 806-0",
 		"mail": "Poststelle@fa-bu.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2317",
 		"name": "Celle",
+		"tel": "05141 915-0",
 		"mail": "Poststelle@fa-ce.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2318",
 		"name": "Cuxhaven",
+		"tel": "04721 563-0",
 		"mail": "Poststelle@fa-cux.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2319",
 		"name": "Gifhorn",
+		"tel": "05371 800-0",
 		"mail": "Poststelle@fa-gf.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2320",
 		"name": "Göttingen",
+		"tel": "0551 407-0",
 		"mail": "Poststelle@fa-goe.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2321",
 		"name": "Goslar-Bad Gandersheim",
+		"tel": "05321 559-0",
 		"mail": "Poststelle@fa-gs-gan.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2322",
 		"name": "Hameln",
+		"tel": "05151 204-0",
 		"mail": "Poststelle@fa-hm.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2323",
 		"name": "Hannover-Land I",
+		"tel": "0511 419-1",
 		"mail": "Poststelle@fa-h-l1.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2324",
 		"name": "Hannover-Mitte",
+		"tel": "0511 1675-0",
 		"mail": "Poststelle@fa-h-mi.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2325",
 		"name": "Hannover-Nord",
+		"tel": "0511 6790-0",
 		"mail": "Poststelle@fa-h-no.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2326",
 		"name": "Hannover-Süd",
+		"tel": "0511 419-1",
 		"mail": "Poststelle@fa-h-su.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2327",
 		"name": "Hannover-Land II",
+		"tel": "0511 6790-0",
 		"mail": "Poststelle@fa-h-l2.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2328",
 		"name": "Helmstedt",
+		"tel": "05351 122-0",
 		"mail": "Poststelle@fa-he.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2329",
 		"name": "Herzberg am Harz",
+		"tel": "05521 857-0",
 		"mail": "Poststelle@fa-hz.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2330",
 		"name": "Hildesheim-Alfeld",
+		"tel": "05121 302-0",
 		"mail": "Poststelle@fa-hi-alf.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2331",
 		"name": "Holzminden",
+		"tel": "05531 122-0",
 		"mail": "Poststelle@fa-hol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2333",
 		"name": "Lüneburg",
+		"tel": "04131 305-0",
 		"mail": "Poststelle@fa-lg.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2334",
 		"name": "Nienburg/Weser",
+		"tel": "05021 801-1",
 		"mail": "Poststelle@fa-ni.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2335",
 		"name": "Northeim",
+		"tel": "05551 704-0",
 		"mail": "Poststelle@fa-nom.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2336",
 		"name": "Osterholz-Scharmbeck",
+		"tel": "04791 302-0",
 		"mail": "Poststelle@fa-ohz.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2338",
 		"name": "Peine",
+		"tel": "05171 407-0",
 		"mail": "Poststelle@fa-pe.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2340",
 		"name": "Rotenburg (Wümme)",
+		"tel": "04261 74-0",
 		"mail": "Poststelle@fa-row.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2341",
 		"name": "Soltau",
+		"tel": "05191 807-0",
 		"mail": "Poststelle@fa-sol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2342",
 		"name": "Hannover-Land I Außenstelle Springe",
+		"tel": "05041 773-0",
 		"mail": "Poststelle@fa-ast-spr.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2343",
 		"name": "Stade",
+		"tel": "04141 536-0",
 		"mail": "Poststelle@fa-std.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2344",
 		"name": "Stadthagen",
+		"tel": "05721 705-0",
 		"mail": "Poststelle@fa-shg.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2345",
 		"name": "Sulingen",
+		"tel": "04271 87-0",
 		"mail": "Poststelle@fa-su.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2346",
 		"name": "Syke",
+		"tel": "04242 162-0",
 		"mail": "Poststelle@fa-sy.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2347",
 		"name": "Uelzen-Lüchow",
+		"tel": "0581 803-0",
 		"mail": "Poststelle@fa-ue-luw.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2348",
 		"name": "Verden (Aller)",
+		"tel": "04231 919-0",
 		"mail": "Poststelle@fa-ver.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2349",
 		"name": "Wesermünde",
+		"tel": "0471 183-0",
 		"mail": "Poststelle@fa-wem.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2350",
 		"name": "Winsen (Luhe)",
+		"tel": "04171 656-0",
 		"mail": "Poststelle@fa-wl.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2351",
 		"name": "Wolfenbüttel",
+		"tel": "05331 803-0",
 		"mail": "Poststelle@fa-wf.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2352",
 		"name": "Zeven",
+		"tel": "04281 753-0",
 		"mail": "Poststelle@fa-zev.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2353",
 		"name": "Papenburg",
+		"tel": "04962 503-0",
 		"mail": "Poststelle@fa-pap.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2354",
 		"name": "Aurich-Wittmund",
+		"tel": "04941 175-0",
 		"mail": "Poststelle@fa-aur-wtm.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2355",
 		"name": "Bad Bentheim",
+		"tel": "05922 970-0",
 		"mail": "Poststelle@fa-ben.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2356",
 		"name": "Cloppenburg",
+		"tel": "04471 887-0",
 		"mail": "Poststelle@fa-clp.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2357",
 		"name": "Delmenhorst",
+		"tel": "04221 153-0",
 		"mail": "Poststelle@fa-del.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2358",
 		"name": "Emden-Norden",
+		"tel": "04921 934-0",
 		"mail": "Poststelle@fa-emd-nor.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2360",
 		"name": "Leer (Ostfriesland)",
+		"tel": "0491 9870-0",
 		"mail": "Poststelle@fa-ler.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2361",
 		"name": "Lingen (Ems)",
+		"tel": "0591 9149-0",
 		"mail": "Poststelle@fa-lin.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2363",
 		"name": "Nordenham",
+		"tel": "04731 870-0",
 		"mail": "Poststelle@fa-nhm.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2364",
 		"name": "Oldenburg (Oldenburg)",
+		"tel": "0441 238-0",
 		"mail": "Poststelle@fa-ol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2365",
 		"name": "Osnabrück-Land",
+		"tel": "0541 5842-0",
 		"mail": "Poststelle@fa-os-l.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2366",
 		"name": "Osnabrück-Stadt",
+		"tel": "0541 354-0",
 		"mail": "Poststelle@fa-os-s.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2367",
 		"name": "Quakenbrück",
+		"tel": "05431 184-0",
 		"mail": "Poststelle@fa-qua.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2368",
 		"name": "Vechta",
+		"tel": "04441 18-0",
 		"mail": "Poststelle@fa-vec.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2369",
 		"name": "Westerstede",
+		"tel": "04488 515-0",
 		"mail": "Poststelle@fa-wst.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2370",
 		"name": "Wilhelmshaven",
+		"tel": "04421 183-0",
 		"mail": "Poststelle@fa-whv.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2380",
 		"name": "Braunschweig für Großbetriebsprüfung",
+		"tel": "0531 8097-0",
 		"mail": "Poststelle@fa-gbp-bs.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2381",
 		"name": "Göttingen für Großbetriebsprüfung",
+		"tel": "0551 407-0",
 		"mail": "Poststelle@fa-gbp-goe.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2382",
 		"name": "Hannover für Großbetriebsprüfung",
+		"tel": "0511 8563-0",
 		"mail": "Poststelle@fa-gbp-h.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2384",
 		"name": "Stade für Großbetriebsprüfung",
+		"tel": "04141 602-0",
 		"mail": "Poststelle@fa-gbp-std.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2385",
 		"name": "Oldenburg für Großbetriebsprüfung",
+		"tel": "0441 92512-0",
 		"mail": "Poststelle@fa-gbp-ol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2386",
 		"name": "Osnabrück für Großbetriebsprüfung",
+		"tel": "0541 503-800",
 		"mail": "Poststelle@fa-gbp-os.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2390",
 		"name": "für Fahndung und Strafsachen Braunschweig",
+		"tel": "0531 2851-0",
 		"mail": "Poststelle@fa-fust-bs.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2391",
 		"name": "Hannover für Fahndung und Strafsachen",
+		"tel": "0511 419-1",
 		"mail": "Poststelle@fa-fust-h.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2392",
 		"name": "Lüneburg für Fahndung und Strafsachen",
+		"tel": "04131 8308-600",
 		"mail": "Poststelle@fa-fust-lg.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2393",
 		"name": "Oldenburg für Fahndung und Strafsachen",
+		"tel": "0441 9401-0",
 		"mail": "Poststelle@fa-fust-ol.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
 		"buFaNr": "2457",
 		"name": "Bremerhaven Bewertung Bremen",
+		"tel": "0421 361-90909",
 		"mail": "office@FinanzamtBremerhaven.bremen.de"
 	},
 	{
 		"buFaNr": "2460",
 		"name": "Bremen",
+		"tel": "0421 361-90909",
 		"mail": "office@fa-hb.bremen.de"
 	},
 	{
 		"buFaNr": "2471",
 		"name": "Landeshauptkasse Bremen",
+		"tel": "0421 361-90909",
 		"mail": "office@lhk.bremen.de"
 	},
 	{
 		"buFaNr": "2475",
 		"name": "Bremerhaven",
+		"tel": "0471 596-99000",
 		"mail": "office@FinanzamtBremerhaven.bremen.de"
 	},
 	{
 		"buFaNr": "2477",
 		"name": "Bremerhaven Bewertung",
+		"tel": "0471 596-99000",
 		"mail": "office@FinanzamtBremerhaven.bremen.de"
 	},
 	{
 		"buFaNr": "2478",
 		"name": "Bremen für Außenprüfung",
+		"tel": "0421 361-90909",
 		"mail": "office@fa-ap.bremen.de"
 	},
 	{
 		"buFaNr": "2485",
 		"name": "Bremerhaven Arbeitnehmerbereich",
+		"tel": "0471 596-99000",
 		"mail": "office@FinanzamtBremerhaven.bremen.de"
 	},
 	{
 		"buFaNr": "2601",
 		"name": "Alsfeld-Lauterbach Verwaltungsstelle Alsfeld",
+		"tel": "06631 790-0",
 		"mail": "Poststelle@FA-AL.Hessen.de",
 		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
 	{
 		"buFaNr": "2602",
 		"name": "Hersfeld-Rotenburg Verwaltungsstelle Bad Hersfeld",
+		"tel": "06621 933-0",
 		"mail": "Poststelle@FA-HR.Hessen.de",
 		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
 	{
 		"buFaNr": "2603",
 		"name": "Bad Homburg vor der Höhe",
+		"tel": "06172 107-0",
 		"mail": "Poststelle@FA-BHG.Hessen.de",
 		"url": "www.Finanzamt-Bad-Homburg.de"
 	},
 	{
 		"buFaNr": "2604",
 		"name": "Rheingau-Taunus Verwaltungsstelle Bad Schwalbach",
+		"tel": "06124 705-0",
 		"mail": "Poststelle@FA-RT.Hessen.de",
 		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
 	{
 		"buFaNr": "2605",
 		"name": "Bensheim",
+		"tel": "06251 15-0",
 		"mail": "Poststelle@FA-BEN.Hessen.de",
 		"url": "www.Finanzamt-Bensheim.de"
 	},
 	{
 		"buFaNr": "2606",
 		"name": "Marburg-Biedenkopf Verwaltungsstelle Biedenkopf",
+		"tel": "06421 698-0",
 		"mail": "Poststelle@FA-MB.Hessen.de",
 		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
 	{
 		"buFaNr": "2607",
 		"name": "Darmstadt",
+		"tel": "06151 102-0",
 		"mail": "Poststelle@FA-DAM.Hessen.de",
 		"url": "www.Finanzamt-Darmstadt.de"
 	},
 	{
 		"buFaNr": "2608",
 		"name": "Dieburg",
+		"tel": "06071 2006-0",
 		"mail": "Poststelle@FA-DIB.Hessen.de",
 		"url": "www.Finanzamt-Dieburg.de"
 	},
 	{
 		"buFaNr": "2609",
 		"name": "Dillenburg",
+		"tel": "02771 908-0",
 		"mail": "Poststelle@FA-DIL.Hessen.de",
 		"url": "www.Finanzamt-Dillenburg.de"
 	},
 	{
 		"buFaNr": "2610",
 		"name": "Eschwege-Witzenhausen Verwaltungsstelle Eschwege",
+		"tel": "05651 3320-0",
 		"mail": "Poststelle@FA-EW.Hessen.de",
 		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
 	{
 		"buFaNr": "2611",
 		"name": "Korbach-Frankenberg Verwaltungsstelle Frankenberg",
+		"tel": "05631 563-0",
 		"mail": "Poststelle@FA-KF.Hessen.de",
 		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
 	{
 		"buFaNr": "2612",
 		"name": "Frankfurt am Main II",
+		"tel": "069 2545-02",
 		"mail": "Poststelle@FA-FF2.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-2.de"
 	},
 	{
 		"buFaNr": "2613",
 		"name": "Frankfurt am Main I",
+		"tel": "069 2545-01",
 		"mail": "Poststelle@FA-FF1.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-1.de"
 	},
 	{
 		"buFaNr": "2614",
 		"name": "Frankfurt am Main IV",
+		"tel": "069 2545-04",
 		"mail": "Poststelle@FA-FF4.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-4.de"
 	},
 	{
 		"buFaNr": "2615",
 		"name": "Frankfurt am Main V-Höchst Verwaltungsstelle Höchst",
+		"tel": "069 30830-0",
 		"mail": "Poststelle@FA-FH.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-5-hoechst.de"
 	},
 	{
 		"buFaNr": "2616",
 		"name": "Friedberg (Hessen)",
+		"tel": "06031 49-0",
 		"mail": "Poststelle@FA-FBG.Hessen.de",
 		"url": "www.Finanzamt-Friedberg.de"
 	},
 	{
 		"buFaNr": "2617",
 		"name": "Bensheim Außenstelle Fürth",
+		"tel": "06253 206-0",
 		"mail": "Poststelle@FA-BEN.Hessen.de",
 		"url": "www.Finanzamt-Bensheim.de"
 	},
 	{
 		"buFaNr": "2618",
 		"name": "Fulda",
+		"tel": "0661 924-01",
 		"mail": "Poststelle@FA-FDA.Hessen.de",
 		"url": "www.Finanzamt-Fulda.de"
 	},
 	{
 		"buFaNr": "2619",
 		"name": "Gelnhausen",
+		"tel": "06051 86-0",
 		"mail": "Poststelle@FA-GEL.Hessen.de",
 		"url": "www.Finanzamt-Gelnhausen.de"
 	},
 	{
 		"buFaNr": "2620",
 		"name": "Gießen",
+		"tel": "0641 4800-100",
 		"mail": "Poststelle@FA-GIS.Hessen.de",
 		"url": "www.Finanzamt-Giessen.de"
 	},
 	{
 		"buFaNr": "2621",
 		"name": "Groß-Gerau",
+		"tel": "06152 9924-01",
 		"mail": "Poststelle@FA-GGE.Hessen.de",
 		"url": "www.Finanzamt-Gross-Gerau.de"
 	},
 	{
 		"buFaNr": "2622",
 		"name": "Hanau",
+		"tel": "06181 101-0",
 		"mail": "Poststelle@FA-HAN.Hessen.de",
 		"url": "www.Finanzamt-Hanau.de"
 	},
 	{
 		"buFaNr": "2623",
 		"name": "Kassel II-Hofgeismar Verwaltungsstelle Hofgeismar",
+		"tel": "0561 7208-0",
 		"mail": "Poststelle@FA-KH.Hessen.de",
 		"url": "https://www.finanzamt-kassel-2-hofgeismar.de"
 	},
 	{
 		"buFaNr": "2624",
 		"name": "Schwalm-Eder Verwaltungsstelle Fritzlar",
+		"tel": "05622 805-0",
 		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
 	{
 		"buFaNr": "2625",
 		"name": "Kassel I",
+		"tel": "0561 7208-0",
 		"mail": "Poststelle@FA-KS1.Hessen.de",
 		"url": "https://www.finanzamt-kassel-1.de"
 	},
 	{
 		"buFaNr": "2626",
 		"name": "Kassel II-Hofgeismar Verwaltungsstelle Kassel",
+		"tel": "0561 7208-0",
 		"mail": "Poststelle@FA-KH.Hessen.de",
 		"url": "https://www.finanzamt-kassel-2-hofgeismar.de"
 	},
 	{
 		"buFaNr": "2627",
 		"name": "Korbach-Frankenberg Verwaltungsstelle Korbach",
+		"tel": "05631 563-0",
 		"mail": "Poststelle@FA-KF.Hessen.de",
 		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
 	{
 		"buFaNr": "2628",
 		"name": "Langen",
+		"tel": "06103 591-01",
 		"mail": "Poststelle@FA-LAN.Hessen.de",
 		"url": "www.Finanzamt-Langen.de"
 	},
 	{
 		"buFaNr": "2629",
 		"name": "Alsfeld-Lauterbach Verwaltungsstelle Lauterbach",
+		"tel": "06631 790-0",
 		"mail": "Poststelle@FA-AL.Hessen.de",
 		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
 	{
 		"buFaNr": "2630",
 		"name": "Limburg-Weilburg Verwaltungsstelle Limburg",
+		"tel": "06431 208-0",
 		"mail": "Poststelle@FA-LW.Hessen.de",
 		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
 	{
 		"buFaNr": "2631",
 		"name": "Marburg-Biedenkopf Verwaltungsstelle Marburg",
+		"tel": "06421 698-0",
 		"mail": "Poststelle@FA-MB.Hessen.de",
 		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
 	{
 		"buFaNr": "2632",
 		"name": "Schwalm-Eder Verwaltungsstelle Melsungen",
+		"tel": "05622 805-0",
 		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
 	{
 		"buFaNr": "2633",
 		"name": "Michelstadt",
+		"tel": "06061 78-0",
 		"mail": "Poststelle@FA-MIC.Hessen.de",
 		"url": "www.Finanzamt-Michelstadt.de"
 	},
 	{
 		"buFaNr": "2634",
 		"name": "Nidda",
+		"tel": "06043 805-0",
 		"mail": "Poststelle@FA-NID.Hessen.de",
 		"url": "www.Finanzamt-Nidda.de"
 	},
 	{
 		"buFaNr": "2635",
 		"name": "Offenbach am Main I",
+		"tel": "069 8091-1",
 		"mail": "Poststelle@FA-OF1.Hessen.de",
 		"url": "https://www.finanzamt-offenbach-1.de"
 	},
 	{
 		"buFaNr": "2636",
 		"name": "Hersfeld-Rotenburg Verwaltungsstelle Rotenburg",
+		"tel": "06621 933-0",
 		"mail": "Poststelle@FA-HR.Hessen.de",
 		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
 	{
 		"buFaNr": "2637",
 		"name": "Rheingau-Taunus Verwaltungsstelle Rüdesheim",
+		"tel": "06124 705-0",
 		"mail": "Poststelle@FA-RT.Hessen.de",
 		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
 	{
 		"buFaNr": "2638",
 		"name": "Limburg-Weilburg Verwaltungsstelle Weilburg",
+		"tel": "06431 208-0",
 		"mail": "Poststelle@FA-LW.Hessen.de",
 		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
 	{
 		"buFaNr": "2639",
 		"name": "Wetzlar",
+		"tel": "06441 202-0",
 		"mail": "Poststelle@FA-WEZ.Hessen.de",
 		"url": "www.Finanzamt-Wetzlar.de"
 	},
 	{
 		"buFaNr": "2640",
 		"name": "Wiesbaden I",
+		"tel": "0611 813-0",
 		"mail": "Poststelle@FA-WI1.Hessen.de",
 		"url": "https://www.finanzamt-wiesbaden-1.de"
 	},
 	{
 		"buFaNr": "2641",
 		"name": "Eschwege-Witzenhausen Verwaltungsstelle Witzenhausen",
+		"tel": "05651 3320-0",
 		"mail": "Poststelle@FA-EW.Hessen.de",
 		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
 	{
 		"buFaNr": "2642",
 		"name": "Schwalm-Eder Verwaltungsstelle Schwalmstadt",
+		"tel": "05622 805-0",
 		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
 	{
 		"buFaNr": "2643",
 		"name": "Wiesbaden II",
+		"tel": "0611 813-0",
 		"mail": "Poststelle@FA-WI2.Hessen.de",
 		"url": "https://www.finanzamt-wiesbaden-2.de"
 	},
 	{
 		"buFaNr": "2644",
 		"name": "Offenbach am Main II",
+		"tel": "069 8091-1",
 		"mail": "Poststelle@FA-OF2.Hessen.de",
 		"url": "https://www.finanzamt-offenbach-2.de"
 	},
 	{
 		"buFaNr": "2645",
 		"name": "Frankfurt am Main III",
+		"tel": "069 2545-03",
 		"mail": "Poststelle@FA-FF3.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-3.de"
 	},
 	{
 		"buFaNr": "2646",
 		"name": "Hofheim am Taunus",
+		"tel": "06192 960-0",
 		"mail": "Poststelle@FA-HOH.Hessen.de",
 		"url": "www.Finanzamt-Hofheim-am-Taunus.de"
 	},
 	{
 		"buFaNr": "2647",
 		"name": "Frankfurt am Main V-Höchst Verwaltungsstelle Frankfurt",
+		"tel": "069 2545-05",
 		"mail": "Poststelle@FA-FH.Hessen.de",
 		"url": "https://www.finanzamt-frankfurt-am-main-5-hoechst.de"
 	},
 	{
 		"buFaNr": "2701",
 		"name": "Bad Neuenahr-Ahrweiler",
+		"tel": "02641/3820",
 		"mail": "Poststelle@fa-aw.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2702",
 		"name": "Altenkirchen-Hachenburg",
+		"tel": "02681/860",
 		"mail": "Poststelle@fa-ak.fin-rlp.de",
 		"url": "www.finanzamt-altenkirchen-hachenburg.de"
 	},
 	{
 		"buFaNr": "2706",
 		"name": "Bad Kreuznach",
+		"tel": "0671/7000",
 		"mail": "Poststelle@fa-kh.fin-rlp.de",
 		"url": "www.finanzamt-bad-kreuznach.de"
 	},
 	{
 		"buFaNr": "2708",
 		"name": "Bingen-Alzey",
+		"tel": "06721/7060",
 		"mail": "Poststelle@fa-bi.fin-rlp.de",
 		"url": "www.finanzamt-bingen-alzey.de"
 	},
 	{
 		"buFaNr": "2709",
 		"name": "Idar-Oberstein",
+		"tel": "06781/680",
 		"mail": "Poststelle@fa-io.fin-rlp.de",
 		"url": "www.finanzamt-idar-oberstein.de"
 	},
 	{
 		"buFaNr": "2710",
 		"name": "Bitburg-Prüm",
+		"tel": "06561/6030",
 		"mail": "Poststelle@fa-bt.fin-rlp.de",
 		"url": "www.finanzamt-bitburg-pruem.de"
 	},
 	{
 		"buFaNr": "2713",
 		"name": "Landesfinanzkasse Daun",
+		"tel": "06592/9579-71000",
 		"mail": "poststelle@lfk.fin-rlp.de",
 		"url": "www.landesfinanzkasse-daun.de"
 	},
 	{
 		"buFaNr": "2719",
 		"name": "Kaiserslautern",
+		"tel": "0631/36760",
 		"mail": "Poststelle@fa-kl.fin-rlp.de",
 		"url": "www.finanzamt-kaiserslautern.de"
 	},
 	{
 		"buFaNr": "2722",
 		"name": "Koblenz",
+		"tel": "0261/49310",
 		"mail": "Poststelle@fa-ko.fin-rlp.de",
 		"url": "www.finanzamt-koblenz.de"
 	},
 	{
 		"buFaNr": "2723",
 		"name": "Kusel-Landstuhl",
+		"tel": "06381/99670",
 		"mail": "Poststelle@fa-ku.fin-rlp.de",
 		"url": "www.finanzamt-kusel-landstuhl.de"
 	},
 	{
 		"buFaNr": "2724",
 		"name": "Landau",
+		"tel": "06341/9130",
 		"mail": "Poststelle@fa-ld.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2726",
 		"name": "Mainz",
+		"tel": "06131 552-0",
 		"mail": "poststelle@fa-mz.fin-rlp.de",
 		"url": "https://www.finanzamt-mainz.de"
 	},
 	{
 		"buFaNr": "2727",
 		"name": "Ludwigshafen",
+		"tel": "0621/56140",
 		"mail": "Poststelle@fa-lu.fin-rlp.de",
 		"url": "www.finanzamt-ludwigshafen.de"
 	},
 	{
 		"buFaNr": "2729",
 		"name": "Mayen",
+		"tel": "02651/70260",
 		"mail": "Poststelle@fa-my.fin-rlp.de",
 		"url": "www.finanzamt-mayen.de"
 	},
 	{
 		"buFaNr": "2730",
 		"name": "Montabaur-Diez",
+		"tel": "02602/1210",
 		"mail": "Poststelle@fa-mt.fin-rlp.de",
 		"url": "www.finanzamt-montabaur-diez.de"
 	},
 	{
 		"buFaNr": "2731",
 		"name": "Neustadt",
+		"tel": "06321/9300",
 		"mail": "Poststelle@fa-nw.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2732",
 		"name": "Neuwied",
+		"tel": "02631/9100",
 		"mail": "Poststelle@fa-nr.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2734",
 		"name": "Kusel-Landstuhl für Erb/Schenk.St. Saarland",
+		"tel": "06381/99670",
 		"mail": "Poststelle@fa-ku.fin-rlp.de",
 		"url": "www.finanzamt-kusel-landstuhl.de"
 	},
 	{
 		"buFaNr": "2735",
 		"name": "Pirmasens",
+		"tel": "06331/7110",
 		"mail": "Poststelle@fa-ps.fin-rlp.de",
 		"url": "www.finanzamt-pirmasens.de"
 	},
 	{
 		"buFaNr": "2740",
 		"name": "Simmern-Zell",
+		"tel": "06761/8550",
 		"mail": "Poststelle@fa-si.fin-rlp.de"
 	},
 	{
 		"buFaNr": "2741",
 		"name": "Speyer-Germersheim",
+		"tel": "06232/60170",
 		"mail": "Poststelle@fa-sp.fin-rlp.de",
 		"url": "www.finanzamt-speyer-germersheim.de"
 	},
 	{
 		"buFaNr": "2742",
 		"name": "Trier",
+		"tel": "0651/93600",
 		"mail": "Poststelle@fa-tr.fin-rlp.de",
 		"url": "www.finanzamt-trier.de"
 	},
 	{
 		"buFaNr": "2743",
 		"name": "Wittlich",
+		"tel": "06571/95360",
 		"mail": "Poststelle@fa-wi.fin-rlp.de",
 		"url": "www.finanzamt-wittlich.de"
 	},
 	{
 		"buFaNr": "2744",
 		"name": "Worms-Kirchheimbolanden",
+		"tel": "06241/30460",
 		"mail": "Poststelle@fa-wo.fin-rlp.de",
 		"url": "www.finanzamt-worms-kirchheimbolanden.de"
 	},
 	{
 		"buFaNr": "2801",
 		"name": "Offenburg Außenstelle Achern",
+		"tel": "0781 12026-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2804",
 		"name": "Villingen-Schwenningen Außenstelle Donaueschingen",
+		"tel": "0771 808-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2805",
 		"name": "Emmendingen",
+		"tel": "07641 450-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2806",
 		"name": "Freiburg-Stadt",
+		"tel": "0761 204-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2807",
 		"name": "Freiburg-Land",
+		"tel": "0761 204-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2808",
 		"name": "Offenburg Außenstelle Kehl",
+		"tel": "0781 12026-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2809",
 		"name": "Konstanz",
+		"tel": "07531 289-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2810",
 		"name": "Lahr",
+		"tel": "07821 283-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2811",
 		"name": "Lörrach",
+		"tel": "07621 1678-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2812",
 		"name": "Müllheim",
+		"tel": "07631 189-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2813",
 		"name": "Freiburg-Land Außenstelle Titisee-Neustadt",
+		"tel": "07651 203-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2814",
 		"name": "Offenburg",
+		"tel": "0781 12026-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2815",
 		"name": "Rottweil Außenstelle Oberndorf",
+		"tel": "07423 815-0",
 		"mail": "poststelle-19@finanzamt.bwl.de",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2816",
 		"name": "Waldshut-Tiengen Außenstelle Bad Säckingen",
+		"tel": "07761 566-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2818",
 		"name": "Singen",
+		"tel": "07731 823-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2819",
 		"name": "Rottweil",
+		"tel": "0741 243-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2820",
 		"name": "Waldshut-Tiengen",
+		"tel": "07741 603-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2821",
 		"name": "Tuttlingen",
+		"tel": "07461 98-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2822",
 		"name": "Villingen-Schwenningen",
+		"tel": "07721 923-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2823",
 		"name": "Offenburg Außenstelle Wolfach",
+		"tel": "0781 12026-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2830",
 		"name": "Bruchsal",
+		"tel": "07251/740",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2831",
 		"name": "Ettlingen",
+		"tel": "07243/5080",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2832",
 		"name": "Heidelberg",
+		"tel": "06221 7365-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2833",
 		"name": "Baden-Baden",
+		"tel": "07221/359-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2834",
 		"name": "Karlsruhe-Durlach",
+		"tel": "0721/9940",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2835",
 		"name": "Karlsruhe-Stadt",
+		"tel": "0721 156-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2836",
 		"name": "Baden-Baden Außenstelle Bühl",
+		"tel": "07221 359-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2837",
 		"name": "Mannheim-Neckarstadt",
+		"tel": "0621 292-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2838",
 		"name": "Mannheim-Stadt",
+		"tel": "0621 292-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2839",
 		"name": "Rastatt",
+		"tel": "07222/9780",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2840",
 		"name": "Mosbach",
+		"tel": "06261 807-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2841",
 		"name": "Pforzheim",
+		"tel": "07231 183-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2842",
 		"name": "Freudenstadt",
+		"tel": "07441/560",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2843",
 		"name": "Schwetzingen",
+		"tel": "06202 81-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2844",
 		"name": "Sinsheim",
+		"tel": "07261 696-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2845",
 		"name": "Calw",
+		"tel": "07051/5870",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2846",
 		"name": "Mosbach Außenstelle Walldürn",
+		"tel": "06282 705-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2847",
 		"name": "Weinheim",
+		"tel": "06201 605-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2848",
 		"name": "Mühlacker",
+		"tel": "07041/8930",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2849",
 		"name": "Pforzheim Außenstelle Neuenbürg",
+		"tel": "07231 183-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2850",
 		"name": "Aalen",
+		"tel": "(07361) 9578-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2851",
 		"name": "Backnang",
+		"tel": "07191 12-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2852",
 		"name": "Tauberbischofsheim Außenstelle Bad Mergentheim",
+		"tel": "09341 804-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2853",
 		"name": "Balingen",
+		"tel": "07433/970",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2854",
 		"name": "Biberach",
+		"tel": "07351/590",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2855",
 		"name": "Bietigheim-Bissingen",
+		"tel": "07142/5900",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2856",
 		"name": "Böblingen",
+		"tel": "07031 13-01",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2857",
 		"name": "Schwäbisch Hall Außenstelle Crailsheim",
+		"tel": "07951 401-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2858",
 		"name": "Ehingen",
+		"tel": "07391/5080",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2859",
 		"name": "Esslingen",
+		"tel": "0711/39721",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2861",
 		"name": "Friedrichshafen",
+		"tel": "07541/7060",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2862",
 		"name": "Göppingen Außenstelle Geislingen",
+		"tel": "07161/9703-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2863",
 		"name": "Göppingen",
+		"tel": "07161/9703-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2864",
 		"name": "Heidenheim",
+		"tel": "07321/380",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2865",
 		"name": "Heilbronn",
+		"tel": "07131 7475-0",
 		"url": "https://www.fa-heilbronn.de"
 	},
 	{
 		"buFaNr": "2869",
 		"name": "Nürtingen Außenstelle Kirchheim",
+		"tel": "07021 575-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2870",
 		"name": "Leonberg",
+		"tel": "07152 15-1",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2871",
 		"name": "Ludwigsburg",
+		"tel": "07141/180",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2874",
 		"name": "Nürtingen",
+		"tel": "07022/7090",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2876",
 		"name": "Öhringen",
+		"tel": "07941 604-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2877",
 		"name": "Ravensburg",
+		"tel": "0751 403-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2878",
 		"name": "Reutlingen",
+		"tel": "07121 940-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2879",
 		"name": "Biberach Außenstelle Riedlingen",
+		"tel": "07351 59-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2880",
 		"name": "Tauberbischofsheim",
+		"tel": "09341 804-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2881",
 		"name": "Sigmaringen Außenstelle Bad Saulgau",
+		"tel": "07581 504-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2882",
 		"name": "Schorndorf",
+		"tel": "07181/6010",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2883",
 		"name": "Schwäbisch Gmünd",
+		"tel": "07171 602-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2884",
 		"name": "Schwäbisch Hall",
+		"tel": "0791 752-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2885",
 		"name": "Sigmaringen",
+		"tel": "07571 101-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2886",
 		"name": "Tübingen",
+		"tel": "07071/7570",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2887",
 		"name": "Überlingen (Bodensee)",
+		"tel": "07551 836-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2888",
 		"name": "Ulm",
+		"tel": "0731/1030",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2889",
 		"name": "Bad Urach",
+		"tel": "07125 158-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2890",
 		"name": "Waiblingen",
+		"tel": "07151/9550",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2891",
 		"name": "Wangen",
+		"tel": "07522 71-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2892",
 		"name": "Stuttgart IV",
+		"tel": "0711/66730",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2893",
 		"name": "Stuttgart I",
+		"tel": "0711 6673-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2895",
 		"name": "Stuttgart II",
+		"tel": "0711/66730",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2896",
 		"name": "Stuttgart Zentrales Konzernprüfungsamt",
+		"tel": "0711 6673-0",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2897",
 		"name": "Stuttgart III",
+		"tel": "0711/66730",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "2899",
 		"name": "Stuttgart-Körpersch.",
+		"tel": "0711/66730",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
 		"buFaNr": "3046",
 		"name": "Potsdam",
+		"tel": "0331 287-0",
 		"mail": "poststelle.fa-potsdam@fa.brandenburg.de",
 		"url": "www.fa-potsdam.brandenburg.de"
 	},
 	{
 		"buFaNr": "3048",
 		"name": "Brandenburg",
+		"tel": "03381 397-199",
 		"mail": "poststelle.fa-brandenburg@fa.brandenburg.de",
 		"url": "www.fa-brandenburg.brandenburg.de"
 	},
 	{
 		"buFaNr": "3049",
 		"name": "Königs Wusterhausen",
+		"tel": "03375 275-0",
 		"mail": "poststelle.fa-koenigs-wusterhausen@fa.brandenburg.de",
 		"url": "www.fa-koenigs-wusterhausen.brandenburg.de"
 	},
 	{
 		"buFaNr": "3050",
 		"name": "Luckenwalde",
+		"tel": "03371 606-0",
 		"mail": "poststelle.fa-luckenwalde@fa.brandenburg.de",
 		"url": "www.fa-luckenwalde.brandenburg.de"
 	},
 	{
 		"buFaNr": "3051",
 		"name": "Nauen",
+		"tel": "03321 412-0",
 		"mail": "poststelle.fa-nauen@fa.brandenburg.de",
 		"url": "www.fa-nauen.brandenburg.de"
 	},
 	{
 		"buFaNr": "3052",
 		"name": "Kyritz",
+		"tel": "033971 65-0",
 		"mail": "poststelle.fa-kyritz@fa.brandenburg.de",
 		"url": "www.fa-kyritz.brandenburg.de"
 	},
 	{
 		"buFaNr": "3053",
 		"name": "Oranienburg",
+		"tel": "03301 857-0",
 		"mail": "poststelle.fa-oranienburg@fa.brandenburg.de",
 		"url": "www.fa-oranienburg.brandenburg.de"
 	},
 	{
 		"buFaNr": "3056",
 		"name": "Cottbus",
+		"tel": "0355 4991-4100",
 		"mail": "poststelle.fa-cottbus@fa.brandenburg.de",
 		"url": "www.fa-cottbus.brandenburg.de"
 	},
 	{
 		"buFaNr": "3057",
 		"name": "Calau",
+		"tel": "03541 83-0",
 		"mail": "poststelle.fa-calau@fa.brandenburg.de",
 		"url": "www.fa-calau.brandenburg.de"
 	},
 	{
 		"buFaNr": "3061",
 		"name": "Frankfurt (Oder)",
+		"tel": "0335 60676-1399",
 		"mail": "poststelle.fa-frankfurt-oder@fa.brandenburg.de",
 		"url": "www.fa-frankfurt-oder.brandenburg.de"
 	},
 	{
 		"buFaNr": "3062",
 		"name": "Angermünde",
+		"tel": "03331 267-0",
 		"mail": "poststelle.fa-angermuende@fa.brandenburg.de",
 		"url": "www.fa-angermuende.brandenburg.de"
 	},
 	{
 		"buFaNr": "3064",
 		"name": "Strausberg",
+		"tel": "03341 342-0",
 		"mail": "poststelle.fa-strausberg@fa.brandenburg.de",
 		"url": "www.fa-strausberg.brandenburg.de"
 	},
 	{
 		"buFaNr": "3065",
 		"name": "Eberswalde",
+		"tel": "03334 275-4000",
 		"mail": "poststelle.fa-eberswalde@fa.brandenburg.de",
 		"url": "www.fa-eberswalde.brandenburg.de"
 	},
 	{
 		"buFaNr": "3102",
 		"name": "Magdeburg",
+		"tel": "0391 885-12",
 		"mail": "poststelle@fa-md.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3103",
 		"name": "Genthin",
+		"tel": "03933 908-0",
 		"mail": "poststelle@fa-gtn.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3105",
 		"name": "Haldensleben",
+		"tel": "03904 482-0",
 		"mail": "poststelle@fa-hdl.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3106",
 		"name": "Salzwedel",
+		"tel": "03901 857-0",
 		"mail": "poststelle@fa-saw.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3107",
 		"name": "Staßfurt",
+		"tel": "03925 980-0",
 		"mail": "poststelle@fa-sft.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3108",
 		"name": "Stendal",
+		"tel": "03931 571-0",
 		"mail": "poststelle@fa-sdl.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3110",
 		"name": "Halle (Saale)",
+		"tel": "0345 6924-0",
 		"mail": "poststelle@fa-hal.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3112",
 		"name": "Merseburg",
+		"tel": "03461 8224-0",
 		"mail": "poststelle@fa-msb.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3114",
 		"name": "Dessau-Roßlau",
+		"tel": "0340 2548-0",
 		"mail": "poststelle@fa-des.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3115",
 		"name": "Wittenberg",
+		"tel": "03491 430-0",
 		"mail": "poststelle@fa-wbg.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3116",
 		"name": "Bitterfeld-Wolfen",
+		"tel": "03493 345-0",
 		"mail": "poststelle@fa-btf.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3117",
 		"name": "Quedlinburg",
+		"tel": "03946 529-0",
 		"mail": "poststelle@fa-qlb.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3118",
 		"name": "Eisleben",
+		"tel": "03475 725-0",
 		"mail": "poststelle@fa-eil.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3119",
 		"name": "Naumburg",
+		"tel": "03445 238-0",
 		"mail": "poststelle@fa-nbg.ofd.mf.sachsen-anhalt.de",
 		"url": "http://www.finanzamt.sachsen-anhalt.de"
 	},
 	{
 		"buFaNr": "3202",
 		"name": "Dresden-Nord",
+		"tel": "0351 4691-0",
 		"mail": "poststelle@fa-dresden-nord.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/dresden-nord.html"
 	},
 	{
 		"buFaNr": "3203",
 		"name": "Dresden-Süd",
+		"tel": "0351 4691-0",
 		"mail": "poststelle@fa-dresden-sued.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/dresden-sued.html"
 	},
 	{
 		"buFaNr": "3204",
 		"name": "Bautzen",
+		"tel": "03591 488-0",
 		"mail": "poststelle@fa-bautzen.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/bautzen.html"
 	},
 	{
 		"buFaNr": "3207",
 		"name": "Görlitz",
+		"tel": "03581 875-0",
 		"mail": "poststelle@fa-goerlitz.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/goerlitz.html"
 	},
 	{
 		"buFaNr": "3208",
 		"name": "Löbau",
+		"tel": "03585 455-0",
 		"mail": "poststelle@fa-loebau.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/loebau.html"
 	},
 	{
 		"buFaNr": "3209",
 		"name": "Meißen",
+		"tel": "03521 718-0",
 		"mail": "poststelle@fa-meissen.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/meissen.html"
 	},
 	{
 		"buFaNr": "3210",
 		"name": "Pirna",
+		"tel": "03501 551-0",
 		"mail": "poststelle@fa-pirna.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/pirna.html"
 	},
 	{
 		"buFaNr": "3213",
 		"name": "Hoyerswerda",
+		"tel": "03571 460-0",
 		"mail": "poststelle@fa-hoyerswerda.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/hoyerswerda.html"
 	},
 	{
 		"buFaNr": "3214",
 		"name": "Chemnitz-Süd",
+		"tel": "0371 279-0",
 		"mail": "poststelle@fa-chemnitz-sued.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/chemnitz-sued.html"
 	},
 	{
 		"buFaNr": "3215",
 		"name": "Chemnitz-Mitte",
+		"tel": "0371 467-0",
 		"mail": "poststelle@fa-chemnitz-mitte.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/chemnitz-mitte.html"
 	},
 	{
 		"buFaNr": "3217",
 		"name": "Annaberg",
+		"tel": "03733 4270",
 		"mail": "poststelle@fa-annaberg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/annaberg.html"
 	},
 	{
 		"buFaNr": "3218",
 		"name": "Schwarzenberg",
+		"tel": "03774 161-0",
 		"mail": "poststelle@fa-schwarzenberg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/schwarzenberg.html"
 	},
 	{
 		"buFaNr": "3220",
 		"name": "Freiberg",
+		"tel": "03731 379-0",
 		"mail": "poststelle@fa-freiberg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/freiberg.html"
 	},
 	{
 		"buFaNr": "3222",
 		"name": "Mittweida",
+		"tel": "03727 987-0",
 		"mail": "poststelle@fa-mittweida.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/mittweida.html"
 	},
 	{
 		"buFaNr": "3223",
 		"name": "Plauen",
+		"tel": "03741 7189-0",
 		"mail": "poststelle@fa-plauen.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/plauen.html"
 	},
 	{
 		"buFaNr": "3224",
 		"name": "Stollberg",
+		"tel": "037296 522-0",
 		"mail": "poststelle@fa-stollberg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/stollberg.html"
 	},
 	{
 		"buFaNr": "3227",
 		"name": "Zwickau",
+		"tel": "0375 28368-0",
 		"mail": "poststelle@fa-zwickau.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/zwickau.html"
 	},
 	{
 		"buFaNr": "3228",
 		"name": "Zschopau",
+		"tel": "03725 293-0",
 		"mail": "poststelle@fa-zschopau.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/zschopau.html"
 	},
 	{
 		"buFaNr": "3231",
 		"name": "Leipzig II",
+		"tel": "0341 559-0",
 		"mail": "poststelle@fa-leipzig2.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/leipzig2.html"
 	},
 	{
 		"buFaNr": "3232",
 		"name": "Leipzig I",
+		"tel": "0341 559-0",
 		"mail": "poststelle@fa-leipzig1.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/leipzig1.html"
 	},
 	{
 		"buFaNr": "3236",
 		"name": "Döbeln",
+		"tel": "03431 653-30",
 		"mail": "poststelle@fa-doebeln.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/doebeln.html"
 	},
 	{
 		"buFaNr": "3237",
 		"name": "Eilenburg",
+		"tel": "03423 660-0",
 		"mail": "poststelle@fa-eilenburg.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/eilenburg.html"
 	},
 	{
 		"buFaNr": "3238",
 		"name": "Grimma",
+		"tel": "03437 940-0",
 		"mail": "poststelle@fa-grimma.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/grimma.html"
 	},
 	{
 		"buFaNr": "3239",
 		"name": "Oschatz",
+		"tel": "03435 978-0",
 		"mail": "poststelle@fa-oschatz.smf.sachsen.de",
 		"url": "http://www.finanzamt.sachsen.de/oschatz.html"
 	},
 	{
 		"buFaNr": "4069",
 		"name": "Neubrandenburg - RAB",
+		"tel": "0395/44222 47000",
 		"url": "www.finanzamt-neubrandenburg.de"
 	},
 	{
 		"buFaNr": "4070",
 		"name": "Neubrandenburg - RIA (Rentenempfänger im Ausland)",
+		"tel": "0395/44222 47000",
 		"mail": "ria@finanzamt-neubrandenburg.de",
 		"url": "www.finanzamt-neubrandenburg.de"
 	},
 	{
 		"buFaNr": "4072",
 		"name": "Neubrandenburg",
+		"tel": "0395 44222-0",
 		"mail": "poststelle@finanzamt-neubrandenburg.de",
 		"url": "www.finanzamt-neubrandenburg.de"
 	},
 	{
 		"buFaNr": "4075",
 		"name": "Waren",
+		"tel": "03991 174-0",
 		"mail": "poststelle@finanzamt-waren.de",
 		"url": "www.finanzamt-waren.de"
 	},
 	{
 		"buFaNr": "4079",
 		"name": "Rostock",
+		"tel": "0381 12845-0",
 		"mail": "poststelle@finanzamt-rostock.de",
 		"url": "www.finanzamt-rostock.de"
 	},
 	{
 		"buFaNr": "4080",
 		"name": "Wismar",
+		"tel": "03841 444-0",
 		"mail": "poststelle@finanzamt-wismar.de",
 		"url": "www.finanzamt-wismar.de"
 	},
 	{
 		"buFaNr": "4081",
 		"name": "Ribnitz-Damgarten",
+		"tel": "03821 884-0",
 		"mail": "poststelle@finanzamt-ribnitz-damgarten.de",
 		"url": "www.finanzamt-ribnitz-damgarten.de"
 	},
 	{
 		"buFaNr": "4082",
 		"name": "Stralsund",
+		"tel": "03831 366-0",
 		"mail": "poststelle@finanzamt-stralsund.de",
 		"url": "www.finanzamt-stralsund.de"
 	},
 	{
 		"buFaNr": "4084",
 		"name": "Greifswald",
+		"tel": "03834 5352-0",
 		"mail": "poststelle@finanzamt-greifswald.de",
 		"url": "www.finanzamt-greifswald.de"
 	},
 	{
 		"buFaNr": "4086",
 		"name": "Güstrow",
+		"tel": "03843 262-0",
 		"mail": "poststelle@finanzamt-guestrow.de",
 		"url": "www.finanzamt-guestrow.de"
 	},
 	{
 		"buFaNr": "4087",
 		"name": "Hagenow",
+		"tel": "03883 670-0",
 		"mail": "poststelle@finanzamt-hagenow.de",
 		"url": "www.finanzamt-hagenow.de"
 	},
 	{
 		"buFaNr": "4090",
 		"name": "Schwerin",
+		"tel": "0385 5400-0",
 		"mail": "poststelle@finanzamt-schwerin.de",
 		"url": "www.finanzamt-schwerin.de"
 	},
 	{
 		"buFaNr": "4151",
 		"name": "Erfurt",
+		"tel": "0361 573615-000",
 		"mail": "poststelle@finanzamt-erfurt.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-erfurt/"
 	},
 	{
 		"buFaNr": "4154",
 		"name": "Ilmenau",
+		"tel": "0361 573638-000",
 		"mail": "poststelle@finanzamt-ilmenau.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-ilmenau/"
 	},
 	{
 		"buFaNr": "4155",
 		"name": "Eisenach",
+		"tel": "0361 573617-000",
 		"mail": "poststelle@finanzamt-eisenach.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-eisenach/"
 	},
 	{
 		"buFaNr": "4156",
 		"name": "Gotha",
+		"tel": "0361 573637-000",
 		"mail": "poststelle@finanzamt-gotha.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-gotha"
 	},
 	{
 		"buFaNr": "4157",
 		"name": "Mühlhausen",
+		"tel": "0361 573613-000",
 		"mail": "poststelle@finanzamt-muehlhausen.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-muehlhausen/"
 	},
 	{
 		"buFaNr": "4159",
 		"name": "Sondershausen",
+		"tel": "0361 573639-000",
 		"mail": "poststelle@finanzamt-sondershausen.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-sondershausen/"
 	},
 	{
 		"buFaNr": "4161",
 		"name": "Gera",
+		"tel": "0361 573625-000",
 		"mail": "poststelle@finanzamt-gera.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-gera/"
 	},
 	{
 		"buFaNr": "4162",
 		"name": "Jena",
+		"tel": "0361 573626-000",
 		"mail": "poststelle@finanzamt-jena.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-jena/"
 	},
 	{
 		"buFaNr": "4165",
 		"name": "Pößneck",
+		"tel": "0361 573624-000",
 		"mail": "poststelle@finanzamt-poessneck.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-poessneck/"
 	},
 	{
 		"buFaNr": "4166",
 		"name": "Altenburg",
+		"tel": "0361 573623-000",
 		"mail": "poststelle@finanzamt-altenburg.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-altenburg/"
 	},
 	{
 		"buFaNr": "4170",
 		"name": "Sonneberg",
+		"tel": "0361 573651-000",
 		"mail": "poststelle@finanzamt-sonneberg.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-sonneberg/"
 	},
 	{
 		"buFaNr": "4171",
 		"name": "Suhl",
+		"tel": "0361 573619-000",
 		"mail": "poststelle@finanzamt-suhl.thueringen.de",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-suhl/"
 	},
 	{
 		"buFaNr": "5101",
 		"name": "Dinslaken",
+		"tel": "02064 445-0",
 		"mail": "Service@FA-5101.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5102",
 		"name": "Viersen",
+		"tel": "02162 955-0",
 		"mail": "Service@FA-5102.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5103",
 		"name": "Düsseldorf-Altstadt",
+		"tel": "0211 4974-0",
 		"mail": "Service@FA-5103.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5105",
 		"name": "Düsseldorf-Nord",
+		"tel": "0211 4496-0",
 		"mail": "Service@FA-5105.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5106",
 		"name": "Düsseldorf-Süd",
+		"tel": "0211 7798-0",
 		"mail": "Service@FA-5106.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5107",
 		"name": "Duisburg-Hamborn",
+		"tel": "0203 5445-0",
 		"mail": "Service@FA-5107.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5109",
 		"name": "Duisburg-Süd",
+		"tel": "0203 3001-0",
 		"mail": "Service@FA-5109.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5111",
 		"name": "Essen-NordOst",
+		"tel": "0201 1894-0",
 		"mail": "Service@FA-5111.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5112",
 		"name": "Essen-Süd",
+		"tel": "0201 1894-0",
 		"mail": "Service@FA-5112.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5113",
 		"name": "Geldern",
+		"tel": "02831 127-0",
 		"mail": "Service@FA-5113.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5114",
 		"name": "Grevenbroich",
+		"tel": "02181 607-0",
 		"mail": "Service@FA-5114.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5115",
 		"name": "Kempen",
+		"tel": "02152 919-0",
 		"mail": "Service@FA-5115.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5116",
 		"name": "Kleve",
+		"tel": "02821 803-1020",
 		"mail": "Service@FA-5116.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5117",
 		"name": "Krefeld",
+		"tel": "02151 854-0",
 		"mail": "Service@FA-5117.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5119",
 		"name": "Kamp-Lintfort",
+		"tel": "02842 121-0",
 		"mail": "Service@FA-5119.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5120",
 		"name": "Mülheim an der Ruhr",
+		"tel": "0208 3001-0",
 		"mail": "Service@FA-5120.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5121",
 		"name": "Mönchengladbach",
+		"tel": "02161 189-0",
 		"mail": "Service@FA-5121.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5122",
 		"name": "Neuss",
+		"tel": "02131 6656-0",
 		"mail": "Service@FA-5122.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5123",
 		"name": "Oberhausen-Nord",
+		"tel": "0208 6499-0",
 		"mail": "Service@FA-5123.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5124",
 		"name": "Oberhausen-Süd",
+		"tel": "0208 8504-0",
 		"mail": "Service@FA-5124.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5126",
 		"name": "Remscheid",
+		"tel": "02191 961-0",
 		"mail": "Service@FA-5126.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5128",
 		"name": "Solingen",
+		"tel": "0212 282-0",
 		"mail": "Service@FA-5128.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5130",
 		"name": "Wesel",
+		"tel": "0281 105-0",
 		"mail": "Service@FA-5130.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5131",
 		"name": "Wuppertal-Barmen",
+		"tel": "0202 9543-0",
 		"mail": "Service@FA-5131.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5132",
 		"name": "Wuppertal-Elberfeld",
+		"tel": "0202 489-0",
 		"mail": "Service@FA-5132.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5133",
 		"name": "Düsseldorf-Mitte",
+		"tel": "0211 7798-0",
 		"mail": "Service@FA-5133.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5134",
 		"name": "Duisburg-West",
+		"tel": "02065 307-0",
 		"mail": "Service@FA-5134.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5135",
 		"name": "Hilden",
+		"tel": "02103 917-0",
 		"mail": "Service@FA-5135.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5139",
 		"name": "Velbert",
+		"tel": "02051 47-0",
 		"mail": "Service@FA-5139.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5147",
 		"name": "Düsseldorf-Mettmann",
+		"tel": "0211 3804-0",
 		"mail": "Service@FA-5147.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5149",
 		"name": "Rechenzentrum d. FinVerw NRW",
+		"tel": "0211 4572-0",
 		"mail": "Service@FA-5149.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5170",
 		"name": "Düsseldorf I für Groß- und Konzernbetriebsprüfung",
+		"tel": "0211 56354-0",
 		"mail": "Service@FA-5170.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5171",
 		"name": "Düsseldorf II für Groß- und Konzernbetriebsprüfung",
+		"tel": "0211 56354-0",
 		"mail": "Service@FA-5171.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5172",
 		"name": "Essen für Groß- und Konzernbetriebsprüfung",
+		"tel": "0201 6300-4",
 		"mail": "Service@FA-5172.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5173",
 		"name": "Krefeld für Groß- und Konzernbetriebsprüfung",
+		"tel": "02151 3650-0",
 		"mail": "Service@FA-5173.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5174",
 		"name": "Bergisches Land für Groß- und Konzernbetriebsprüfung",
+		"tel": "0212 3801-0",
 		"mail": "Service@FA-5174.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5176",
 		"name": "Mönchengladbach für Groß- und Konzernbetriebsprüfung",
+		"tel": "02161 189-0",
 		"mail": "Service@FA-5176.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5181",
 		"name": "Düsseldorf f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "0211 7798-1777",
 		"mail": "Service@FA-5181.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5182",
 		"name": "Essen f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "0201 6300-0",
 		"mail": "Service@FA-5182.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5183",
 		"name": "Wuppertal f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "0202 9543-3606",
 		"mail": "Service@FA-5183.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5201",
 		"name": "Aachen-Stadt",
+		"tel": "0241 469-0",
 		"mail": "Service@FA-5201.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5202",
 		"name": "Aachen-Kreis",
+		"tel": "0241 469-0",
 		"mail": "Service@FA-5202.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5203",
 		"name": "Bergheim",
+		"tel": "02271 82-0",
 		"mail": "Service@FA-5203.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5204",
 		"name": "Bergisch Gladbach",
+		"tel": "02202 9342-0",
 		"mail": "Service@FA-5204.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5205",
 		"name": "Bonn-Innenstadt",
+		"tel": "0228 718-0",
 		"mail": "Service@FA-5205.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5206",
 		"name": "Bonn-Außenstadt",
+		"tel": "0228 7268-0",
 		"mail": "Service@FA-5206.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5207",
 		"name": "Düren",
+		"tel": "02421 947-0",
 		"mail": "Service@FA-5207.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5208",
 		"name": "Erkelenz",
+		"tel": "02431 801-0",
 		"mail": "Service@FA-5208.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5209",
 		"name": "Euskirchen",
+		"tel": "02251 982-0",
 		"mail": "Service@FA-5209.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5210",
 		"name": "Geilenkirchen",
+		"tel": "02451 623-0",
 		"mail": "Service@FA-5210.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5211",
 		"name": "Schleiden",
+		"tel": "02444 85-0",
 		"mail": "Service@FA-5211.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5212",
 		"name": "Gummersbach",
+		"tel": "02261 86-0",
 		"mail": "Service@FA-5212.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5213",
 		"name": "Jülich",
+		"tel": "02461 685-0",
 		"mail": "Service@FA-5213.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5214",
 		"name": "Köln-Altstadt",
+		"tel": "0221 2026-0",
 		"mail": "Service@FA-5214.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5215",
 		"name": "Köln-Mitte",
+		"tel": "0221 92400-0",
 		"mail": "Service@FA-5215.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5216",
 		"name": "Köln-Porz",
+		"tel": "02203 598-0",
 		"mail": "Service@FA-5216.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5217",
 		"name": "Köln-Nord",
+		"tel": "0221 97344-0",
 		"mail": "Service@FA-5217.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5218",
 		"name": "Köln-Ost",
+		"tel": "0221 9805-0",
 		"mail": "Service@FA-5218.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5219",
 		"name": "Köln-Süd",
+		"tel": "0221 2026-0",
 		"mail": "Service@FA-5219.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5220",
 		"name": "Siegburg",
+		"tel": "02241 105-0",
 		"mail": "Service@FA-5220.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5221",
 		"name": "Wipperfürth",
+		"tel": "02267 870-0",
 		"mail": "Service@FA-5221.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5222",
 		"name": "Sankt Augustin",
+		"tel": "02241 242-0",
 		"mail": "Service@FA-5222.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5223",
 		"name": "Köln-West",
+		"tel": "0221 5734-0",
 		"mail": "Service@FA-5223.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5224",
 		"name": "Brühl",
+		"tel": "02232 703-0",
 		"mail": "Service@FA-5224.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5230",
 		"name": "Leverkusen",
+		"tel": "0214 89280-0",
 		"mail": "Service@FA-5230.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5270",
 		"name": "Köln für Groß- und Konzernbetriebsprüfung",
+		"tel": "0221 5772-1777",
 		"mail": "Service@FA-5270.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5271",
 		"name": "Aachen für Groß- und Konzernbetriebsprüfung",
+		"tel": "0241 469-1780",
 		"mail": "Service@FA-5271.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5272",
 		"name": "Bonn für Groß- und Konzernbetriebsprüfung",
+		"tel": "0228 718-3000",
 		"mail": "Service@FA-5272.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5281",
 		"name": "Aachen f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "0241 469-0",
 		"mail": "Service@FA-5281.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5282",
 		"name": "Bonn f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "0228 18410-0",
 		"mail": "Service@FA-5282.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5283",
 		"name": "Köln f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "0221 5772-0",
 		"mail": "Service@FA-5283.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5301",
 		"name": "Ahaus",
+		"tel": "02561 929-0",
 		"mail": "Service@FA-5301.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5302",
 		"name": "Altena",
+		"tel": "02352 917-0",
 		"mail": "Service@FA-5302.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5303",
 		"name": "Arnsberg",
+		"tel": "02931 875-0",
 		"mail": "Service@FA-5303.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5304",
 		"name": "Beckum",
+		"tel": "02521 25-0",
 		"mail": "Service@FA-5304.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5305",
 		"name": "Bielefeld-Innenstadt",
+		"tel": "0521 548-0",
 		"mail": "Service@FA-5305.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5306",
 		"name": "Bochum-Mitte",
+		"tel": "0234 514-0",
 		"mail": "Service@FA-5306.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5307",
 		"name": "Borken",
+		"tel": "02861 938-0",
 		"mail": "Service@FA-5307.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5308",
 		"name": "Bottrop",
+		"tel": "02041 691-0",
 		"mail": "Service@FA-5308.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5309",
 		"name": "Brilon",
+		"tel": "02961 788-0",
 		"mail": "Service@FA-5309.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5310",
 		"name": "Bünde",
+		"tel": "05223 169-0",
 		"mail": "Service@FA-5310.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5311",
 		"name": "Steinfurt",
+		"tel": "02551 17-0",
 		"mail": "Service@FA-5311.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5312",
 		"name": "Coesfeld",
+		"tel": "02541 732-0",
 		"mail": "Service@FA-5312.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5313",
 		"name": "Detmold",
+		"tel": "05231 972-0",
 		"mail": "Service@FA-5313.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5314",
 		"name": "Dortmund-West",
+		"tel": "0231 9581-0",
 		"mail": "Service@FA-5314.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5315",
 		"name": "Dortmund-Hörde",
+		"tel": "0231 4103-0",
 		"mail": "Service@FA-5315.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5316",
 		"name": "Dortmund-Unna",
+		"tel": "0231 5188-0",
 		"mail": "Service@FA-5316.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5317",
 		"name": "Dortmund-Ost",
+		"tel": "0231 5188-0",
 		"mail": "Service@FA-5317.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5319",
 		"name": "Gelsenkirchen",
+		"tel": "0209 173-0",
 		"mail": "Service@FA-5319.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5321",
 		"name": "Hagen",
+		"tel": "02331 180-0",
 		"mail": "Service@FA-5321.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5322",
 		"name": "Hamm",
+		"tel": "02381 918-0",
 		"mail": "Service@FA-5322.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5323",
 		"name": "Hattingen",
+		"tel": "02324 208-0",
 		"mail": "Service@FA-5323.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5324",
 		"name": "Herford",
+		"tel": "05221 188-0",
 		"mail": "Service@FA-5324.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5325",
 		"name": "Herne",
+		"tel": "02323 598-0",
 		"mail": "Service@FA-5325.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5326",
 		"name": "Höxter",
+		"tel": "05271 969-0",
 		"mail": "Service@FA-5326.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5327",
 		"name": "Ibbenbüren",
+		"tel": "05451 920-0",
 		"mail": "Service@FA-5327.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5328",
 		"name": "Iserlohn",
+		"tel": "02371 969-0",
 		"mail": "Service@FA-5328.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5329",
 		"name": "Lemgo",
+		"tel": "05261 253-0",
 		"mail": "Service@FA-5329.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5330",
 		"name": "Lippstadt",
+		"tel": "02941 982-0",
 		"mail": "Service@FA-5330.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5331",
 		"name": "Lübbecke",
+		"tel": "05741 334-0",
 		"mail": "Service@FA-5331.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5332",
 		"name": "Lüdenscheid",
+		"tel": "02351 155-0",
 		"mail": "Service@FA-5332.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5333",
 		"name": "Lüdinghausen",
+		"tel": "02591 930-0",
 		"mail": "Service@FA-5333.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5334",
 		"name": "Meschede",
+		"tel": "0291 950-0",
 		"mail": "Service@FA-5334.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5335",
 		"name": "Minden",
+		"tel": "0571 804-0",
 		"mail": "Service@FA-5335.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5336",
 		"name": "Münster-Außenstadt",
+		"tel": "0251 9729-0",
 		"mail": "Service@FA-5336.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5337",
 		"name": "Münster-Innenstadt",
+		"tel": "0251 416-0",
 		"mail": "Service@FA-5337.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5338",
 		"name": "Olpe",
+		"tel": "02761 963-0",
 		"mail": "Service@FA-5338.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5339",
 		"name": "Paderborn",
+		"tel": "05251 100-0",
 		"mail": "Service@FA-5339.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5340",
 		"name": "Recklinghausen",
+		"tel": "02361 583-0",
 		"mail": "Service@FA-5340.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5341",
 		"name": "Schwelm",
+		"tel": "02336 803-0",
 		"mail": "Service@FA-5341.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5342",
 		"name": "Siegen",
+		"tel": "0271 4890-0",
 		"mail": "Service@FA-5342.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5343",
 		"name": "Soest",
+		"tel": "02921 351-0",
 		"mail": "Service@FA-5343.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5345",
 		"name": "Warburg",
+		"tel": "05641 771-0",
 		"mail": "Service@FA-5345.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5346",
 		"name": "Warendorf",
+		"tel": "02581 924-0",
 		"mail": "Service@FA-5346.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5347",
 		"name": "Wiedenbrück",
+		"tel": "05242 934-0",
 		"mail": "Service@FA-5347.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5348",
 		"name": "Witten",
+		"tel": "02302 921-0",
 		"mail": "Service@FA-5348.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5349",
 		"name": "Bielefeld-Außenstadt",
+		"tel": "0521 548-0",
 		"mail": "Service@FA-5349.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5350",
 		"name": "Bochum-Süd",
+		"tel": "0234 3337-0",
 		"mail": "Service@FA-5350.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5351",
 		"name": "Gütersloh",
+		"tel": "05241 3071-0",
 		"mail": "Service@FA-5351.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5359",
 		"name": "Marl",
+		"tel": "02365 516-0",
 		"mail": "Service@FA-5359.fin-nrw.de",
 		"url": "https://www.finanzverwaltung.nrw.de"
 	},
 	{
 		"buFaNr": "5371",
 		"name": "Bielefeld für Groß- und Konzernbetriebsprüfung",
+		"tel": "0521 548-0",
 		"mail": "Service@FA-5371.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5372",
 		"name": "Herne für Groß- und Konzernbetriebsprüfung",
+		"tel": "02325 693-0",
 		"mail": "Service@FA-5372.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5373",
 		"name": "Detmold für Groß- und Konzernbetriebsprüfung",
+		"tel": "05231 9744-0",
 		"mail": "Service@FA-5373.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5374",
 		"name": "Dortmund für Groß- und Konzernbetriebsprüfung",
+		"tel": "0231 5188-1750",
 		"mail": "Service@FA-5374.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5375",
 		"name": "Hagen für Groß- und Konzernbetriebsprüfung",
+		"tel": "02331 3760-0",
 		"mail": "Service@FA-5375.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5376",
 		"name": "Münster für Groß- und Konzernbetriebsprüfung",
+		"tel": "0251 934-4000",
 		"mail": "Service@FA-5376.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5381",
 		"name": "Bielefeld f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "0521 548-1381",
 		"mail": "Service@FA-5381.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5382",
 		"name": "Bochum f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "0234 5878-0",
 		"mail": "Service@FA-5382.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5383",
 		"name": "Hagen f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "02331 3089-0",
 		"mail": "Service@FA-5383.fin-nrw.de"
 	},
 	{
 		"buFaNr": "5384",
 		"name": "Münster f. Steuerfahndung und Steuerstrafsachen",
+		"tel": "0251 934-4500",
 		"mail": "Service@FA-5384.fin-nrw.de"
 	},
 	{
 		"buFaNr": "9101",
 		"name": "Augsburg-Stadt Arbeitnehmerbereich",
+		"tel": "0821 506-01",
 		"mail": "poststelle@fa-a-s.bayern.de",
 		"url": "www.finanzamt-augsburg-stadt.de"
 	},
 	{
 		"buFaNr": "9102",
 		"name": "Augsburg-Land",
+		"tel": "0821 506-02",
 		"mail": "poststelle.fa-a-l@finanzamt.bayern.de",
 		"url": "www.finanzamt-augsburg-land.de"
 	},
 	{
 		"buFaNr": "9103",
 		"name": "Augsburg-Stadt",
+		"tel": "0821 506-01",
 		"mail": "poststelle.fa-a-s@finanzamt.bayern.de",
 		"url": "www.finanzamt-augsburg-stadt.de"
 	},
 	{
 		"buFaNr": "9104",
 		"name": "Wolfratshausen - Bad Tölz",
+		"tel": "08041 8005-0",
 		"mail": "poststelle.fa-toel@finanzamt.bayern.de",
 		"url": "www.finanzamt-bad-toelz.de"
 	},
 	{
 		"buFaNr": "9105",
 		"name": "Berchtesgaden-Laufen",
+		"tel": "08652 960-0",
 		"mail": "poststelle.fa-bgd@finanzamt.bayern.de",
 		"url": "www.finanzamt-berchtesgaden.de"
 	},
 	{
 		"buFaNr": "9106",
 		"name": "Burghausen",
+		"tel": "08677 8706-0",
 		"mail": "poststelle.fa-burgh@finanzamt.bayern.de",
 		"url": "www.finanzamt-burghausen.de"
 	},
 	{
 		"buFaNr": "9107",
 		"name": "Dachau",
+		"tel": "08131 701-0",
 		"mail": "poststelle.fa-dah@finanzamt.bayern.de",
 		"url": "www.finanzamt-dachau.de"
 	},
 	{
 		"buFaNr": "9108",
 		"name": "Deggendorf",
+		"tel": "0991 384-0",
 		"mail": "poststelle.fa-deg@finanzamt.bayern.de",
 		"url": "www.finanzamt-deggendorf.de"
 	},
 	{
 		"buFaNr": "9109",
 		"name": "Dillingen",
+		"tel": "09071 507-0",
 		"mail": "poststelle.fa-dlg@finanzamt.bayern.de",
 		"url": "www.finanzamt-dillingen.de"
 	},
 	{
 		"buFaNr": "9110",
 		"name": "Dingolfing",
+		"tel": "08731 504-0",
 		"mail": "poststelle.fa-dgf@finanzamt.bayern.de",
 		"url": "www.finanzamt-dingolfing.de"
 	},
 	{
 		"buFaNr": "9111",
 		"name": "Nördlingen mit ASt Donauwörth",
+		"tel": "09081 215 - 0",
 		"mail": "poststelle.fa-noe@finanzamt.bayern.de",
 		"url": "www.finanzamt-donauwoerth.de"
 	},
 	{
 		"buFaNr": "9112",
 		"name": "Ebersberg",
+		"tel": "08092 267-0",
 		"mail": "poststelle.fa-ebe@finanzamt.bayern.de",
 		"url": "www.finanzamt-ebersberg.de"
 	},
 	{
 		"buFaNr": "9113",
 		"name": "Eggenfelden",
+		"tel": "08721 981-0",
 		"mail": "poststelle.fa-eg@finanzamt.bayern.de",
 		"url": "www.finanzamt-eggenfelden.de"
 	},
 	{
 		"buFaNr": "9114",
 		"name": "Erding",
+		"tel": "08122 188-0",
 		"mail": "poststelle.fa-ed@finanzamt.bayern.de",
 		"url": "www.finanzamt-erding.de"
 	},
 	{
 		"buFaNr": "9115",
 		"name": "Freising",
+		"tel": "08161 493-0",
 		"mail": "poststelle.fa-fs@finanzamt.bayern.de",
 		"url": "www.finanzamt-freising.de"
 	},
 	{
 		"buFaNr": "9116",
 		"name": "Bundeszentralamt für Steuern",
+		"tel": "0228 406-0",
 		"mail": "Poststelle@bzst.bund.de"
 	},
 	{
 		"buFaNr": "9117",
 		"name": "Fürstenfeldbruck",
+		"tel": "08141 60-0",
 		"mail": "poststelle.fa-ffb@finanzamt.bayern.de",
 		"url": "www.finanzamt-fuerstenfeldbruck.de"
 	},
 	{
 		"buFaNr": "9119",
 		"name": "Garmisch-Partenkirchen",
+		"tel": "08821 700-0",
 		"mail": "poststelle.fa-gap@finanzamt.bayern.de",
 		"url": "www.finanzamt-garmisch-partenkirchen.de"
 	},
 	{
 		"buFaNr": "9121",
 		"name": "Günzburg",
+		"tel": "08221 902-0",
 		"mail": "poststelle.fa-gz@finanzamt.bayern.de",
 		"url": "www.finanzamt-guenzburg.de"
 	},
 	{
 		"buFaNr": "9123",
 		"name": "Kempten-Immenstadt",
+		"tel": "08323 801-0",
 		"mail": "poststelle.fa-immen@finanzamt.bayern.de",
 		"url": "www.finanzamt-immenstadt.de"
 	},
 	{
 		"buFaNr": "9124",
 		"name": "Ingolstadt",
+		"tel": "0841 311-0",
 		"mail": "poststelle.fa-in@finanzamt.bayern.de",
 		"url": "www.finanzamt-ingolstadt.de"
 	},
 	{
 		"buFaNr": "9125",
 		"name": "Kaufbeuren m. ASt Füssen",
+		"tel": "08341 802-0",
 		"mail": "poststelle.fa-kf@finanzamt.bayern.de",
 		"url": "www.finanzamt-kaufbeuren.de"
 	},
 	{
 		"buFaNr": "9126",
 		"name": "Kelheim",
+		"tel": "09441 201-0",
 		"mail": "poststelle.fa-keh@finanzamt.bayern.de",
 		"url": "www.finanzamt-kelheim.de"
 	},
 	{
 		"buFaNr": "9127",
 		"name": "Kempten-Immenstadt",
+		"tel": "0831 256 - 0",
 		"mail": "poststelle.fa-ke@finanzamt.bayern.de",
 		"url": "www.finanzamt-kempten.de"
 	},
 	{
 		"buFaNr": "9131",
 		"name": "Landsberg am Lech",
+		"tel": "08191 332-0",
 		"mail": "poststelle.fa-ll@finanzamt.bayern.de",
 		"url": "www.finanzamt-landsberg.de"
 	},
 	{
 		"buFaNr": "9132",
 		"name": "Landshut",
+		"tel": "0871 8529-000",
 		"mail": "poststelle.fa-la@finanzamt.bayern.de",
 		"url": "www.finanzamt-landshut.de"
 	},
 	{
 		"buFaNr": "9134",
 		"name": "Lindau",
+		"tel": "08382 916-0",
 		"mail": "poststelle.fa-li@finanzamt.bayern.de",
 		"url": "www.finanzamt-lindau.de"
 	},
 	{
 		"buFaNr": "9138",
 		"name": "Memmingen-Mindelheim",
+		"tel": "08331 608-0",
 		"mail": "poststelle.fa-mm@finanzamt.bayern.de",
 		"url": "www.finanzamt-memmingen.de"
 	},
 	{
 		"buFaNr": "9139",
 		"name": "Miesbach",
+		"tel": "08025 709-0",
 		"mail": "poststelle.fa-mb@finanzamt.bayern.de",
 		"url": "www.finanzamt-miesbach.de"
 	},
 	{
 		"buFaNr": "9140",
 		"name": "Memmingen-Mindelheim",
+		"tel": "08331 608-0",
 		"mail": "poststelle.fa-mn@finanzamt.bayern.de",
 		"url": "www.finanzamt-mindelheim.de"
 	},
 	{
 		"buFaNr": "9141",
 		"name": "Mühldorf",
+		"tel": "08631 616-0",
 		"mail": "poststelle.fa-mue@finanzamt.bayern.de",
 		"url": "www.finanzamt-muehldorf.de"
 	},
 	{
 		"buFaNr": "9142",
 		"name": "München Bewertung des Grundbesitzes",
+		"tel": "089 1252-0",
 		"mail": "poststelle-hoe@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9143",
 		"name": "München Körperschaften/PersonenGesellschaften",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung3@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9144",
 		"name": "München Gewinneinkünfte",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9145",
 		"name": "München Gewinneinkünfte",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9146",
 		"name": "München Gewinneinkünfte",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9147",
 		"name": "München Gewinneinkünfte",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9148",
 		"name": "München Gewinneinkünfte",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9149",
 		"name": "München Erhebung",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung6@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9151",
 		"name": "Neu-Ulm",
+		"tel": "0731 7045-0",
 		"mail": "poststelle.fa-nu@finanzamt.bayern.de",
 		"url": "www.finanzamt-neu-ulm.de"
 	},
 	{
 		"buFaNr": "9152",
 		"name": "Nördlingen mit ASt Donauwörth",
+		"tel": "09081 215-0",
 		"mail": "poststelle.fa-noe@finanzamt.bayern.de",
 		"url": "www.finanzamt-noerdlingen.de"
 	},
 	{
 		"buFaNr": "9153",
 		"name": "Passau mit Außenstellen",
+		"tel": "0851 504-0",
 		"mail": "poststelle.fa-pa@finanzamt.bayern.de",
 		"url": "www.finanzamt-passau.de"
 	},
 	{
 		"buFaNr": "9154",
 		"name": "Pfaffenhofen",
+		"tel": "08441 77-0",
 		"mail": "poststelle.fa-paf@finanzamt.bayern.de",
 		"url": "www.finanzamt-pfaffenhofen.de"
 	},
 	{
 		"buFaNr": "9156",
 		"name": "Rosenheim m. ASt Wasserburg",
+		"tel": "08031 201-0",
 		"mail": "poststelle.fa-ro@finanzamt.bayern.de",
 		"url": "www.finanzamt-rosenheim.de"
 	},
 	{
 		"buFaNr": "9157",
 		"name": "Grafenau",
+		"tel": "08552 423-0",
 		"mail": "poststelle.fa-gra@finanzamt.bayern.de",
 		"url": "www.finanzamt-grafenau.de"
 	},
 	{
 		"buFaNr": "9159",
 		"name": "Schrobenhausen m. ASt Neuburg",
+		"tel": "08252 918-0",
 		"mail": "poststelle.fa-sob@finanzamt.bayern.de",
 		"url": "www.finanzamt-schrobenhausen.de"
 	},
 	{
 		"buFaNr": "9161",
 		"name": "Starnberg",
+		"tel": "08151 778-0",
 		"mail": "poststelle.fa-sta@finanzamt.bayern.de",
 		"url": "www.finanzamt-starnberg.de"
 	},
 	{
 		"buFaNr": "9162",
 		"name": "Straubing",
+		"tel": "09421 941-0",
 		"mail": "poststelle.fa-sr@finanzamt.bayern.de",
 		"url": "www.finanzamt-straubing.de"
 	},
 	{
 		"buFaNr": "9163",
 		"name": "Traunstein",
+		"tel": "0861 701-0",
 		"mail": "poststelle.fa-ts@finanzamt.bayern.de",
 		"url": "www.finanzamt-traunstein.de"
 	},
 	{
 		"buFaNr": "9168",
 		"name": "Weilheim-Schongau",
+		"tel": "0881 184-0",
 		"mail": "poststelle.fa-wm@finanzamt.bayern.de",
 		"url": "www.finanzamt-weilheim.de"
 	},
 	{
 		"buFaNr": "9169",
 		"name": "Wolfratshausen - Bad Tölz",
+		"tel": "08171 25-0",
 		"mail": "poststelle.fa-wor@finanzamt.bayern.de",
 		"url": "www.finanzamt-wolfratshausen.de"
 	},
 	{
 		"buFaNr": "9170",
 		"name": "Zwiesel m. ASt Viechtach",
+		"tel": "09922 507-0",
 		"mail": "poststelle.fa-zwi@finanzamt.bayern.de",
 		"url": "www.finanzamt-zwiesel.de"
 	},
 	{
 		"buFaNr": "9171",
 		"name": "Eichstätt",
+		"tel": "08421 6007-0",
 		"mail": "poststelle.fa-ei@finanzamt.bayern.de",
 		"url": "www.finanzamt-eichstaett.de"
 	},
 	{
 		"buFaNr": "9181",
 		"name": "München Überschusseinkünfte",
+		"tel": "089 1252-0",
 		"mail": "poststelle-deg@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9182",
 		"name": "München Überschusseinkünfte u. Beschränkt Steuerpfl.",
+		"tel": "089 1252-0",
 		"mail": "poststelle-sr@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9183",
 		"name": "München Überschusseinkünfte",
+		"tel": "089 1252-0",
 		"mail": "poststelle-in@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9184",
 		"name": "München Überschusseinkünfte",
+		"tel": "089 1252-0",
 		"mail": "poststelle-pa@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9185",
 		"name": "München Überschusseinkünfte",
+		"tel": "089 1252-0",
 		"mail": "poststelle-ei@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9187",
 		"name": "München Körperschaften",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung3@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9188",
 		"name": "München Betriebsprüfung",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung5@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9189",
 		"name": "München Erhebung",
+		"tel": "089 1252-0",
 		"mail": "poststelle-abteilung6@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
 	{
 		"buFaNr": "9201",
 		"name": "Amberg",
+		"tel": "09621 36-0",
 		"mail": "poststelle.fa-am@finanzamt.bayern.de",
 		"url": "www.finanzamt-amberg.de"
 	},
 	{
 		"buFaNr": "9202",
 		"name": "Obernburg am Main mit Außenstelle Amorbach",
+		"tel": "09373 202-0",
 		"mail": "poststelle-obernburg.fa-amorb@finanzamt.bayern.de",
 		"url": "www.finanzamt-amorbach.de"
 	},
 	{
 		"buFaNr": "9203",
 		"name": "Ansbach mit Außenstellen",
+		"tel": "0981 16-0",
 		"mail": "poststelle.fa-an@finanzamt.bayern.de",
 		"url": "www.finanzamt-ansbach.de"
 	},
 	{
 		"buFaNr": "9204",
 		"name": "Aschaffenburg",
+		"tel": "06021 492-0",
 		"mail": "poststelle.fa-ab@finanzamt.bayern.de",
 		"url": "www.finanzamt-aschaffenburg.de"
 	},
 	{
 		"buFaNr": "9205",
 		"name": "Bad Kissingen",
+		"tel": "0971 8021-0",
 		"mail": "poststelle.fa-kg@finanzamt.bayern.de",
 		"url": "www.finanzamt-bad-kissingen.de"
 	},
 	{
 		"buFaNr": "9206",
 		"name": "Bad Neustadt a.d.S.",
+		"tel": "09771 9104-0",
 		"mail": "poststelle.fa-nes@finanzamt.bayern.de",
 		"url": "www.finanzamt-bad-neustadt.de"
 	},
 	{
 		"buFaNr": "9207",
 		"name": "Bamberg",
+		"tel": "0951 84-0",
 		"mail": "poststelle.fa-ba@finanzamt.bayern.de",
 		"url": "www.finanzamt-bamberg.de"
 	},
 	{
 		"buFaNr": "9208",
 		"name": "Bayreuth",
+		"tel": "0921 609-0",
 		"mail": "poststelle.fa-bt@finanzamt.bayern.de",
 		"url": "www.finanzamt-bayreuth.de"
 	},
 	{
 		"buFaNr": "9211",
 		"name": "Cham mit Außenstelle Bad Kötzting",
+		"tel": "09971 488-0",
 		"mail": "poststelle.fa-cha@finanzamt.bayern.de",
 		"url": "www.finanzamt-cham.de"
 	},
 	{
 		"buFaNr": "9212",
 		"name": "Coburg",
+		"tel": "09561 646-0",
 		"mail": "poststelle.fa-co@finanzamt.bayern.de",
 		"url": "www.finanzamt-coburg.de"
 	},
 	{
 		"buFaNr": "9216",
 		"name": "Erlangen",
+		"tel": "09131 121-0",
 		"mail": "poststelle.fa-er@finanzamt.bayern.de",
 		"url": "www.finanzamt-erlangen.de"
 	},
 	{
 		"buFaNr": "9217",
 		"name": "Forchheim",
+		"tel": "09191 626-0",
 		"mail": "poststelle.fa-fo@finanzamt.bayern.de",
 		"url": "www.finanzamt-forchheim.de"
 	},
 	{
 		"buFaNr": "9218",
 		"name": "Fürth",
+		"tel": "0911 7435-0",
 		"mail": "poststelle.fa-fue@finanzamt.bayern.de",
 		"url": "www.finanzamt-fuerth.de"
 	},
 	{
 		"buFaNr": "9220",
 		"name": "Gunzenhausen",
+		"tel": "09831 8009-0",
 		"mail": "poststelle.fa-gun@finanzamt.bayern.de",
 		"url": "www.finanzamt-gunzenhausen.de"
 	},
 	{
 		"buFaNr": "9221",
 		"name": "Hersbruck",
+		"tel": "09151 731-0",
 		"mail": "poststelle.fa-heb@finanzamt.bayern.de",
 		"url": "www.finanzamt-hersbruck.de"
 	},
 	{
 		"buFaNr": "9222",
 		"name": "Hilpoltstein",
+		"tel": "09174 469-0",
 		"mail": "poststelle.fa-hip@finanzamt.bayern.de",
 		"url": "www.finanzamt-hilpoltstein.de"
 	},
 	{
 		"buFaNr": "9223",
 		"name": "Hof mit Außenstellen",
+		"tel": "09281 929-0",
 		"mail": "poststelle.fa-ho@finanzamt.bayern.de",
 		"url": "www.finanzamt-hof.de"
 	},
 	{
 		"buFaNr": "9227",
 		"name": "Kitzingen",
+		"tel": "09321 703-0",
 		"mail": "poststelle.fa-kt@finanzamt.bayern.de",
 		"url": "www.finanzamt-kitzingen.de"
 	},
 	{
 		"buFaNr": "9228",
 		"name": "Kronach",
+		"tel": "09261 510-0",
 		"mail": "poststelle.fa-kc@finanzamt.bayern.de",
 		"url": "www.finanzamt-kronach.de"
 	},
 	{
 		"buFaNr": "9229",
 		"name": "Kulmbach",
+		"tel": "09221 650-0",
 		"mail": "poststelle.fa-ku@finanzamt.bayern.de",
 		"url": "www.finanzamt-kulmbach.de"
 	},
 	{
 		"buFaNr": "9230",
 		"name": "Lichtenfels",
+		"tel": "09571 764-0",
 		"mail": "poststelle.fa-lif@finanzamt.bayern.de",
 		"url": "www.finanzamt-lichtenfels.de"
 	},
 	{
 		"buFaNr": "9231",
 		"name": "Lohr a. Main mit Außenstellen",
+		"tel": "09352 850-0",
 		"mail": "poststelle.fa-loh@finanzamt.bayern.de",
 		"url": "www.finanzamt-lohr.de"
 	},
 	{
 		"buFaNr": "9232",
 		"name": "Lohr a. Main mit Außenstellen - Grunderwerbsteuer",
+		"tel": "09352 850-0",
 		"mail": "poststelle.fa-loh@finanzamt.bayern.de",
 		"url": "www.finanzamt-lohr.de"
 	},
 	{
 		"buFaNr": "9235",
 		"name": "Neumarkt i.d.Opf.",
+		"tel": "09181 692-0",
 		"mail": "poststelle.fa-nm@finanzamt.bayern.de",
 		"url": "/www.finanzamt-neumarkt.de"
 	},
 	{
 		"buFaNr": "9238",
 		"name": "Nürnberg-Nord",
+		"tel": "0911 3998-0",
 		"mail": "poststelle.fa-n-n@finanzamt.bayern.de",
 		"url": "www.finanzamt-nuernberg-nord.de"
 	},
 	{
 		"buFaNr": "9240",
 		"name": "Nürnberg-Süd",
+		"tel": "0911 248-0",
 		"mail": "poststelle.fa-n-s@finanzamt.bayern.de",
 		"url": "www.finanzamt-nuernberg-sued.de"
 	},
 	{
 		"buFaNr": "9241",
 		"name": "Nürnberg-Zentral",
+		"tel": "0911 5393-0",
 		"mail": "poststelle.fa-n-zfa@finanzamt.bayern.de",
 		"url": "www.zentralfinanzamt-nuernberg.de"
 	},
 	{
 		"buFaNr": "9244",
 		"name": "Regensburg",
+		"tel": "0941 5024-0",
 		"mail": "poststelle.fa-r@finanzamt.bayern.de",
 		"url": "www.finanzamt-regensburg.de"
 	},
 	{
 		"buFaNr": "9247",
 		"name": "Schwabach",
+		"tel": "09122 928-0",
 		"mail": "poststelle.fa-sc@finanzamt.bayern.de",
 		"url": "www.finanzamt-schwabach.de"
 	},
 	{
 		"buFaNr": "9248",
 		"name": "Schwandorf mit Außenstelle Neunburg v. W.",
+		"tel": "09431 382-0",
 		"mail": "poststelle.fa-sad@finanzamt.bayern.de",
 		"url": "www.finanzamt-schwandorf.de"
 	},
 	{
 		"buFaNr": "9249",
 		"name": "Schweinfurt",
+		"tel": "09721 2911-0",
 		"mail": "poststelle.fa-sw@finanzamt.bayern.de",
 		"url": "www.finanzamt-schweinfurt.de"
 	},
 	{
 		"buFaNr": "9252",
 		"name": "Uffenheim",
+		"tel": "09842 200-0",
 		"mail": "poststelle.fa-uff@finanzamt.bayern.de",
 		"url": "www.finanzamt-uffenheim.de"
 	},
 	{
 		"buFaNr": "9254",
 		"name": "Waldsassen",
+		"tel": "09632 847-0",
 		"mail": "poststelle.fa-wasa@finanzamt.bayern.de",
 		"url": "www.finanzamt-waldsassen.de"
 	},
 	{
 		"buFaNr": "9255",
 		"name": "Weiden i.d.Opf.",
+		"tel": "0961 301-0",
 		"mail": "poststelle.fa-wen@finanzamt.bayern.de",
 		"url": "www.finanzamt-weiden.de"
 	},
 	{
 		"buFaNr": "9257",
 		"name": "Würzburg mit Außenstelle Ochsenfurt",
+		"tel": "0931 387-0",
 		"mail": "poststelle.fa-wue@finanzamt.bayern.de",
 		"url": "www.finanzamt-wuerzburg.de"
 	},
 	{
 		"buFaNr": "9258",
 		"name": "Wunsiedel mit Außenstelle Selb",
+		"tel": "09232 607-0",
 		"mail": "poststelle.fa-wun@finanzamt.bayern.de",
 		"url": "www.finanzamt-wunsiedel.de"
 	},
 	{
 		"buFaNr": "9259",
 		"name": "Zeil am Main mit Außenstelle Ebern",
+		"tel": "09524 824-0",
 		"mail": "poststelle.fa-zei@finanzamt.bayern.de",
 		"url": "www.finanzamt-zeil.de"
 	},
 	{
 		"buFaNr": "2171",
 		"name": "Bad Segeberg Bewertung für Grundsteuer 71",
+		"tel": "04551 54-0",
 		"mail": "poststelle@fa-bad-segeberg.landsh.de"
 	},
 	{
 		"buFaNr": "2173",
 		"name": "Elmshorn Bewertung für Grundsteuer 73",
+		"tel": "04121 481-0",
 		"mail": "poststelle@fa-elmshorn.landsh.de"
 	},
 	{
@@ -3448,66 +4045,79 @@
 	{
 		"buFaNr": "2190",
 		"name": "Stormarn Bewertung für Grundsteuer 90",
+		"tel": "04531 507-0",
 		"mail": "poststelle@fa-stormarn.landsh.de"
 	},
 	{
 		"buFaNr": "2184",
 		"name": "Neumünster Bewertung für Grundsteuer 84",
+		"tel": "04321 496-0",
 		"mail": "poststelle@fa-neumuenster.landsh.de"
 	},
 	{
 		"buFaNr": "2186",
 		"name": "Plön Bewertung für Grundsteuer 86",
+		"tel": "04522 506-0",
 		"mail": "poststelle@fa-ploen.landsh.de"
 	},
 	{
 		"buFaNr": "2189",
 		"name": "Eckernförde-Schleswig Bewertung für Grundsteuer 89",
+		"tel": "04351 756-0",
 		"mail": "poststelle@fa-eck-sl.landsh.de"
 	},
 	{
 		"buFaNr": "2191",
 		"name": "Pinneberg Bewertung für Grundsteuer 91",
+		"tel": "04101 5472-0",
 		"mail": "poststelle@fa-pinneberg.landsh.de"
 	},
 	{
 		"buFaNr": "2187",
 		"name": "Ratzeburg Bewertung für Grundsteuer 87",
+		"tel": "04541 882-0",
 		"mail": "poststelle@fa-ratzeburg.landsh.de"
 	},
 	{
 		"buFaNr": "2172",
 		"name": "Eckernförde-Schleswig Bewertung fur Grundsteuer 72",
+		"tel": "04351 756-0",
 		"mail": "poststelle@fa-eck-sl.landsh.de"
 	},
 	{
 		"buFaNr": "2183",
 		"name": "Dithmarschen Bewertung für Grundsteuer 83",
+		"tel": "0481 42155-0",
 		"mail": "poststelle@fa-dithmarschen.landsh.de"
 	},
 	{
 		"buFaNr": "2180",
 		"name": "Kiel Bewertung für Grundsteuer 80",
+		"tel": "0431 602-0",
 		"mail": "poststelle@fa-kiel.landsh.de"
 	},
 	{
 		"buFaNr": "2188",
 		"name": "Rendsburg Bewertung für Grundsteuer 88",
+		"tel": "04331 598-0",
 		"mail": "poststelle@fa-rendsburg.landsh.de"
 	},
 	{
 		"buFaNr": "2179",
 		"name": "Kiel Bewertung für Grundsteuer 79",
+		"tel": "0431 602-0",
 		"mail": "poststelle@fa-kiel.landsh.de"
 	},
 	{
 		"buFaNr": "2182",
 		"name": "Lübeck Bewertung für Grundsteuer 82",
+		"tel": "0451 132-0",
 		"mail": "poststelle@fa-luebeck.landsh.de"
 	},
 	{
 		"buFaNr": "2185",
 		"name": "Ostholstein Bewertung für Grundsteuer 85",
+		"tel": "04361 497-0",
 		"mail": "poststelle@fa-ostholstein.landsh.de"
 	},
 	{
@@ -3517,16 +4127,19 @@
 	{
 		"buFaNr": "2177",
 		"name": "Nordfriesland Bewertung für Grundsteuer 77",
+		"tel": "04841 8949-0",
 		"mail": "poststelle@fa-nordfriesland.landsh.de"
 	},
 	{
 		"buFaNr": "2178",
 		"name": "Itzehoe Bewertung für Grundsteuer 78",
+		"tel": "04821 66-0",
 		"mail": "poststelle@fa-itzehoe.landsh.de"
 	},
 	{
 		"buFaNr": "2181",
 		"name": "Nordfriesland Bewertung für Grundsteuer 81",
+		"tel": "04841 8949-0",
 		"mail": "poststelle@fa-nordfriesland.landsh.de"
 	}
 ]

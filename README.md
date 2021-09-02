@@ -56,6 +56,14 @@ Type: `string`
 
 Der Name der Finanzbehörde.
 
+#### tel
+
+Type: `string`
+
+Die Telefonnummer-Kontaktangabe der Finanzbehörde.
+
+*Nicht alle Finanzbehörden geben diesen Kontakt an.*
+
 #### mail
 
 Type: `string`
