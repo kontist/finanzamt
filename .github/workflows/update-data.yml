@@ -1,0 +1,24 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - run: npm ci
+      - run: npm run data:download
+      - run: npm run data:convert
+      - name: setup git
+        run: |
+          git config --global user.email "developer@kontist.com"
+          git config --global user.name "GitHub"
+      - name: push changes
+        run: |
+          git commit -am "Update tax office data" || echo "No updates"
+          git push
