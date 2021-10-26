@@ -1,7 +1,5 @@
 name: Data
-on:
-  schedule:
-    - cron: "5 8 * * *"
+on: push
 jobs:
   gemfa_export:
     name: GemFA export
