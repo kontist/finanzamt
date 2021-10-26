@@ -1,0 +1,21 @@
+name: Data
+on:
+  schedule:
+    - cron: "5 8 * * *"
+jobs:
+  gemfa_export:
+    name: GemFA export
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - run: npm ci
+      - run: npm run data:download
+      - run: npm run data:convert
+      - uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Update GemFA export
+          branch: update-gemfa-export
+          title: Update GemFA export
