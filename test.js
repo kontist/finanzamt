@@ -23,12 +23,6 @@ it('returns information when steuernummer is given', () => {
   assert.strictEqual(finanzamt('1121081508150').name, 'Tempelhof');
 });
 
-it('returns no hausanschrift property if there is none', () => {
-  assert(
-    !Object.prototype.hasOwnProperty.call(finanzamt('2175'), 'hausanschrift')
-  );
-});
-
 it('returns no hausanschrift.hausNr property if there is none', () => {
   assert(
     !Object.prototype.hasOwnProperty.call(
