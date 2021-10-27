@@ -41,10 +41,6 @@ it('returns no hausanschrift.hausNrZusatz property if there is none', () => {
   );
 });
 
-it('returns no tel property if there is none', () => {
-  assert(!Object.prototype.hasOwnProperty.call(finanzamt('2175'), 'tel'));
-});
-
 it('returns no fax property if there is none', () => {
   assert(!Object.prototype.hasOwnProperty.call(finanzamt('2188'), 'fax'));
 });
