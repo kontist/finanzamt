@@ -1,5 +1,7 @@
 'use strict';
 const finanzaemter = require('./data/finanzaemter.json');
+const downloadScript = require('./scripts/data-download');
+const convertScript = require('./scripts/data-convert');
 
 module.exports = (input) => {
   if (typeof input !== 'string') {
@@ -20,4 +22,9 @@ module.exports = (input) => {
   return finanzaemter.find((finanzamt) => {
     return finanzamt.buFaNr === bundesfinanzamtsnummer;
   });
+};
+
+module.exports = getUpdatedFinanceOfficeData => {
+    downloadScript();
+    convertScript();
 };
