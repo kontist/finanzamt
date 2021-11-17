@@ -1940,19 +1940,6 @@
 		"mail": "office@fa-ap.bremen.de"
 	},
 	{
-		"buFaNr": "2485",
-		"name": "Bremerhaven Arbeitnehmerbereich",
-		"hausanschrift": {
-			"strasse": "Rickmersstr.",
-			"hausNr": "90",
-			"plz": "27568",
-			"ort": "Bremerhaven"
-		},
-		"tel": "0471 596-99000",
-		"fax": "0471 596-99105",
-		"mail": "office@FinanzamtBremerhaven.bremen.de"
-	},
-	{
 		"buFaNr": "2601",
 		"name": "Alsfeld-Lauterbach Verwaltungsstelle Alsfeld",
 		"hausanschrift": {
@@ -8362,7 +8349,7 @@
 	},
 	{
 		"buFaNr": "2172",
-		"name": "Eckernförde-Schleswig Bewertung fur Grundsteuer 72",
+		"name": "Eckernförde-Schleswig Bewertung für Grundsteuer 72",
 		"hausanschrift": {
 			"strasse": "Bergstr.",
 			"hausNr": "50",
