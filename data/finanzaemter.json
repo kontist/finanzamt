@@ -1198,20 +1198,6 @@
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
-		"buFaNr": "2329",
-		"name": "Herzberg am Harz",
-		"hausanschrift": {
-			"strasse": "Sieberstr.",
-			"hausNr": "1",
-			"plz": "37412",
-			"ort": "Herzberg"
-		},
-		"tel": "05521 857-0",
-		"fax": "05521 857-220",
-		"mail": "Poststelle@fa-hz.niedersachsen.de",
-		"url": "www.lstn.niedersachsen.de"
-	},
-	{
 		"buFaNr": "2330",
 		"name": "Hildesheim-Alfeld",
 		"hausanschrift": {
@@ -1270,7 +1256,7 @@
 	},
 	{
 		"buFaNr": "2335",
-		"name": "Northeim",
+		"name": "Northeim-Herzberg am Harz",
 		"hausanschrift": {
 			"strasse": "Graf-Otto-Str.",
 			"hausNr": "31",
@@ -1279,7 +1265,7 @@
 		},
 		"tel": "05551 704-0",
 		"fax": "05551 704-221",
-		"mail": "Poststelle@fa-nom.niedersachsen.de",
+		"mail": "Poststelle@nom-hz.niedersachsen.de",
 		"url": "www.lstn.niedersachsen.de"
 	},
 	{
