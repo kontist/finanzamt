@@ -42,7 +42,7 @@
 	},
 	{
 		"buFaNr": "1040",
-		"name": "Saarbrücken Am Stadtgraben",
+		"name": "Saarbrücken I",
 		"hausanschrift": {
 			"strasse": "Am Stadtgraben",
 			"hausNr": "2",
@@ -57,7 +57,7 @@
 	},
 	{
 		"buFaNr": "1055",
-		"name": "Saarbrücken MainzerStr",
+		"name": "Saarbrücken II",
 		"hausanschrift": {
 			"strasse": "Mainzer Str.",
 			"hausNr": "109",
@@ -85,7 +85,7 @@
 	},
 	{
 		"buFaNr": "1070",
-		"name": "Saarbrücken Am Stadtgraben - Außenst. Sulzbach",
+		"name": "Saarbrücken I Außenstelle Sulzbach",
 		"hausanschrift": {
 			"strasse": "Vopeliusstr.",
 			"hausNr": "8",
@@ -127,7 +127,7 @@
 	},
 	{
 		"buFaNr": "1090",
-		"name": "Saarbrücken Am Stadtgraben - Außenst. Völklingen",
+		"name": "Saarbrücken I Außenstelle Völklingen ",
 		"hausanschrift": {
 			"strasse": "Marktstr.",
 			"plz": "66333",
