@@ -44,10 +44,9 @@
 		"buFaNr": "1040",
 		"name": "Saarbrücken I",
 		"hausanschrift": {
-			"strasse": "Am Stadtgraben",
-			"hausNr": "2",
-			"hausNrZusatz": "-4",
-			"plz": "66111",
+			"strasse": "Mecklenburgring",
+			"hausNr": "25",
+			"plz": "66121",
 			"ort": "Saarbrücken"
 		},
 		"tel": "0681 30000",
@@ -59,9 +58,8 @@
 		"buFaNr": "1055",
 		"name": "Saarbrücken II",
 		"hausanschrift": {
-			"strasse": "Mainzer Str.",
-			"hausNr": "109",
-			"hausNrZusatz": "-111",
+			"strasse": "Mecklenburgring",
+			"hausNr": "25",
 			"plz": "66121",
 			"ort": "Saarbrücken"
 		},
@@ -7310,7 +7308,7 @@
 			"ort": "München"
 		},
 		"tel": "089 1252-0",
-		"fax": "089 1252-1111 (4000)",
+		"fax": "089 1252-1111",
 		"mail": "poststelle-abteilung1@famuc.bayern.de",
 		"url": "www.finanzamt-muenchen.de"
 	},
