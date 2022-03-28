@@ -12,7 +12,7 @@ jobs:
           ssh-key: ${{ secrets.DEPLOY_KEY }}
       - uses: actions/setup-node@v2
         with:
-          node-version: 14
+          node-version: 16
       - run: npm ci
       - run: npm run data:download
       - run: npm run data:convert
