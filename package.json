@@ -1,6 +1,6 @@
 {
   "name": "finanzamt",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "description": "Get information about a German tax office (Finanzamt)",
   "keywords": [
     "bzst",
