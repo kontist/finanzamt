@@ -82,20 +82,6 @@
 		"url": "www.finanzamt-sankt-wendel.de"
 	},
 	{
-		"buFaNr": "1070",
-		"name": "Saarbrücken I Außenstelle Sulzbach",
-		"hausanschrift": {
-			"strasse": "Vopeliusstr.",
-			"hausNr": "8",
-			"plz": "66280",
-			"ort": "Sulzbach"
-		},
-		"tel": "06897 90820",
-		"fax": "06897 9082110",
-		"mail": "poststelle@fasb.saarland.de",
-		"url": "www.finanzamt-saarbruecken.de"
-	},
-	{
 		"buFaNr": "1075",
 		"name": "Homburg",
 		"hausanschrift": {
@@ -122,19 +108,6 @@
 		"fax": "06894 984159",
 		"mail": "poststelle@fahom.saarland.de",
 		"url": "www.finanzamt-homburg.de"
-	},
-	{
-		"buFaNr": "1090",
-		"name": "Saarbrücken I Außenstelle Völklingen",
-		"hausanschrift": {
-			"strasse": "Marktstr.",
-			"plz": "66333",
-			"ort": "Völklingen"
-		},
-		"tel": "06898 20301",
-		"fax": "06898 203133",
-		"mail": "poststelle@fasb.saarland.de",
-		"url": "www.finanzamt-saarbruecken.de"
 	},
 	{
 		"buFaNr": "1113",
@@ -6832,7 +6805,7 @@
 		},
 		"tel": "0821 506-01",
 		"fax": "0821 506-2222",
-		"mail": "poststelle@fa-a-s.bayern.de",
+		"mail": "poststelle.fa-a-s@finanzamt.bayern.de",
 		"url": "www.finanzamt-augsburg-stadt.de"
 	},
 	{
