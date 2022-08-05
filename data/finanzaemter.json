@@ -45,9 +45,9 @@
 		"name": "Saarbrücken I",
 		"hausanschrift": {
 			"strasse": "Mecklenburgring",
-			"hausNr": "25",
+			"hausNr": "23",
 			"plz": "66121",
-			"ort": "Saarbrücken"
+			"ort": "Saarbrücken - Eschberg"
 		},
 		"tel": "0681 30000",
 		"fax": "0681 3000329",
@@ -59,9 +59,9 @@
 		"name": "Saarbrücken II",
 		"hausanschrift": {
 			"strasse": "Mecklenburgring",
-			"hausNr": "25",
+			"hausNr": "23",
 			"plz": "66121",
-			"ort": "Saarbrücken – Eschberg"
+			"ort": "Saarbrücken - Eschberg"
 		},
 		"tel": "0681 30000",
 		"fax": "0681 3000762",
