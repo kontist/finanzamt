@@ -51,8 +51,7 @@
 		},
 		"tel": "0681 30000",
 		"fax": "0681 3000329",
-		"mail": "poststelle@fasb.saarland.de",
-		"url": "www.finanzamt-saarbruecken.de"
+		"mail": "poststelle@fasb.saarland.de"
 	},
 	{
 		"buFaNr": "1055",
@@ -3241,7 +3240,7 @@
 		"buFaNr": "2836",
 		"name": "Baden-Baden Außenstelle Bühl",
 		"hausanschrift": {
-			"strasse": "Alban-Stolz-Str.",
+			"strasse": "Straße der Weißen Rose",
 			"hausNr": "8",
 			"plz": "77815",
 			"ort": "Bühl"
