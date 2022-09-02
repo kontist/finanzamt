@@ -51,7 +51,8 @@
 		},
 		"tel": "0681 30000",
 		"fax": "0681 3000329",
-		"mail": "poststelle@fasb.saarland.de"
+		"mail": "poststelle@fasb.saarland.de",
+		"url": "http://www.finanzamt-saarbruecken-1.de"
 	},
 	{
 		"buFaNr": "1055",
@@ -64,7 +65,8 @@
 		},
 		"tel": "0681 30000",
 		"fax": "0681 3000762",
-		"mail": "poststelle@fasbm.saarland.de"
+		"mail": "poststelle@fasbm.saarland.de",
+		"url": "http://www.finanzamt-saarbruecken-2.de"
 	},
 	{
 		"buFaNr": "1060",
