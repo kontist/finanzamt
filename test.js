@@ -50,7 +50,7 @@ it('returns no mail property if there is none', () => {
 });
 
 it('returns no url property if there is none', () => {
-  assert(!Object.prototype.hasOwnProperty.call(finanzamt('1055'), 'url'));
+  assert(!Object.prototype.hasOwnProperty.call(finanzamt('2111'), 'url'));
 });
 
 it('returns undefined if Finanzamt can’t be found', () => {
