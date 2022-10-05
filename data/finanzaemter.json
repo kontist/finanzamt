@@ -2211,7 +2211,7 @@
 	},
 	{
 		"buFaNr": "2623",
-		"name": "Kassel II-Hofgeismar Verwaltungsstelle Hofgeismar",
+		"name": "Kassel",
 		"hausanschrift": {
 			"strasse": "Altstädter Kirchplatz",
 			"hausNr": "10",
@@ -2219,9 +2219,9 @@
 			"ort": "Hofgeismar"
 		},
 		"tel": "0561 7208-0",
-		"fax": "0561 7208-3000",
-		"mail": "Poststelle@FA-KH.Hessen.de",
-		"url": "https://www.finanzamt-kassel-2-hofgeismar.de"
+		"fax": "0561 7208-1000",
+		"mail": "poststelle@fa-ks.hessen.de",
+		"url": "https://www.finanzamt-kassel.de"
 	},
 	{
 		"buFaNr": "2624",
@@ -2239,7 +2239,7 @@
 	},
 	{
 		"buFaNr": "2625",
-		"name": "Kassel I",
+		"name": "Kassel",
 		"hausanschrift": {
 			"strasse": "Altmarkt",
 			"hausNr": "1",
@@ -2248,12 +2248,12 @@
 		},
 		"tel": "0561 7208-0",
 		"fax": "0561 7208-1000",
-		"mail": "Poststelle@FA-KS1.Hessen.de",
-		"url": "https://www.finanzamt-kassel-1.de"
+		"mail": "poststelle@fa-ks.hessen.de",
+		"url": "https://www.finanzamt-kassel.de"
 	},
 	{
 		"buFaNr": "2626",
-		"name": "Kassel II-Hofgeismar",
+		"name": "Kassel",
 		"hausanschrift": {
 			"strasse": "Altmarkt",
 			"hausNr": "1",
@@ -2261,9 +2261,9 @@
 			"ort": "Kassel"
 		},
 		"tel": "0561 7208-0",
-		"fax": "0561 7208-2000",
-		"mail": "Poststelle@FA-KH.Hessen.de",
-		"url": "https://www.finanzamt-kassel-2-hofgeismar.de"
+		"fax": "0561 7208-1000",
+		"mail": "poststelle@fa-ks.hessen.de",
+		"url": "https://www.finanzamt-kassel.de"
 	},
 	{
 		"buFaNr": "2627",
@@ -2451,17 +2451,17 @@
 	},
 	{
 		"buFaNr": "2640",
-		"name": "Wiesbaden I",
+		"name": "Wiesbaden",
 		"hausanschrift": {
-			"strasse": "Dostojewskistraße",
-			"hausNr": "8",
-			"plz": "65187",
+			"strasse": "Abraham-Lincoln-Park",
+			"hausNr": "3",
+			"plz": "65189",
 			"ort": "Wiesbaden"
 		},
 		"tel": "0611 813-0",
 		"fax": "0611 813-1000",
-		"mail": "Poststelle@FA-WI1.Hessen.de",
-		"url": "https://www.finanzamt-wiesbaden-1.de"
+		"mail": "poststelle@fa-wi.hessen.de",
+		"url": "https://www.finanzamt-wiesbaden.de"
 	},
 	{
 		"buFaNr": "2641",
@@ -2493,17 +2493,17 @@
 	},
 	{
 		"buFaNr": "2643",
-		"name": "Wiesbaden II",
+		"name": "Wiesbaden",
 		"hausanschrift": {
-			"strasse": "Dostojewskistraße",
-			"hausNr": "8",
-			"plz": "65187",
+			"strasse": "Abraham-Lincoln-Park",
+			"hausNr": "3",
+			"plz": "65189",
 			"ort": "Wiesbaden"
 		},
 		"tel": "0611 813-0",
-		"fax": "0611 813-2000",
-		"mail": "Poststelle@FA-WI2.Hessen.de",
-		"url": "https://www.finanzamt-wiesbaden-2.de"
+		"fax": "0611 813-1000",
+		"mail": "poststelle@fa-wi.hessen.de",
+		"url": "https://www.finanzamt-wiesbaden.de"
 	},
 	{
 		"buFaNr": "2644",
@@ -3281,7 +3281,7 @@
 		"buFaNr": "2839",
 		"name": "Rastatt",
 		"hausanschrift": {
-			"strasse": "An der Ludwigsfeste",
+			"strasse": "An der Ludwigfeste",
 			"hausNr": "3",
 			"plz": "76437",
 			"ort": "Rastatt"
