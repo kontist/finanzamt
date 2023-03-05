@@ -17,6 +17,6 @@ const downloadDirectory = path.join(__dirname, '..', 'data');
     .prop('href');
   const downloadUrl = new URL(downloadLink, pageUrl);
 
-  await del('data/GemFA_Export_*.xml');
+  await del('data/GemFA_*.xml');
   await download(downloadUrl, downloadDirectory, {extract: true});
 })();
