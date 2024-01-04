@@ -13,7 +13,6 @@ it('returns information about the Finanzamt Prenzlauer Berg', () => {
       ort: 'Berlin'
     },
     tel: '030 9024-28 0',
-    fax: '030 9024-28 900',
     mail: 'poststelle@fa-prenzlauer-berg.verwalt-berlin.de',
     url: 'http://www.berlin.de/sen/finanzen'
   });
