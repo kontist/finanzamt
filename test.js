@@ -41,7 +41,7 @@ it('returns no hausanschrift.hausNrZusatz property if there is none', () => {
 });
 
 it('returns no fax property if there is none', () => {
-  assert(!Object.prototype.hasOwnProperty.call(finanzamt('2188'), 'fax'));
+  assert(!Object.prototype.hasOwnProperty.call(finanzamt('1115'), 'fax'));
 });
 
 it('returns no mail property if there is none', () => {
