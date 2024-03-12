@@ -16,7 +16,7 @@ jobs:
       - run: npm ci
       - run: npm run data:download
       - run: npm run data:convert
-      - uses: peter-evans/create-pull-request@v4
+      - uses: peter-evans/create-pull-request@v6
         with:
           commit-message: Update GemFA export
           branch: update-gemfa-export
