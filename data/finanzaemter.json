@@ -6357,10 +6357,9 @@
 		"buFaNr": "5339",
 		"name": "Paderborn",
 		"hausanschrift": {
-			"strasse": "Bahnhofstr.",
-			"hausNr": "28",
-			"hausNrZusatz": "- 30",
-			"plz": "33102",
+			"strasse": "Stedener Feld",
+			"hausNr": "10",
+			"plz": "33104",
 			"ort": "Paderborn"
 		},
 		"tel": "05251 100-0",
@@ -8307,5 +8306,17 @@
 		"tel": "030 9024-150",
 		"mail": "poststelle@fa15.berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
+	},
+	{
+		"buFaNr": "5380",
+		"name": "Landesamt zur Bekämpfung der Finanzkriminalität",
+		"hausanschrift": {
+			"strasse": "Erkrather Str.",
+			"hausNr": "339",
+			"plz": "40231",
+			"ort": "Düsseldorf"
+		},
+		"tel": "0211 957633-0",
+		"fax": "0211 957633-1200"
 	}
 ]
