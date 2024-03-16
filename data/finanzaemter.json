@@ -2019,60 +2019,52 @@
 	},
 	{
 		"buFaNr": "2612",
-		"name": "Frankfurt am Main II",
-		"hausanschrift": {
-			"strasse": "Gutleutstraße",
-			"hausNr": "122",
-			"plz": "60327",
-			"ort": "Frankfurt"
-		},
-		"tel": "069 2545-02",
-		"fax": "069 2545-2999",
-		"mail": "Poststelle@FA-FF2.Hessen.de",
-		"url": "https://www.finanzamt-frankfurt-am-main-2.de"
-	},
-	{
-		"buFaNr": "2613",
-		"name": "Frankfurt am Main I",
-		"hausanschrift": {
-			"strasse": "Gutleutstraße",
-			"hausNr": "124",
-			"plz": "60327",
-			"ort": "Frankfurt"
-		},
-		"tel": "069 2545-01",
-		"fax": "069 2545-1999",
-		"mail": "Poststelle@FA-FF1.Hessen.de",
-		"url": "https://www.finanzamt-frankfurt-am-main-1.de"
-	},
-	{
-		"buFaNr": "2614",
-		"name": "Frankfurt am Main IV",
+		"name": "Frankfurt am Main",
 		"hausanschrift": {
 			"strasse": "Gutleutstraße",
 			"hausNr": "118",
+			"hausNrZusatz": "-124",
 			"plz": "60327",
-			"ort": "Frankfurt"
+			"ort": "Frankfurt am Main"
 		},
-		"tel": "069 2545-04",
-		"fax": "069 2545-4999",
-		"mail": "Poststelle@FA-FF4.Hessen.de",
-		"url": "https://www.finanzamt-frankfurt-am-main-4.de"
+		"tel": "069 2545-0",
+		"fax": "069 2545-1999",
+		"url": "https://finanzamt.hessen.de/Frankfurt"
+	},
+	{
+		"buFaNr": "2613",
+		"name": "Frankfurt am Main",
+		"hausanschrift": {
+			"strasse": "Gutleutstraße",
+			"hausNr": "118",
+			"hausNrZusatz": "-124",
+			"plz": "60327",
+			"ort": "Frankfurt am Main"
+		},
+		"tel": "069 2545-0",
+		"fax": "069 2545-1999",
+		"url": "https://finanzamt.hessen.de/Frankfurt"
+	},
+	{
+		"buFaNr": "2614",
+		"name": "Frankfurt am Main",
+		"tel": "069 2545-0",
+		"fax": "069 2545-1999",
+		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
 		"buFaNr": "2615",
-		"name": "Frankfurt am Main V-Höchst Verwaltungsstelle Höchst",
+		"name": "Frankfurt am Main",
 		"hausanschrift": {
-			"strasse": "Hospitalstraße",
-			"hausNr": "16",
-			"hausNrZusatz": "a",
-			"plz": "65929",
-			"ort": "Frankfurt"
+			"strasse": "Gutleutstraße",
+			"hausNr": "118",
+			"hausNrZusatz": "-124",
+			"plz": "60327",
+			"ort": "Frankfurt am Main"
 		},
-		"tel": "069 30830-0",
-		"fax": "069 2545-5999",
-		"mail": "Poststelle@FA-FH.Hessen.de",
-		"url": "https://www.finanzamt-frankfurt-am-main-5-hoechst.de"
+		"tel": "069 2545-0",
+		"fax": "069 2545-1999",
+		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
 		"buFaNr": "2616",
@@ -2345,7 +2337,7 @@
 	},
 	{
 		"buFaNr": "2635",
-		"name": "Offenbach am Main I",
+		"name": "Offenbach am Main",
 		"hausanschrift": {
 			"strasse": "Bieberer Straße",
 			"hausNr": "59",
@@ -2354,8 +2346,7 @@
 		},
 		"tel": "069 8091-1",
 		"fax": "069 8091-2400",
-		"mail": "Poststelle@FA-OF1.Hessen.de",
-		"url": "https://www.finanzamt-offenbach-1.de"
+		"url": "https://finanzamt.hessen.de/Offenbach"
 	},
 	{
 		"buFaNr": "2636",
@@ -2472,7 +2463,7 @@
 	},
 	{
 		"buFaNr": "2644",
-		"name": "Offenbach am Main II",
+		"name": "Offenbach am Main",
 		"hausanschrift": {
 			"strasse": "Bieberer Straße",
 			"hausNr": "59",
@@ -2481,22 +2472,21 @@
 		},
 		"tel": "069 8091-1",
 		"fax": "069 8091-3400",
-		"mail": "Poststelle@FA-OF2.Hessen.de",
-		"url": "https://www.finanzamt-offenbach-2.de"
+		"url": "https://finanzamt.hessen.de/Offenbach"
 	},
 	{
 		"buFaNr": "2645",
-		"name": "Frankfurt am Main III",
+		"name": "Frankfurt am Main",
 		"hausanschrift": {
-			"strasse": "Gutleutstraße",
-			"hausNr": "120",
+			"strasse": "Gutleutstraße ",
+			"hausNr": "118",
+			"hausNrZusatz": "-124",
 			"plz": "60327",
-			"ort": "Frankfurt"
+			"ort": "Frankfurt am Main"
 		},
-		"tel": "069 2545-03",
-		"fax": "069 2545-3999",
-		"mail": "Poststelle@FA-FF3.Hessen.de",
-		"url": "https://www.finanzamt-frankfurt-am-main-3.de"
+		"tel": "069 2545-0",
+		"fax": "069 2545-1999",
+		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
 		"buFaNr": "2646",
@@ -2515,17 +2505,17 @@
 	},
 	{
 		"buFaNr": "2647",
-		"name": "Frankfurt am Main V-Höchst Verwaltungsstelle Frankfurt",
+		"name": "Frankfurt am Main",
 		"hausanschrift": {
 			"strasse": "Gutleutstraße",
-			"hausNr": "116",
+			"hausNr": "118",
+			"hausNrZusatz": "-124",
 			"plz": "60327",
-			"ort": "Frankfurt"
+			"ort": "Frankfurt am Main"
 		},
-		"tel": "069 2545-05",
-		"fax": "069 2545-5999",
-		"mail": "Poststelle@FA-FH.Hessen.de",
-		"url": "https://www.finanzamt-frankfurt-am-main-5-hoechst.de"
+		"tel": "069 2545-0",
+		"fax": "069 2545-1999",
+		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
 		"buFaNr": "2701",
