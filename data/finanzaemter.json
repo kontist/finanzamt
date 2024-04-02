@@ -2048,6 +2048,13 @@
 	{
 		"buFaNr": "2614",
 		"name": "Frankfurt am Main",
+		"hausanschrift": {
+			"strasse": "Gutleutstraße ",
+			"hausNr": "118",
+			"hausNrZusatz": "-124",
+			"plz": "60327",
+			"ort": "Frankfurt am Main"
+		},
 		"tel": "069 2545-0",
 		"fax": "069 2545-1999",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
@@ -3954,7 +3961,7 @@
 		"buFaNr": "3050",
 		"name": "Luckenwalde",
 		"hausanschrift": {
-			"strasse": "Dr.-Georg-Schaeffler-Straße",
+			"strasse": "Erich-Mendelsohn-Straße",
 			"hausNr": "2",
 			"plz": "14943",
 			"ort": "Luckenwalde"
