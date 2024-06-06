@@ -3925,7 +3925,6 @@
 			"ort": "Potsdam"
 		},
 		"tel": "0331 287-0",
-		"fax": "0331 287-1515",
 		"mail": "poststelle.fa-potsdam@fa.brandenburg.de",
 		"url": "www.fa-potsdam.brandenburg.de"
 	},
@@ -3939,7 +3938,6 @@
 			"ort": "Brandenburg an der Havel"
 		},
 		"tel": "03381 397-199",
-		"fax": "03381 397-200",
 		"mail": "poststelle.fa-brandenburg@fa.brandenburg.de",
 		"url": "www.fa-brandenburg.brandenburg.de"
 	},
@@ -3953,7 +3951,6 @@
 			"ort": "Königs Wusterhausen"
 		},
 		"tel": "03375 275-0",
-		"fax": "03375 275-103",
 		"mail": "poststelle.fa-koenigs-wusterhausen@fa.brandenburg.de",
 		"url": "www.fa-koenigs-wusterhausen.brandenburg.de"
 	},
@@ -3967,7 +3964,6 @@
 			"ort": "Luckenwalde"
 		},
 		"tel": "03371 606-0",
-		"fax": "03371 606-200",
 		"mail": "poststelle.fa-luckenwalde@fa.brandenburg.de",
 		"url": "www.fa-luckenwalde.brandenburg.de"
 	},
@@ -3981,7 +3977,6 @@
 			"ort": "Nauen"
 		},
 		"tel": "03321 412-0",
-		"fax": "03321 412-888",
 		"mail": "poststelle.fa-nauen@fa.brandenburg.de",
 		"url": "www.fa-nauen.brandenburg.de"
 	},
@@ -3995,7 +3990,6 @@
 			"ort": "Kyritz"
 		},
 		"tel": "033971 65-0",
-		"fax": "033971 65-200",
 		"mail": "poststelle.fa-kyritz@fa.brandenburg.de",
 		"url": "www.fa-kyritz.brandenburg.de"
 	},
@@ -4009,7 +4003,6 @@
 			"ort": "Oranienburg"
 		},
 		"tel": "03301 857-0",
-		"fax": "033 01857-1300",
 		"mail": "poststelle.fa-oranienburg@fa.brandenburg.de",
 		"url": "www.fa-oranienburg.brandenburg.de"
 	},
@@ -4023,7 +4016,6 @@
 			"ort": "Cottbus"
 		},
 		"tel": "0355 4991-4100",
-		"fax": "0355 4991-4150",
 		"mail": "poststelle.fa-cottbus@fa.brandenburg.de",
 		"url": "www.fa-cottbus.brandenburg.de"
 	},
@@ -4037,7 +4029,6 @@
 			"ort": "Calau"
 		},
 		"tel": "03541 83-0",
-		"fax": "03541 83-100",
 		"mail": "poststelle.fa-calau@fa.brandenburg.de",
 		"url": "www.fa-calau.brandenburg.de"
 	},
@@ -4051,7 +4042,6 @@
 			"ort": "Frankfurt (Oder)"
 		},
 		"tel": "0335 60676-1399",
-		"fax": "0335 60676-1028",
 		"mail": "poststelle.fa-frankfurt-oder@fa.brandenburg.de",
 		"url": "www.fa-frankfurt-oder.brandenburg.de"
 	},
@@ -4065,7 +4055,6 @@
 			"ort": "Angermünde"
 		},
 		"tel": "03331 267-0",
-		"fax": "03331 267-200",
 		"mail": "poststelle.fa-angermuende@fa.brandenburg.de",
 		"url": "www.fa-angermuende.brandenburg.de"
 	},
@@ -4080,7 +4069,6 @@
 			"ort": "Strausberg"
 		},
 		"tel": "03341 342-0",
-		"fax": "03341 342-2190",
 		"mail": "poststelle.fa-strausberg@fa.brandenburg.de",
 		"url": "www.fa-strausberg.brandenburg.de"
 	},
@@ -4094,7 +4082,6 @@
 			"ort": "Eberswalde"
 		},
 		"tel": "03334 275-4000",
-		"fax": "03334 275-4700",
 		"mail": "poststelle.fa-eberswalde@fa.brandenburg.de",
 		"url": "www.fa-eberswalde.brandenburg.de"
 	},
@@ -4672,8 +4659,8 @@
 			"plz": "17192",
 			"ort": "Waren (Müritz)"
 		},
-		"tel": "03991 174-0",
-		"fax": "03991 174-40400",
+		"tel": "0385 588-40000",
+		"fax": "0385 588-40400",
 		"mail": "poststelle@finanzamt-waren.de",
 		"url": "www.finanzamt-waren.de"
 	},
@@ -4700,8 +4687,8 @@
 			"plz": "23970",
 			"ort": "Wismar"
 		},
-		"tel": "03841 444-0",
-		"fax": "03841 444-50300",
+		"tel": "0385 588-50000",
+		"fax": "0385 588-50300",
 		"mail": "poststelle@finanzamt-wismar.de",
 		"url": "www.finanzamt-wismar.de"
 	},
@@ -4714,8 +4701,8 @@
 			"plz": "18311",
 			"ort": "Ribnitz-Damgarten"
 		},
-		"tel": "03821 884-0",
-		"fax": "03821 884-45300",
+		"tel": "0385 588-45000",
+		"fax": "0385 588-45300",
 		"mail": "poststelle@finanzamt-ribnitz-damgarten.de",
 		"url": "www.finanzamt-ribnitz-damgarten.de"
 	},
@@ -4756,8 +4743,8 @@
 			"plz": "18273",
 			"ort": "Güstrow"
 		},
-		"tel": "03843 262-0",
-		"fax": "03843 262-500",
+		"tel": "0385 588-53000",
+		"fax": "0385 588-53500",
 		"mail": "poststelle@finanzamt-guestrow.de",
 		"url": "www.finanzamt-guestrow.de"
 	},
@@ -4770,8 +4757,8 @@
 			"plz": "19230",
 			"ort": "Hagenow"
 		},
-		"tel": "03883 670-0",
-		"fax": "03883 670-500",
+		"tel": "0385 588-51000",
+		"fax": "0385 588-51500",
 		"mail": "poststelle@finanzamt-hagenow.de",
 		"url": "www.finanzamt-hagenow.de"
 	},
@@ -4785,8 +4772,6 @@
 			"plz": "19053",
 			"ort": "Schwerin"
 		},
-		"tel": "0385 5400-0",
-		"fax": "0385 5400-300",
 		"mail": "poststelle@finanzamt-schwerin.de",
 		"url": "www.finanzamt-schwerin.de"
 	},
