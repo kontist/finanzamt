@@ -3925,7 +3925,6 @@
 			"ort": "Potsdam"
 		},
 		"tel": "0331 287-0",
-		"mail": "poststelle.fa-potsdam@fa.brandenburg.de",
 		"url": "www.fa-potsdam.brandenburg.de"
 	},
 	{
@@ -3938,7 +3937,6 @@
 			"ort": "Brandenburg an der Havel"
 		},
 		"tel": "03381 397-199",
-		"mail": "poststelle.fa-brandenburg@fa.brandenburg.de",
 		"url": "www.fa-brandenburg.brandenburg.de"
 	},
 	{
@@ -3951,7 +3949,6 @@
 			"ort": "Königs Wusterhausen"
 		},
 		"tel": "03375 275-0",
-		"mail": "poststelle.fa-koenigs-wusterhausen@fa.brandenburg.de",
 		"url": "www.fa-koenigs-wusterhausen.brandenburg.de"
 	},
 	{
@@ -3964,7 +3961,6 @@
 			"ort": "Luckenwalde"
 		},
 		"tel": "03371 606-0",
-		"mail": "poststelle.fa-luckenwalde@fa.brandenburg.de",
 		"url": "www.fa-luckenwalde.brandenburg.de"
 	},
 	{
@@ -3977,7 +3973,6 @@
 			"ort": "Nauen"
 		},
 		"tel": "03321 412-0",
-		"mail": "poststelle.fa-nauen@fa.brandenburg.de",
 		"url": "www.fa-nauen.brandenburg.de"
 	},
 	{
@@ -3990,7 +3985,6 @@
 			"ort": "Kyritz"
 		},
 		"tel": "033971 65-0",
-		"mail": "poststelle.fa-kyritz@fa.brandenburg.de",
 		"url": "www.fa-kyritz.brandenburg.de"
 	},
 	{
@@ -4003,7 +3997,6 @@
 			"ort": "Oranienburg"
 		},
 		"tel": "03301 857-0",
-		"mail": "poststelle.fa-oranienburg@fa.brandenburg.de",
 		"url": "www.fa-oranienburg.brandenburg.de"
 	},
 	{
@@ -4016,7 +4009,6 @@
 			"ort": "Cottbus"
 		},
 		"tel": "0355 4991-4100",
-		"mail": "poststelle.fa-cottbus@fa.brandenburg.de",
 		"url": "www.fa-cottbus.brandenburg.de"
 	},
 	{
@@ -4029,7 +4021,6 @@
 			"ort": "Calau"
 		},
 		"tel": "03541 83-0",
-		"mail": "poststelle.fa-calau@fa.brandenburg.de",
 		"url": "www.fa-calau.brandenburg.de"
 	},
 	{
@@ -4042,7 +4033,6 @@
 			"ort": "Frankfurt (Oder)"
 		},
 		"tel": "0335 60676-1399",
-		"mail": "poststelle.fa-frankfurt-oder@fa.brandenburg.de",
 		"url": "www.fa-frankfurt-oder.brandenburg.de"
 	},
 	{
@@ -4055,7 +4045,6 @@
 			"ort": "Angermünde"
 		},
 		"tel": "03331 267-0",
-		"mail": "poststelle.fa-angermuende@fa.brandenburg.de",
 		"url": "www.fa-angermuende.brandenburg.de"
 	},
 	{
@@ -4082,7 +4071,6 @@
 			"ort": "Eberswalde"
 		},
 		"tel": "03334 275-4000",
-		"mail": "poststelle.fa-eberswalde@fa.brandenburg.de",
 		"url": "www.fa-eberswalde.brandenburg.de"
 	},
 	{
@@ -4673,8 +4661,8 @@
 			"plz": "18109",
 			"ort": "Rostock"
 		},
-		"tel": "0381 12845-0",
-		"fax": "0381 12845-4300",
+		"tel": "0385 588-44000",
+		"fax": "0385 588-44300",
 		"mail": "poststelle@finanzamt-rostock.de",
 		"url": "www.finanzamt-rostock.de"
 	},
@@ -4715,8 +4703,8 @@
 			"plz": "18435",
 			"ort": "Stralsund"
 		},
-		"tel": "03831 366-0",
-		"fax": "03831 366-48300",
+		"tel": "0385 588-48000",
+		"fax": "0385 588-48300",
 		"mail": "poststelle@finanzamt-stralsund.de",
 		"url": "www.finanzamt-stralsund.de"
 	},
@@ -4729,8 +4717,8 @@
 			"plz": "17489",
 			"ort": "Greifswald"
 		},
-		"tel": "03834 5352-0",
-		"fax": "03834 5352-3300",
+		"tel": "0385 588-43000",
+		"fax": "0385 588-43300",
 		"mail": "poststelle@finanzamt-greifswald.de",
 		"url": "www.finanzamt-greifswald.de"
 	},
@@ -4772,6 +4760,8 @@
 			"plz": "19053",
 			"ort": "Schwerin"
 		},
+		"tel": "0385 588-42000",
+		"fax": "0385 588-42300",
 		"mail": "poststelle@finanzamt-schwerin.de",
 		"url": "www.finanzamt-schwerin.de"
 	},
