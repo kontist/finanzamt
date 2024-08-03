@@ -3384,9 +3384,9 @@
 		"buFaNr": "2850",
 		"name": "Aalen",
 		"hausanschrift": {
-			"strasse": "Bleichgartenstr.",
-			"hausNr": "17",
-			"plz": "73431",
+			"strasse": "Wilhelm-Zapf-Straße",
+			"hausNr": "6",
+			"plz": "73430",
 			"ort": "Aalen"
 		},
 		"tel": "(07361) 9578-0",
@@ -3936,7 +3936,7 @@
 			"plz": "14770",
 			"ort": "Brandenburg an der Havel"
 		},
-		"tel": "03381 397-199",
+		"tel": "03381 397-100",
 		"url": "www.fa-brandenburg.brandenburg.de"
 	},
 	{
