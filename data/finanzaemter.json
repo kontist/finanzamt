@@ -632,7 +632,7 @@
 		"tel": "040 115",
 		"fax": "040 4279 22400",
 		"mail": "FAfuerSteuererhebung@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/steuka-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-steuererhebung"
 	},
 	{
 		"buFaNr": "2210",
@@ -646,7 +646,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-22650",
 		"mail": "FAVuG@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/vug-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-vug"
 	},
 	{
 		"buFaNr": "2216",
@@ -660,7 +660,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-22650",
 		"mail": "FAVuG@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/vug-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-vug"
 	},
 	{
 		"buFaNr": "2217",
@@ -674,7 +674,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-58001",
 		"mail": "FAHamburgNord@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/nord-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-nord"
 	},
 	{
 		"buFaNr": "2220",
@@ -688,7 +688,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-22650",
 		"mail": "FAVuG@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/vug-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-vug"
 	},
 	{
 		"buFaNr": "2227",
@@ -702,7 +702,7 @@
 		"tel": "040 115",
 		"fax": "040/4 279-22094",
 		"mail": "FAfuerGrossunternehmen@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/grossunternehmen-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-gu"
 	},
 	{
 		"buFaNr": "2228",
@@ -716,7 +716,7 @@
 		"tel": "040/428 11-5000",
 		"fax": "040 4279-57438",
 		"mail": "PoststelleFAPrueStra@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/pruestra-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-pruestra"
 	},
 	{
 		"buFaNr": "2230",
@@ -730,7 +730,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-22650",
 		"mail": "FAVuG@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/vug-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-vug"
 	},
 	{
 		"buFaNr": "2235",
@@ -744,7 +744,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-22650",
 		"mail": "FAVuG@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/vug-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-vug"
 	},
 	{
 		"buFaNr": "2241",
@@ -758,7 +758,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-55197",
 		"mail": "FAHamburgAltona@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/altonastart/"
+		"url": "https://www.hamburg.de/go/finanzamt-altona"
 	},
 	{
 		"buFaNr": "2242",
@@ -772,7 +772,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-56106",
 		"mail": "FAHamburgAmTierpark@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/amtierpark-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-am-tierpark"
 	},
 	{
 		"buFaNr": "2243",
@@ -786,7 +786,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-55302",
 		"mail": "FAHamburgBarmbekUhlenhorst@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/bustart/"
+		"url": "https://www.hamburg.de/go/finanzamt-barmbek-uhlenhorst"
 	},
 	{
 		"buFaNr": "2244",
@@ -800,7 +800,7 @@
 		"tel": "040 115",
 		"fax": "040/4 279-55600",
 		"mail": "FAHamburgOst@finanzamt.hamburg.de",
-		"url": "http://www.hamburg.de/fb/ost-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-ost"
 	},
 	{
 		"buFaNr": "2245",
@@ -814,7 +814,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-55801",
 		"mail": "FAHamburgEimsbuettel@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/eimsbuettel-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-eimsbuettel"
 	},
 	{
 		"buFaNr": "2246",
@@ -828,7 +828,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-56470",
 		"mail": "FAHamburgHansa@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/hansa-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-hansa"
 	},
 	{
 		"buFaNr": "2247",
@@ -842,7 +842,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-57047",
 		"mail": "FAHamburgHarburg@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/harburg-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-harburg"
 	},
 	{
 		"buFaNr": "2248",
@@ -856,7 +856,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-57100",
 		"mail": "FAHamburgMitte@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/mitte-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-mitte"
 	},
 	{
 		"buFaNr": "2249",
@@ -870,7 +870,7 @@
 		"tel": "040 115",
 		"fax": "040 4279-58001",
 		"mail": "FAHamburgNord@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/nord-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-nord"
 	},
 	{
 		"buFaNr": "2250",
@@ -884,7 +884,7 @@
 		"tel": "040 115",
 		"fax": "040/4 279-58131",
 		"mail": "FAHamburgOberalster@finanzamt.hamburg.de",
-		"url": "https://www.hamburg.de/fb/oberalster-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-oberalster"
 	},
 	{
 		"buFaNr": "2251",
@@ -898,7 +898,7 @@
 		"tel": "040 115",
 		"fax": "040/4 279-55600",
 		"mail": "FAHamburgOst@finanzamt.hamburg.de",
-		"url": "http://www.hamburg.de/fb/ost-start/"
+		"url": "https://www.hamburg.de/go/finanzamt-ost"
 	},
 	{
 		"buFaNr": "2313",
@@ -1851,7 +1851,7 @@
 			"ort": "Alsfeld"
 		},
 		"tel": "06631 790-0",
-		"fax": "06631 790-555",
+		"fax": "0611 32-762-1004",
 		"mail": "Poststelle@FA-AL.Hessen.de",
 		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
@@ -1865,7 +1865,7 @@
 			"ort": "Bad Hersfeld"
 		},
 		"tel": "06621 933-0",
-		"fax": "06621 933-333",
+		"fax": "0611 32-762-1104",
 		"mail": "Poststelle@FA-HR.Hessen.de",
 		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
@@ -1879,7 +1879,7 @@
 			"ort": "Bad Homburg v. d. Höhe"
 		},
 		"tel": "06172 107-0",
-		"fax": "06172 107-317",
+		"fax": "0611 32-762-1109",
 		"mail": "Poststelle@FA-BHG.Hessen.de",
 		"url": "www.Finanzamt-Bad-Homburg.de"
 	},
@@ -1894,7 +1894,7 @@
 			"ort": "Bad Schwalbach"
 		},
 		"tel": "06124 705-0",
-		"fax": "06124 705-399",
+		"fax": "0611 32-762-1705",
 		"mail": "Poststelle@FA-RT.Hessen.de",
 		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
@@ -1908,7 +1908,7 @@
 			"ort": "Bensheim"
 		},
 		"tel": "06251 15-0",
-		"fax": "06251 15-267",
+		"fax": "0611 32-762-1709",
 		"mail": "Poststelle@FA-BEN.Hessen.de",
 		"url": "www.Finanzamt-Bensheim.de"
 	},
@@ -1922,7 +1922,7 @@
 			"ort": "Biedenkopf"
 		},
 		"tel": "06421 698-0",
-		"fax": "06421 698-109",
+		"fax": "0611 32-762-2531",
 		"mail": "Poststelle@FA-MB.Hessen.de",
 		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
@@ -1936,7 +1936,7 @@
 			"ort": "Darmstadt"
 		},
 		"tel": "06151 102-0",
-		"fax": "06151 102-1262",
+		"fax": "0611 32-762-2606",
 		"mail": "Poststelle@FA-DAM.Hessen.de",
 		"url": "www.Finanzamt-Darmstadt.de"
 	},
@@ -1950,7 +1950,7 @@
 			"ort": "Dieburg"
 		},
 		"tel": "06071 2006-0",
-		"fax": "06071 2006-100",
+		"fax": "0611 32-762-2804",
 		"mail": "Poststelle@FA-DIB.Hessen.de",
 		"url": "www.Finanzamt-Dieburg.de"
 	},
@@ -1964,7 +1964,7 @@
 			"ort": "Dillenburg"
 		},
 		"tel": "02771 908-0",
-		"fax": "02771 908-100",
+		"fax": "0611 32-762-2904",
 		"mail": "Poststelle@FA-DIL.Hessen.de",
 		"url": "www.Finanzamt-Dillenburg.de"
 	},
@@ -1978,7 +1978,7 @@
 			"ort": "Eschwege"
 		},
 		"tel": "05651 3320-0",
-		"fax": "05651 3320-720",
+		"fax": "0611 32-762-3004",
 		"mail": "Poststelle@FA-EW.Hessen.de",
 		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
@@ -1992,7 +1992,7 @@
 			"ort": "Frankenberg"
 		},
 		"tel": "05631 563-0",
-		"fax": "05631 563-444",
+		"fax": "0611 32-762-6504",
 		"mail": "Poststelle@FA-KF.Hessen.de",
 		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
@@ -2007,7 +2007,7 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "069 2545-1999",
+		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2021,7 +2021,7 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "069 2545-1999",
+		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2035,7 +2035,7 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "069 2545-1999",
+		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2049,7 +2049,7 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "069 2545-1999",
+		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2063,7 +2063,7 @@
 			"ort": "Friedberg"
 		},
 		"tel": "06031 49-0",
-		"fax": "06031 49-6316",
+		"fax": "0611 32-762-4006",
 		"mail": "Poststelle@FA-FBG.Hessen.de",
 		"url": "www.Finanzamt-Friedberg.de"
 	},
@@ -2077,7 +2077,7 @@
 			"ort": "Fürth"
 		},
 		"tel": "06253 206-0",
-		"fax": "06251 15-267",
+		"fax": "0611 32-762-1709",
 		"mail": "Poststelle@FA-BEN.Hessen.de",
 		"url": "www.Finanzamt-Bensheim.de"
 	},
@@ -2091,7 +2091,7 @@
 			"ort": "Fulda"
 		},
 		"tel": "0661 9610-0",
-		"fax": "0661 9610-5901",
+		"fax": "0611 32-762-4204",
 		"mail": "Poststelle@FA-FDA.Hessen.de",
 		"url": "www.Finanzamt-Fulda.de"
 	},
@@ -2105,7 +2105,7 @@
 			"ort": "Gelnhausen"
 		},
 		"tel": "06051 86-0",
-		"fax": "06051 86-299",
+		"fax": "0611 32-762-4504",
 		"mail": "Poststelle@FA-GEL.Hessen.de",
 		"url": "www.Finanzamt-Gelnhausen.de"
 	},
@@ -2119,7 +2119,7 @@
 			"ort": "Gießen"
 		},
 		"tel": "0641 4800-100",
-		"fax": "0641 4800-1590",
+		"fax": "0611 32-762-4699",
 		"mail": "Poststelle@FA-GIS.Hessen.de",
 		"url": "www.Finanzamt-Giessen.de"
 	},
@@ -2134,7 +2134,7 @@
 			"ort": "Groß-Gerau"
 		},
 		"tel": "06152 9924-01",
-		"fax": "06152 9924-699",
+		"fax": "0611 32-762-5204",
 		"mail": "Poststelle@FA-GGE.Hessen.de",
 		"url": "www.Finanzamt-Gross-Gerau.de"
 	},
@@ -2148,7 +2148,7 @@
 			"ort": "Hanau"
 		},
 		"tel": "06181 101-0",
-		"fax": "06181 101-5001",
+		"fax": "0611 32-762-5400",
 		"mail": "Poststelle@FA-HAN.Hessen.de",
 		"url": "www.Finanzamt-Hanau.de"
 	},
@@ -2162,7 +2162,7 @@
 			"ort": "Hofgeismar"
 		},
 		"tel": "0561 7208-0",
-		"fax": "0561 7208-1000",
+		"fax": "0611 32-762-8007",
 		"mail": "poststelle@fa-ks.hessen.de",
 		"url": "https://www.finanzamt-kassel.de"
 	},
@@ -2176,7 +2176,7 @@
 			"ort": "Fritzlar"
 		},
 		"tel": "05622 805-0",
-		"fax": "05622 805-111",
+		"fax": "0611 32-762-5604",
 		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
@@ -2190,7 +2190,7 @@
 			"ort": "Kassel"
 		},
 		"tel": "0561 7208-0",
-		"fax": "0561 7208-1000",
+		"fax": "0611 32-762-8007",
 		"mail": "poststelle@fa-ks.hessen.de",
 		"url": "https://www.finanzamt-kassel.de"
 	},
@@ -2204,7 +2204,7 @@
 			"ort": "Kassel"
 		},
 		"tel": "0561 7208-0",
-		"fax": "0561 7208-1000",
+		"fax": "0611 32-762-8007",
 		"mail": "poststelle@fa-ks.hessen.de",
 		"url": "https://www.finanzamt-kassel.de"
 	},
@@ -2218,7 +2218,7 @@
 			"ort": "Korbach"
 		},
 		"tel": "05631 563-0",
-		"fax": "05631 563-444",
+		"fax": "0611 32-762-6504",
 		"mail": "Poststelle@FA-KF.Hessen.de",
 		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
@@ -2232,7 +2232,7 @@
 			"ort": "Langen"
 		},
 		"tel": "06103 591-01",
-		"fax": "06103 591-285",
+		"fax": "0611 32-762-6700",
 		"mail": "Poststelle@FA-LAN.Hessen.de",
 		"url": "www.Finanzamt-Langen.de"
 	},
@@ -2246,7 +2246,7 @@
 			"ort": "Lauterbach"
 		},
 		"tel": "06631 790-0",
-		"fax": "06631 790-555",
+		"fax": "0611 32-762-1004",
 		"mail": "Poststelle@FA-AL.Hessen.de",
 		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
@@ -2260,7 +2260,7 @@
 			"ort": "Limburg"
 		},
 		"tel": "06431 208-0",
-		"fax": "06431 208-200",
+		"fax": "0611 32-762-6905",
 		"mail": "Poststelle@FA-LW.Hessen.de",
 		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
@@ -2274,7 +2274,7 @@
 			"ort": "Marburg"
 		},
 		"tel": "06421 698-0",
-		"fax": "06421 698-109",
+		"fax": "0611 32-762-2531",
 		"mail": "Poststelle@FA-MB.Hessen.de",
 		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
@@ -2289,7 +2289,7 @@
 			"ort": "Melsungen"
 		},
 		"tel": "05622 805-0",
-		"fax": "05622 805-111",
+		"fax": "0611 32-762-5604",
 		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
@@ -2303,7 +2303,7 @@
 			"ort": "Michelstadt"
 		},
 		"tel": "06061 78-0",
-		"fax": "06061 78-100",
+		"fax": "0611 32-762-7304",
 		"mail": "Poststelle@FA-MIC.Hessen.de",
 		"url": "www.Finanzamt-Michelstadt.de"
 	},
@@ -2317,7 +2317,7 @@
 			"ort": "Nidda"
 		},
 		"tel": "06043 805-0",
-		"fax": "06043 805-159",
+		"fax": "0611 32-762-1571",
 		"mail": "Poststelle@FA-NID.Hessen.de",
 		"url": "www.Finanzamt-Nidda.de"
 	},
@@ -2331,7 +2331,7 @@
 			"ort": "Offenbach"
 		},
 		"tel": "069 8091-1",
-		"fax": "069 8091-2400",
+		"fax": "0611 32-762-2612",
 		"url": "https://finanzamt.hessen.de/Offenbach"
 	},
 	{
@@ -2344,7 +2344,7 @@
 			"ort": "Rotenburg"
 		},
 		"tel": "06621 933-0",
-		"fax": "06621 933-333",
+		"fax": "0611 32-762-1104",
 		"mail": "Poststelle@FA-HR.Hessen.de",
 		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
@@ -2359,7 +2359,7 @@
 			"ort": "Rüdesheim"
 		},
 		"tel": "06124 705-0",
-		"fax": "06124 705-499",
+		"fax": "0611 32-762-1705",
 		"mail": "Poststelle@FA-RT.Hessen.de",
 		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
@@ -2373,7 +2373,7 @@
 			"ort": "Weilburg"
 		},
 		"tel": "06431 208-0",
-		"fax": "06431 208-110",
+		"fax": "0611 32-762-6905",
 		"mail": "Poststelle@FA-LW.Hessen.de",
 		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
@@ -2387,7 +2387,7 @@
 			"ort": "Wetzlar"
 		},
 		"tel": "06441 202-0",
-		"fax": "06441 202-6810",
+		"fax": "0611 32-762-7805",
 		"mail": "Poststelle@FA-WEZ.Hessen.de",
 		"url": "www.Finanzamt-Wetzlar.de"
 	},
@@ -2401,7 +2401,7 @@
 			"ort": "Wiesbaden"
 		},
 		"tel": "0611 813-0",
-		"fax": "0611 813-1000",
+		"fax": "0611 32-762-8008",
 		"mail": "poststelle@fa-wi.hessen.de",
 		"url": "https://www.finanzamt-wiesbaden.de"
 	},
@@ -2415,7 +2415,7 @@
 			"ort": "Witzenhausen"
 		},
 		"tel": "05651 3320-0",
-		"fax": "05651 3320-115",
+		"fax": "0611 32-762-3004",
 		"mail": "Poststelle@FA-EW.Hessen.de",
 		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
@@ -2429,7 +2429,7 @@
 			"ort": "Schwalmstadt"
 		},
 		"tel": "05622 805-0",
-		"fax": "05622 805-111",
+		"fax": "0611 32-762-5604",
 		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
@@ -2443,7 +2443,7 @@
 			"ort": "Wiesbaden"
 		},
 		"tel": "0611 813-0",
-		"fax": "0611 813-1000",
+		"fax": "0611 32-762-8008",
 		"mail": "poststelle@fa-wi.hessen.de",
 		"url": "https://www.finanzamt-wiesbaden.de"
 	},
@@ -2457,7 +2457,7 @@
 			"ort": "Offenbach"
 		},
 		"tel": "069 8091-1",
-		"fax": "069 8091-3400",
+		"fax": "0611 32-762-2612",
 		"url": "https://finanzamt.hessen.de/Offenbach"
 	},
 	{
@@ -2471,7 +2471,7 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "069 2545-1999",
+		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2485,7 +2485,7 @@
 			"ort": "Hofheim"
 		},
 		"tel": "06192 960-0",
-		"fax": "06192 960-412",
+		"fax": "0611 32-762-9300",
 		"mail": "Poststelle@FA-HOH.Hessen.de",
 		"url": "www.Finanzamt-Hofheim-am-Taunus.de"
 	},
@@ -2500,7 +2500,7 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "069 2545-1999",
+		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -4887,31 +4887,29 @@
 	},
 	{
 		"buFaNr": "4170",
-		"name": "Sonneberg",
+		"name": "Südthüringen",
 		"hausanschrift": {
-			"strasse": "Köppelsdorfer Straße",
-			"hausNr": "86",
-			"plz": "96515",
-			"ort": "Sonneberg"
+			"strasse": "Karl-Liebknecht-Straße",
+			"hausNr": "4",
+			"plz": "98527",
+			"ort": "Suhl"
 		},
-		"tel": "0361 573651-000",
-		"fax": "0361 573651-254",
-		"mail": "poststelle@finanzamt-sonneberg.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-sonneberg/"
+		"tel": "0361 573619-900",
+		"mail": "poststelle@finanzamt-sued.thueringen.de",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-suedthueringen"
 	},
 	{
 		"buFaNr": "4171",
-		"name": "Suhl",
+		"name": "Südthüringen",
 		"hausanschrift": {
 			"strasse": "Karl-Liebknecht-Str.",
 			"hausNr": "4",
 			"plz": "98527",
 			"ort": "Suhl"
 		},
-		"tel": "0361 573619-000",
-		"fax": "0361 573619-512",
-		"mail": "poststelle@finanzamt-suhl.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-suhl/"
+		"tel": "0361 573619-900",
+		"mail": "poststelle@finanzamt-sued.thueringen.de",
+		"url": "https://finanzamt.thueringen.de/standort/finanzamt-suedthueringen"
 	},
 	{
 		"buFaNr": "5101",
