@@ -9,8 +9,6 @@
 			"ort": "Saarlouis"
 		},
 		"tel": "06831 4490",
-		"fax": "06831 449397",
-		"mail": "poststelle@fasls.saarland.de",
 		"url": "www.finanzamt-saarlouis.de"
 	},
 	{
@@ -22,8 +20,6 @@
 			"ort": "Merzig"
 		},
 		"tel": "06861 7030",
-		"fax": "06861 703133",
-		"mail": "poststelle@famzg.saarland.de",
 		"url": "www.finanzamt-merzig.de"
 	},
 	{
@@ -36,8 +32,6 @@
 			"ort": "Neunkirchen"
 		},
 		"tel": "06821 1090",
-		"fax": "06821 109275",
-		"mail": "poststelle@fank.saarland.de",
 		"url": "www.finanzamt-neunkirchen.de"
 	},
 	{
@@ -50,8 +44,6 @@
 			"ort": "Saarbrücken - Eschberg"
 		},
 		"tel": "0681 30000",
-		"fax": "0681 3000329",
-		"mail": "poststelle@fasb.saarland.de",
 		"url": "http://www.finanzamt-saarbruecken-1.de"
 	},
 	{
@@ -64,8 +56,6 @@
 			"ort": "Saarbrücken - Eschberg"
 		},
 		"tel": "0681 30000",
-		"fax": "0681 3000762",
-		"mail": "poststelle@fasbm.saarland.de",
 		"url": "http://www.finanzamt-saarbruecken-2.de"
 	},
 	{
@@ -78,8 +68,6 @@
 			"ort": "St. Wendel"
 		},
 		"tel": "06851 8040",
-		"fax": "06851 804189",
-		"mail": "poststelle@fawnd.saarland.de",
 		"url": "www.finanzamt-sankt-wendel.de"
 	},
 	{
@@ -92,8 +80,6 @@
 			"ort": "Homburg"
 		},
 		"tel": "06841 6970",
-		"fax": "06841 697199",
-		"mail": "poststelle@fahom.saarland.de",
 		"url": "www.finanzamt-homburg.de"
 	},
 	{
@@ -106,8 +92,6 @@
 			"ort": "St. Ingbert"
 		},
 		"tel": "06894 98401",
-		"fax": "06894 984159",
-		"mail": "poststelle@fahom.saarland.de",
 		"url": "www.finanzamt-homburg.de"
 	},
 	{
@@ -3485,8 +3469,8 @@
 			"plz": "73728",
 			"ort": "Esslingen"
 		},
-		"tel": "0711/39721",
-		"fax": "0711/3972400",
+		"tel": "0711 397-2929",
+		"fax": "0711 397-2400",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
