@@ -1835,8 +1835,6 @@
 			"ort": "Alsfeld"
 		},
 		"tel": "06631 790-0",
-		"fax": "0611 32-762-1004",
-		"mail": "Poststelle@FA-AL.Hessen.de",
 		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
 	{
@@ -1849,7 +1847,6 @@
 			"ort": "Bad Hersfeld"
 		},
 		"tel": "06621 933-0",
-		"fax": "0611 32-762-1104",
 		"mail": "Poststelle@FA-HR.Hessen.de",
 		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
@@ -1863,7 +1860,6 @@
 			"ort": "Bad Homburg v. d. Höhe"
 		},
 		"tel": "06172 107-0",
-		"fax": "0611 32-762-1109",
 		"mail": "Poststelle@FA-BHG.Hessen.de",
 		"url": "www.Finanzamt-Bad-Homburg.de"
 	},
@@ -1878,7 +1874,6 @@
 			"ort": "Bad Schwalbach"
 		},
 		"tel": "06124 705-0",
-		"fax": "0611 32-762-1705",
 		"mail": "Poststelle@FA-RT.Hessen.de",
 		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
@@ -1892,7 +1887,6 @@
 			"ort": "Bensheim"
 		},
 		"tel": "06251 15-0",
-		"fax": "0611 32-762-1709",
 		"mail": "Poststelle@FA-BEN.Hessen.de",
 		"url": "www.Finanzamt-Bensheim.de"
 	},
@@ -1906,7 +1900,6 @@
 			"ort": "Biedenkopf"
 		},
 		"tel": "06421 698-0",
-		"fax": "0611 32-762-2531",
 		"mail": "Poststelle@FA-MB.Hessen.de",
 		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
@@ -1920,7 +1913,6 @@
 			"ort": "Darmstadt"
 		},
 		"tel": "06151 102-0",
-		"fax": "0611 32-762-2606",
 		"mail": "Poststelle@FA-DAM.Hessen.de",
 		"url": "www.Finanzamt-Darmstadt.de"
 	},
@@ -1934,7 +1926,6 @@
 			"ort": "Dieburg"
 		},
 		"tel": "06071 2006-0",
-		"fax": "0611 32-762-2804",
 		"mail": "Poststelle@FA-DIB.Hessen.de",
 		"url": "www.Finanzamt-Dieburg.de"
 	},
@@ -1948,7 +1939,6 @@
 			"ort": "Dillenburg"
 		},
 		"tel": "02771 908-0",
-		"fax": "0611 32-762-2904",
 		"mail": "Poststelle@FA-DIL.Hessen.de",
 		"url": "www.Finanzamt-Dillenburg.de"
 	},
@@ -1962,7 +1952,6 @@
 			"ort": "Eschwege"
 		},
 		"tel": "05651 3320-0",
-		"fax": "0611 32-762-3004",
 		"mail": "Poststelle@FA-EW.Hessen.de",
 		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
@@ -1976,7 +1965,6 @@
 			"ort": "Frankenberg"
 		},
 		"tel": "05631 563-0",
-		"fax": "0611 32-762-6504",
 		"mail": "Poststelle@FA-KF.Hessen.de",
 		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
@@ -1991,7 +1979,6 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2005,7 +1992,6 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2019,7 +2005,6 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2033,7 +2018,6 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2047,7 +2031,6 @@
 			"ort": "Friedberg"
 		},
 		"tel": "06031 49-0",
-		"fax": "0611 32-762-4006",
 		"mail": "Poststelle@FA-FBG.Hessen.de",
 		"url": "www.Finanzamt-Friedberg.de"
 	},
@@ -2061,7 +2044,6 @@
 			"ort": "Fürth"
 		},
 		"tel": "06253 206-0",
-		"fax": "0611 32-762-1709",
 		"mail": "Poststelle@FA-BEN.Hessen.de",
 		"url": "www.Finanzamt-Bensheim.de"
 	},
@@ -2075,7 +2057,6 @@
 			"ort": "Fulda"
 		},
 		"tel": "0661 9610-0",
-		"fax": "0611 32-762-4204",
 		"mail": "Poststelle@FA-FDA.Hessen.de",
 		"url": "www.Finanzamt-Fulda.de"
 	},
@@ -2089,7 +2070,6 @@
 			"ort": "Gelnhausen"
 		},
 		"tel": "06051 86-0",
-		"fax": "0611 32-762-4504",
 		"mail": "Poststelle@FA-GEL.Hessen.de",
 		"url": "www.Finanzamt-Gelnhausen.de"
 	},
@@ -2103,7 +2083,6 @@
 			"ort": "Gießen"
 		},
 		"tel": "0641 4800-100",
-		"fax": "0611 32-762-4699",
 		"mail": "Poststelle@FA-GIS.Hessen.de",
 		"url": "www.Finanzamt-Giessen.de"
 	},
@@ -2118,7 +2097,6 @@
 			"ort": "Groß-Gerau"
 		},
 		"tel": "06152 9924-01",
-		"fax": "0611 32-762-5204",
 		"mail": "Poststelle@FA-GGE.Hessen.de",
 		"url": "www.Finanzamt-Gross-Gerau.de"
 	},
@@ -2132,7 +2110,6 @@
 			"ort": "Hanau"
 		},
 		"tel": "06181 101-0",
-		"fax": "0611 32-762-5400",
 		"mail": "Poststelle@FA-HAN.Hessen.de",
 		"url": "www.Finanzamt-Hanau.de"
 	},
@@ -2146,7 +2123,6 @@
 			"ort": "Hofgeismar"
 		},
 		"tel": "0561 7208-0",
-		"fax": "0611 32-762-8007",
 		"mail": "poststelle@fa-ks.hessen.de",
 		"url": "https://www.finanzamt-kassel.de"
 	},
@@ -2160,7 +2136,6 @@
 			"ort": "Fritzlar"
 		},
 		"tel": "05622 805-0",
-		"fax": "0611 32-762-5604",
 		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
@@ -2174,7 +2149,6 @@
 			"ort": "Kassel"
 		},
 		"tel": "0561 7208-0",
-		"fax": "0611 32-762-8007",
 		"mail": "poststelle@fa-ks.hessen.de",
 		"url": "https://www.finanzamt-kassel.de"
 	},
@@ -2188,7 +2162,6 @@
 			"ort": "Kassel"
 		},
 		"tel": "0561 7208-0",
-		"fax": "0611 32-762-8007",
 		"mail": "poststelle@fa-ks.hessen.de",
 		"url": "https://www.finanzamt-kassel.de"
 	},
@@ -2202,7 +2175,6 @@
 			"ort": "Korbach"
 		},
 		"tel": "05631 563-0",
-		"fax": "0611 32-762-6504",
 		"mail": "Poststelle@FA-KF.Hessen.de",
 		"url": "www.Finanzamt-Korbach-Frankenberg.de"
 	},
@@ -2216,7 +2188,6 @@
 			"ort": "Langen"
 		},
 		"tel": "06103 591-01",
-		"fax": "0611 32-762-6700",
 		"mail": "Poststelle@FA-LAN.Hessen.de",
 		"url": "www.Finanzamt-Langen.de"
 	},
@@ -2230,7 +2201,6 @@
 			"ort": "Lauterbach"
 		},
 		"tel": "06631 790-0",
-		"fax": "0611 32-762-1004",
 		"mail": "Poststelle@FA-AL.Hessen.de",
 		"url": "www.Finanzamt-Alsfeld-Lauterbach.de"
 	},
@@ -2244,7 +2214,6 @@
 			"ort": "Limburg"
 		},
 		"tel": "06431 208-0",
-		"fax": "0611 32-762-6905",
 		"mail": "Poststelle@FA-LW.Hessen.de",
 		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
@@ -2258,7 +2227,6 @@
 			"ort": "Marburg"
 		},
 		"tel": "06421 698-0",
-		"fax": "0611 32-762-2531",
 		"mail": "Poststelle@FA-MB.Hessen.de",
 		"url": "www.Finanzamt-Marburg-Biedenkopf.de"
 	},
@@ -2273,7 +2241,6 @@
 			"ort": "Melsungen"
 		},
 		"tel": "05622 805-0",
-		"fax": "0611 32-762-5604",
 		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
@@ -2287,7 +2254,6 @@
 			"ort": "Michelstadt"
 		},
 		"tel": "06061 78-0",
-		"fax": "0611 32-762-7304",
 		"mail": "Poststelle@FA-MIC.Hessen.de",
 		"url": "www.Finanzamt-Michelstadt.de"
 	},
@@ -2301,7 +2267,6 @@
 			"ort": "Nidda"
 		},
 		"tel": "06043 805-0",
-		"fax": "0611 32-762-1571",
 		"mail": "Poststelle@FA-NID.Hessen.de",
 		"url": "www.Finanzamt-Nidda.de"
 	},
@@ -2315,7 +2280,6 @@
 			"ort": "Offenbach"
 		},
 		"tel": "069 8091-1",
-		"fax": "0611 32-762-2612",
 		"url": "https://finanzamt.hessen.de/Offenbach"
 	},
 	{
@@ -2328,7 +2292,6 @@
 			"ort": "Rotenburg"
 		},
 		"tel": "06621 933-0",
-		"fax": "0611 32-762-1104",
 		"mail": "Poststelle@FA-HR.Hessen.de",
 		"url": "www.Finanzamt-Hersfeld-Rotenburg.de"
 	},
@@ -2343,7 +2306,6 @@
 			"ort": "Rüdesheim"
 		},
 		"tel": "06124 705-0",
-		"fax": "0611 32-762-1705",
 		"mail": "Poststelle@FA-RT.Hessen.de",
 		"url": "www.Finanzamt-Rheingau-Taunus.de"
 	},
@@ -2357,7 +2319,6 @@
 			"ort": "Weilburg"
 		},
 		"tel": "06431 208-0",
-		"fax": "0611 32-762-6905",
 		"mail": "Poststelle@FA-LW.Hessen.de",
 		"url": "www.Finanzamt-Limburg-Weilburg.de"
 	},
@@ -2371,7 +2332,6 @@
 			"ort": "Wetzlar"
 		},
 		"tel": "06441 202-0",
-		"fax": "0611 32-762-7805",
 		"mail": "Poststelle@FA-WEZ.Hessen.de",
 		"url": "www.Finanzamt-Wetzlar.de"
 	},
@@ -2385,7 +2345,6 @@
 			"ort": "Wiesbaden"
 		},
 		"tel": "0611 813-0",
-		"fax": "0611 32-762-8008",
 		"mail": "poststelle@fa-wi.hessen.de",
 		"url": "https://www.finanzamt-wiesbaden.de"
 	},
@@ -2399,7 +2358,6 @@
 			"ort": "Witzenhausen"
 		},
 		"tel": "05651 3320-0",
-		"fax": "0611 32-762-3004",
 		"mail": "Poststelle@FA-EW.Hessen.de",
 		"url": "www.Finanzamt-Eschwege-Witzenhausen.de"
 	},
@@ -2413,7 +2371,6 @@
 			"ort": "Schwalmstadt"
 		},
 		"tel": "05622 805-0",
-		"fax": "0611 32-762-5604",
 		"mail": "Poststelle@FA-SE.Hessen.de",
 		"url": "www.Finanzamt-Schwalm-Eder.de"
 	},
@@ -2427,7 +2384,6 @@
 			"ort": "Wiesbaden"
 		},
 		"tel": "0611 813-0",
-		"fax": "0611 32-762-8008",
 		"mail": "poststelle@fa-wi.hessen.de",
 		"url": "https://www.finanzamt-wiesbaden.de"
 	},
@@ -2441,7 +2397,6 @@
 			"ort": "Offenbach"
 		},
 		"tel": "069 8091-1",
-		"fax": "0611 32-762-2612",
 		"url": "https://finanzamt.hessen.de/Offenbach"
 	},
 	{
@@ -2455,7 +2410,6 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2469,7 +2423,6 @@
 			"ort": "Hofheim"
 		},
 		"tel": "06192 960-0",
-		"fax": "0611 32-762-9300",
 		"mail": "Poststelle@FA-HOH.Hessen.de",
 		"url": "www.Finanzamt-Hofheim-am-Taunus.de"
 	},
@@ -2484,7 +2437,6 @@
 			"ort": "Frankfurt am Main"
 		},
 		"tel": "069 2545-0",
-		"fax": "0611 32-762-2588",
 		"url": "https://finanzamt.hessen.de/Frankfurt"
 	},
 	{
@@ -2573,17 +2525,17 @@
 	},
 	{
 		"buFaNr": "2713",
-		"name": "Landesfinanzkasse Daun",
+		"name": "Finanzamt Idar-Oberstein - Landesfinanzkasse",
 		"hausanschrift": {
-			"strasse": "Berliner Straße",
-			"hausNr": "1",
-			"plz": "54550",
-			"ort": "Daun"
+			"strasse": "Hauptstraße",
+			"hausNr": "199",
+			"plz": "55743",
+			"ort": "Idar-Oberstein"
 		},
 		"tel": "06592/9579-71000",
-		"fax": "06592/957916176",
-		"mail": "poststelle@lfk.fin-rlp.de",
-		"url": "www.landesfinanzkasse-daun.de"
+		"fax": "06781 68-18333",
+		"mail": "Poststelle@fa-io.fin-rlp.de",
+		"url": "https://www.fa-idar-oberstein.rlp.de"
 	},
 	{
 		"buFaNr": "2719",
@@ -3893,7 +3845,7 @@
 			"ort": "Potsdam"
 		},
 		"tel": "0331 287-0",
-		"url": "https://finanzamt.brandenburg.de/fa/de/finanzaemter/ihr-finanzamt-im-land-brandenburg/finanzamt-potsdam/?skip212055=12"
+		"url": "http://www.elster.de/finanzamt"
 	},
 	{
 		"buFaNr": "3048",
@@ -3905,7 +3857,7 @@
 			"ort": "Brandenburg an der Havel"
 		},
 		"tel": "03381 397-100",
-		"url": "https://finanzamt.brandenburg.de/fa/de/finanzaemter/ihr-finanzamt-im-land-brandenburg/finanzamt-brandenburg/"
+		"url": "http://www.elster.de/finanzamt"
 	},
 	{
 		"buFaNr": "3049",
@@ -5996,7 +5948,7 @@
 		"name": "Dortmund-West",
 		"hausanschrift": {
 			"strasse": "Märkische Straße",
-			"hausNr": "124",
+			"hausNr": "249",
 			"plz": "44141",
 			"ort": "Dortmund"
 		},
