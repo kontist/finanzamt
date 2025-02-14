@@ -471,7 +471,7 @@
 		},
 		"tel": "0431 602-0",
 		"fax": "0431 602-1009",
-		"mail": "poststelle@fa-kiel.landsh.de"
+		"mail": "poststelle1@fa-kiel.landsh.de"
 	},
 	{
 		"buFaNr": "2122",
@@ -4855,9 +4855,8 @@
 		"buFaNr": "5106",
 		"name": "Düsseldorf-Süd",
 		"hausanschrift": {
-			"strasse": "Kruppstr.",
-			"hausNr": "110",
-			"hausNrZusatz": "-  112",
+			"strasse": "Moskauer Str.",
+			"hausNr": "19",
 			"plz": "40227",
 			"ort": "Düsseldorf"
 		},
@@ -5130,8 +5129,8 @@
 		"buFaNr": "5133",
 		"name": "Düsseldorf-Mitte",
 		"hausanschrift": {
-			"strasse": "Kruppstr.",
-			"hausNr": "110",
+			"strasse": "Moskauer Str.",
+			"hausNr": "19",
 			"plz": "40227",
 			"ort": "Düsseldorf"
 		},
@@ -5182,10 +5181,9 @@
 		"buFaNr": "5147",
 		"name": "Düsseldorf-Mettmann",
 		"hausanschrift": {
-			"strasse": "Harkortstr.",
-			"hausNr": "2",
-			"hausNrZusatz": "-4",
-			"plz": "40210",
+			"strasse": "Moskauer Str.",
+			"hausNr": "19",
+			"plz": "40227",
 			"ort": "Düsseldorf"
 		},
 		"tel": "0211 3804-0",
@@ -5268,46 +5266,6 @@
 		},
 		"tel": "02161 189-0",
 		"fax": "0800 10092675176",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5181",
-		"name": "Düsseldorf f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "Kruppstr.",
-			"hausNr": "110",
-			"hausNrZusatz": "-  112",
-			"plz": "40227",
-			"ort": "Düsseldorf"
-		},
-		"tel": "0211 7798-1777",
-		"fax": "0800 10092675181",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5182",
-		"name": "Essen f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "In der Hagenbeck",
-			"hausNr": "64",
-			"plz": "45143",
-			"ort": "Essen"
-		},
-		"tel": "0201 6300-0",
-		"fax": "0800 10092675182",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5183",
-		"name": "Wuppertal f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "Unterdörnen",
-			"hausNr": "96",
-			"plz": "42283",
-			"ort": "Wuppertal"
-		},
-		"tel": "0202 9543-3606",
-		"fax": "0800 10092675183",
 		"url": "www.finanzamt.nrw.de"
 	},
 	{
@@ -5677,46 +5635,6 @@
 		},
 		"tel": "0228 718-3000",
 		"fax": "0800 10092675272",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5281",
-		"name": "Aachen f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "Krefelder Str.",
-			"hausNr": "210",
-			"plz": "52070",
-			"ort": "Aachen"
-		},
-		"tel": "0241 469-0",
-		"fax": "0800 10092675281",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5282",
-		"name": "Bonn f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "Am Propsthof",
-			"hausNr": "17",
-			"plz": "53121",
-			"ort": "Bonn"
-		},
-		"tel": "0228 18410-0",
-		"fax": "0800 10092675282",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5283",
-		"name": "Köln f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "Am Gleisdreieck",
-			"hausNr": "7",
-			"hausNrZusatz": "- 9",
-			"plz": "50823",
-			"ort": "Köln"
-		},
-		"tel": "0221 5772-0",
-		"fax": "0800 10092675283",
 		"url": "www.finanzamt.nrw.de"
 	},
 	{
@@ -6435,58 +6353,6 @@
 		},
 		"tel": "0251 934-4000",
 		"fax": "0800 10092675376",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5381",
-		"name": "Bielefeld f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "Ravensberger Str.",
-			"hausNr": "90",
-			"plz": "33607",
-			"ort": "Bielefeld"
-		},
-		"tel": "0521 548-1381",
-		"fax": "0800 10092675381",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5382",
-		"name": "Bochum f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "Philippstr,",
-			"hausNr": "3",
-			"plz": "44803",
-			"ort": "Bochum"
-		},
-		"tel": "0234 5878-0",
-		"fax": "0800 10092675382",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5383",
-		"name": "Hagen f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "Becheltestr.",
-			"hausNr": "32",
-			"plz": "58089",
-			"ort": "Hagen"
-		},
-		"tel": "02331 3089-0",
-		"fax": "0800 10092675383",
-		"url": "www.finanzamt.nrw.de"
-	},
-	{
-		"buFaNr": "5384",
-		"name": "Münster f. Steuerfahndung und Steuerstrafsachen",
-		"hausanschrift": {
-			"strasse": "Albersloher Weg",
-			"hausNr": "250",
-			"plz": "48155",
-			"ort": "Münster"
-		},
-		"tel": "0251 934-4500",
-		"fax": "0800 10092675384",
 		"url": "www.finanzamt.nrw.de"
 	},
 	{
@@ -7924,7 +7790,7 @@
 		},
 		"tel": "0431 602-0",
 		"fax": "0431 602-1009",
-		"mail": "poststelle@fa-kiel.landsh.de"
+		"mail": "poststelle1@fa-kiel.landsh.de"
 	},
 	{
 		"buFaNr": "2188",
