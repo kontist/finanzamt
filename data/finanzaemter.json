@@ -2725,7 +2725,7 @@
 	},
 	{
 		"buFaNr": "2801",
-		"name": "Außenstelle Achern aufgelöst: Bitte FA Offenburg auswählen",
+		"name": "Offenburg -01- (vormals ASt Achern)",
 		"hausanschrift": {
 			"strasse": "Zeller Str.",
 			"hausNr": "1-3",
@@ -2870,7 +2870,7 @@
 	},
 	{
 		"buFaNr": "2814",
-		"name": "Offenburg",
+		"name": "Offenburg -14-",
 		"hausanschrift": {
 			"strasse": "Zeller Str.",
 			"hausNr": "1",
