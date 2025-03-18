@@ -1697,12 +1697,6 @@
 	{
 		"buFaNr": "2457",
 		"name": "Bremerhaven Bewertung Bremen",
-		"hausanschrift": {
-			"strasse": "Gerhard-Rohlfs-Str.",
-			"hausNr": "32",
-			"plz": "28757",
-			"ort": "Bremen"
-		},
 		"tel": "0421 361-90909",
 		"fax": "0421 361-94055",
 		"mail": "office@FinanzamtBremerhaven.bremen.de"
@@ -4640,9 +4634,7 @@
 			"plz": "99091",
 			"ort": "Erfurt"
 		},
-		"tel": "0361 573615-000",
-		"fax": "0361 573615-800",
-		"mail": "poststelle@finanzamt-erfurt.thueringen.de",
+		"tel": "0361 573615-900",
 		"url": "https://finanzamt.thueringen.de/standort/finanzamt-erfurt/"
 	},
 	{
@@ -4654,10 +4646,7 @@
 			"plz": "98693",
 			"ort": "Ilmenau"
 		},
-		"tel": "0361 573638-000",
-		"fax": "0361 573638-111",
-		"mail": "poststelle@finanzamt-ilmenau.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-ilmenau/"
+		"tel": "0361 573638-900"
 	},
 	{
 		"buFaNr": "4155",
@@ -4668,10 +4657,7 @@
 			"plz": "99817",
 			"ort": "Eisenach"
 		},
-		"tel": "0361 573617-000",
-		"fax": "0361 573617-010",
-		"mail": "poststelle@finanzamt-eisenach.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-eisenach/"
+		"tel": "0361 573617-900"
 	},
 	{
 		"buFaNr": "4156",
@@ -4683,10 +4669,7 @@
 			"plz": "99867",
 			"ort": "Gotha"
 		},
-		"tel": "0361 573637-000",
-		"fax": "0361 573637-100",
-		"mail": "poststelle@finanzamt-gotha.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-gotha"
+		"tel": "0361 573637-900"
 	},
 	{
 		"buFaNr": "4157",
@@ -4697,10 +4680,7 @@
 			"plz": "99974",
 			"ort": "Mühlhausen"
 		},
-		"tel": "0361 573613-000",
-		"fax": "0361 573613-100",
-		"mail": "poststelle@finanzamt-muehlhausen.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-muehlhausen/"
+		"tel": "0361 573613-900"
 	},
 	{
 		"buFaNr": "4159",
@@ -4711,10 +4691,7 @@
 			"plz": "99706",
 			"ort": "Sondershausen"
 		},
-		"tel": "0361 573639-000",
-		"fax": "0361 573639-555",
-		"mail": "poststelle@finanzamt-sondershausen.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-sondershausen/"
+		"tel": "0361 573639-900"
 	},
 	{
 		"buFaNr": "4161",
@@ -4725,10 +4702,7 @@
 			"plz": "07548",
 			"ort": "Gera"
 		},
-		"tel": "0361 573625-000",
-		"fax": "0361 573625-491",
-		"mail": "poststelle@finanzamt-gera.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-gera/"
+		"tel": "0361 573625-900"
 	},
 	{
 		"buFaNr": "4162",
@@ -4739,10 +4713,7 @@
 			"plz": "07743",
 			"ort": "Jena"
 		},
-		"tel": "0361 573626-000",
-		"fax": "0361 573626-653",
-		"mail": "poststelle@finanzamt-jena.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-jena/"
+		"tel": "0361 573626-900"
 	},
 	{
 		"buFaNr": "4165",
@@ -4753,10 +4724,7 @@
 			"plz": "07381",
 			"ort": "Pößneck"
 		},
-		"tel": "0361 573624-000",
-		"fax": "0361 573624-430",
-		"mail": "poststelle@finanzamt-poessneck.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-poessneck/"
+		"tel": "0361 573624-900"
 	},
 	{
 		"buFaNr": "4166",
@@ -4767,10 +4735,7 @@
 			"plz": "04600",
 			"ort": "Altenburg"
 		},
-		"tel": "0361 573623-000",
-		"fax": "0361 573623-200",
-		"mail": "poststelle@finanzamt-altenburg.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-altenburg/"
+		"tel": "0361 573623-900"
 	},
 	{
 		"buFaNr": "4170",
@@ -4781,9 +4746,7 @@
 			"plz": "98527",
 			"ort": "Suhl"
 		},
-		"tel": "0361 573619-900",
-		"mail": "poststelle@finanzamt-sued.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-suedthueringen"
+		"tel": "0361 573619-900"
 	},
 	{
 		"buFaNr": "4171",
@@ -4794,9 +4757,7 @@
 			"plz": "98527",
 			"ort": "Suhl"
 		},
-		"tel": "0361 573619-900",
-		"mail": "poststelle@finanzamt-sued.thueringen.de",
-		"url": "https://finanzamt.thueringen.de/standort/finanzamt-suedthueringen"
+		"tel": "0361 573619-900"
 	},
 	{
 		"buFaNr": "5101",
