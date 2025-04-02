@@ -368,14 +368,14 @@
 		"buFaNr": "1191",
 		"name": "Technisches Finanzamt Berlin",
 		"hausanschrift": {
-			"strasse": "Klosterstraße",
-			"hausNr": "59",
-			"plz": "10179",
+			"strasse": "Kniprodestr. ",
+			"hausNr": "31",
+			"plz": "10407",
 			"ort": "Berlin"
 		},
 		"tel": "030 9024-35 0",
 		"fax": "030 9024-35 900",
-		"mail": "poststelle@tfa.verwalt-berlin.de",
+		"mail": "poststelle@tfa.berlin.de",
 		"url": "http://www.berlin.de/sen/finanzen"
 	},
 	{
@@ -2739,8 +2739,8 @@
 			"plz": "78166",
 			"ort": "Donaueschingen"
 		},
-		"tel": "0771 808-0",
-		"fax": "0771 808-359",
+		"tel": "07721 923-0",
+		"fax": "07721 923-100",
 		"url": "https://Kontakt.fv-bwl.de"
 	},
 	{
