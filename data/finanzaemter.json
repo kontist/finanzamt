@@ -306,10 +306,9 @@
 		"buFaNr": "1134",
 		"name": "Mitte/Tiergarten",
 		"hausanschrift": {
-			"strasse": "Neue Jakobstraße",
-			"hausNr": "6",
-			"hausNrZusatz": "-7",
-			"plz": "10179",
+			"strasse": "Otto-Braun-Str.",
+			"hausNr": "70",
+			"plz": "10178",
 			"ort": "Berlin"
 		},
 		"tel": "030 9024-22 0",
